@@ -1,4 +1,49 @@
+# Bland et al., 2023
+
 [![CC BY 4.0][cc-by-shield]][cc-by]
+
+Complete analysis code for Bland et al., 2023
+
+## Installation
+
+To install on your local machine, run the following:
+
+&#8291;1. Clone the repository:
+
+    git clone https://github.com/tsmbland/Bland-et-al-2023.git
+    cd Bland-et-al-2023
+
+&#8291;2. Create conda environment:
+
+    conda env create -f environment.yml
+
+&#8291;3. Activate conda environment:
+
+    conda activate par2_paper
+
+## Core code
+
+Core code is found in _src_.
+This includes the image quantification model and the dimer model fitting pipeline.
+
+## Notebooks
+
+Notebooks used to perform the analysis in the paper and generate all the figures are found in _scripts_.
+This is split into three sections:
+
+- __Demonstration__: a few notebooks to walk through the image quantification pipeline (to do)
+- __Raw analysis__: notebooks used to perform quantification on raw images. Running these scripts requires access to the
+  main data repository (i.e. image files), which can be made available on request
+- __Downstream analysis and figures__: notebooks used to perform downstream analysis on the quantification results from
+  above and generate figures.
+  Most of these can be run without access to the main data repository, but some do require access to raw data (these
+  notebooks are
+  marked with an underscore at the end of the file name).
+  Also includes SEC-MALS analysis and modelling
+
+## Binder (to do)
+
+Demonstration notebooks can be run in the cloud by clicking the 'launch binder' button at the top.
 
 ## License
 
