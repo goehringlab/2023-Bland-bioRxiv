@@ -2,3 +2,4 @@ scripts/Illustrator/
 scripts/Other/
 .ipynb_checkpoints
 .DS_Store
+.idea/
