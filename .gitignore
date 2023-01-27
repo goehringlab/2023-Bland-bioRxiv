@@ -3,3 +3,4 @@ scripts/Other/
 .ipynb_checkpoints
 .DS_Store
 .idea/
+/scripts/Raw analysis/Tidy.ipynb

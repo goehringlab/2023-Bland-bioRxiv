@@ -36,6 +36,19 @@ This is split into two sections:
   marked with an underscore at the end of the file name).
   Also includes SEC-MALS analysis and modelling
 
+## Full analysis
+
+To perform all analysis and generate all figures:
+
+    cd scripts
+    python run_all_notebooks.py
+
+Will take around half an hour depending on the machine. If you don't have access to the raw data set, run
+
+    python run_all_notebooks.py --data-access=False
+
+and it will only run notebooks that don't require raw data access
+
 ## License
 
 This work is licensed under a

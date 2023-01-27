@@ -7,7 +7,7 @@ from discco import ImageQuant2
 
 np.random.seed(12345)
 
-data_path = '/Users/blandt/Desktop/Paper data/'
+data_path = '/Users/blandt/Desktop/PaperData/'
 
 
 def lighten(color, amount=1.8):
