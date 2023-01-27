@@ -21,17 +21,12 @@ To install on your local machine, run the following:
 
     conda activate par2_paper
 
-## Core code
-
-Core code is found in _src_.
-This includes the image quantification model and the dimer model fitting pipeline.
 
 ## Notebooks
 
 Notebooks used to perform the analysis in the paper and generate all the figures are found in _scripts_.
-This is split into three sections:
+This is split into two sections:
 
-- __Demonstration__: a few notebooks to walk through the image quantification pipeline (to do)
 - __Raw analysis__: notebooks used to perform quantification on raw images. Running these scripts requires access to the
   main data repository (i.e. image files), which can be made available on request
 - __Downstream analysis and figures__: notebooks used to perform downstream analysis on the quantification results from
@@ -40,10 +35,6 @@ This is split into three sections:
   notebooks are
   marked with an underscore at the end of the file name).
   Also includes SEC-MALS analysis and modelling
-
-## Binder (to do)
-
-Demonstration notebooks can be run in the cloud by clicking the 'launch binder' button at the top.
 
 ## License
 

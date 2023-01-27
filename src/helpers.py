@@ -2,7 +2,8 @@ import numpy as np
 from matplotlib.ticker import FuncFormatter
 import pandas as pd
 import seaborn as sns
-from discco import *
+from par_segmentation import *
+from discco import ImageQuant2
 
 np.random.seed(12345)
 
