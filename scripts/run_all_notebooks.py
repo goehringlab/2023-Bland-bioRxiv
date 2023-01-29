@@ -39,7 +39,7 @@ for i, f in enumerate(file_list):
         nb = nbformat.read(file, as_version=4)
         ep = ExecutePreprocessor(kernel_name='python3')
         try:
-            print('Running', f, ':', i, '/', num_notebooks)
+            print('Running', f, ':', i + 1, '/', num_notebooks)
             out = ep.preprocess(nb, {'metadata': {'path': run_path}})
         except CellExecutionError:
             out = None
