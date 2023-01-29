@@ -10,7 +10,7 @@ To install on your local machine, run the following:
 
 &#8291;1. Clone the repository:
 
-    git clone https://github.com/tsmbland/Bland-et-al-2023.git
+    git clone --depth 1 https://github.com/tsmbland/Bland-et-al-2023.git
     cd Bland-et-al-2023
 
 &#8291;2. Create conda environment:
