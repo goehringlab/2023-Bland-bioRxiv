@@ -12,13 +12,12 @@ Model
 
 def model_m_from_c(ka, km, c):
     # See notebook 'Dimer model solving'
-    return c * km * (c * ka * km * (2.0 * c * ka + 2.0 * np.sqrt(c * ka + 0.25) + 1.0) + 4.24264068711928 * np.sqrt(
-        0.222222222222222 * c ** 3 * ka ** 3 + 0.666666666666667 * c ** 2 * ka ** 2 * (
-                c * ka + 0.25) ** 0.5 + c ** 2 * ka ** 2 + 0.888888888888889 * c * ka * (
-                c * ka + 0.25) ** 0.5 + 0.666666666666667 * c * ka + 0.222222222222222 * (
-                c * ka + 0.25) ** 0.5 + 0.111111111111111)) / (
-                   2.0 * c ** 2 * ka ** 2 + 4.0 * c * ka * (c * ka + 0.25) ** 0.5 + 4.0 * c * ka + 2.0 * (
-                   c * ka + 0.25) ** 0.5 + 1.0)
+    return c * km * (2 * c * ka * km * (4 * c * ka + np.sqrt(8 * c * ka + 1) + 1) + np.sqrt(
+        32 * c ** 3 * ka ** 3 + 24 * c ** 2 * ka ** 2 * np.sqrt(
+            8 * c * ka + 1) + 72 * c ** 2 * ka ** 2 + 16 * c * ka * np.sqrt(8 * c * ka + 1) + 24 * c * ka + 2 * np.sqrt(
+            8 * c * ka + 1) + 2)) / (
+                   8 * c ** 2 * ka ** 2 + 4 * c * ka * np.sqrt(8 * c * ka + 1) + 8 * c * ka + np.sqrt(
+               8 * c * ka + 1) + 1)
 
 
 # Note: from here on ka and km are expressed in log10 format
