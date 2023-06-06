@@ -24,7 +24,7 @@ To install on your local machine, run the following:
 
 ## Data
 
-Think about options for making entire dataset publicly available (e.g. EBI BioImage archive)
+Think about options for making entire dataset publicly available
 
 ## Notebooks
 
