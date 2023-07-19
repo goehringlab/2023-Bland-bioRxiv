@@ -8,7 +8,8 @@ from discco import ImageQuant2
 np.random.seed(12345)
 
 data_path = '/Users/blandt/Desktop/PaperData/'
-
+if data_path:
+    data_access = True
 
 def lighten(color, amount=1.8):
     import matplotlib.colors as mc
