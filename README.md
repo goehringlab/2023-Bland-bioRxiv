@@ -31,9 +31,9 @@ Think about options for making entire dataset publicly available
 Notebooks used to perform the analysis in the paper and generate all the figures are found in _scripts_.
 This is split into two sections:
 
-- __Raw analysis__: notebooks used to perform quantification on raw images. Running these scripts requires access to the
+- __Run__: notebooks used to perform quantification on raw images. Running these scripts requires access to the
   main data repository (i.e. image files). 
-- __Downstream analysis and figures__: notebooks used to perform downstream analysis on the quantification results from
+- __Analysis__: notebooks used to perform downstream analysis on the quantification results from
   above and generate figures.
   Most of these can be run without access to the main data repository, but some do require access to raw data (e.g. figures showing specific embryos).
   These notebooks are marked with an underscore at the end of their file name.

@@ -7,31 +7,18 @@ import os
 import nbformat
 from nbconvert.preprocessors import ExecutePreprocessor
 from nbconvert.preprocessors.execute import CellExecutionError
-import argparse
-
-# Parse args
-parser = argparse.ArgumentParser()
-parser.add_argument("-d", "--data-access", default="True", required=False)
-args = parser.parse_args()
-data_access = args.data_access == "True"
 
 # Gather file list
 file_list1 = []
-for p in direcslist("Raw analysis"):
+for p in direcslist("Run"):
     file_list1.extend(glob.glob(p + "/*.ipynb"))
 file_list1 = sorted(file_list1)
+
 file_list2 = []
-for p in direcslist("Downstream analysis and figures"):
+for p in direcslist("Analysis"):
     file_list2.extend(glob.glob(p + "/*.ipynb"))
 file_list2 = sorted(file_list2)
-
-# Filter file list
-if not data_access:
-    file_list = [
-        f for f in file_list2 if not f[-7] == "_"
-    ]  # remove scripts that require raw data
-else:
-    file_list = file_list1 + file_list2
+file_list = file_list1 + file_list2
 
 # Execute notebooks and output
 num_notebooks = len(file_list)
