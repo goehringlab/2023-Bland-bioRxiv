@@ -5,5 +5,5 @@ scripts/Other/
 .ipynb_checkpoints
 .DS_Store
 .idea/
-/scripts/Raw analysis/Tidy.ipynb
+/scripts/Run/Tidy.ipynb
 Figs
