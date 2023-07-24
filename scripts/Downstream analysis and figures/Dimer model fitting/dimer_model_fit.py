@@ -12,60 +12,84 @@ Model
 
 def model_m_from_c(ka, km, c):
     # See notebook 'Dimer model solving'
-    return c * km * (2 * c * ka * km * (4 * c * ka + np.sqrt(8 * c * ka + 1) + 1) + np.sqrt(
-        32 * c ** 3 * ka ** 3 + 24 * c ** 2 * ka ** 2 * np.sqrt(
-            8 * c * ka + 1) + 72 * c ** 2 * ka ** 2 + 16 * c * ka * np.sqrt(8 * c * ka + 1) + 24 * c * ka + 2 * np.sqrt(
-            8 * c * ka + 1) + 2)) / (
-                   8 * c ** 2 * ka ** 2 + 4 * c * ka * np.sqrt(8 * c * ka + 1) + 8 * c * ka + np.sqrt(
-               8 * c * ka + 1) + 1)
+    return (
+        c
+        * km
+        * (
+            2 * c * ka * km * (4 * c * ka + np.sqrt(8 * c * ka + 1) + 1)
+            + np.sqrt(
+                32 * c**3 * ka**3
+                + 24 * c**2 * ka**2 * np.sqrt(8 * c * ka + 1)
+                + 72 * c**2 * ka**2
+                + 16 * c * ka * np.sqrt(8 * c * ka + 1)
+                + 24 * c * ka
+                + 2 * np.sqrt(8 * c * ka + 1)
+                + 2
+            )
+        )
+        / (
+            8 * c**2 * ka**2
+            + 4 * c * ka * np.sqrt(8 * c * ka + 1)
+            + 8 * c * ka
+            + np.sqrt(8 * c * ka + 1)
+            + 1
+        )
+    )
 
 
 # Note: from here on ka and km are expressed in log10 format
 
+
 def model_unpaired(cyt, ka, km):
     c1 = cyt
-    m1 = model_m_from_c(10 ** ka, 10 ** km, c1)
+    m1 = model_m_from_c(10**ka, 10**km, c1)
     return m1
 
 
 def model_unpaired_log(logcyt, ka, km):
-    c1 = 10 ** logcyt
-    m1 = model_m_from_c(10 ** ka, 10 ** km, c1)
+    c1 = 10**logcyt
+    m1 = model_m_from_c(10**ka, 10**km, c1)
     return np.log10(m1)
 
 
 def model_paired(cyt_l109r, ka1, ka2, km):
     cyt, l109r = cyt_l109r
-    ka = (ka1 * np.array([l109r == 0])).flatten() + (ka2 * np.array([l109r == 1])).flatten()
+    ka = (ka1 * np.array([l109r == 0])).flatten() + (
+        ka2 * np.array([l109r == 1])
+    ).flatten()
     c1 = cyt
-    m1 = model_m_from_c(10 ** ka, 10 ** km, c1)
+    m1 = model_m_from_c(10**ka, 10**km, c1)
     return m1
 
 
 def model_log_paired(logcyt_l109r, ka1, ka2, km):
     logcyt, l109r = logcyt_l109r
-    cyt = 10 ** logcyt
+    cyt = 10**logcyt
     c1 = cyt
-    ka = (ka1 * np.array([l109r == 0])).flatten() + (ka2 * np.array([l109r == 1])).flatten()
-    m1 = model_m_from_c(10 ** ka, 10 ** km, c1)
+    ka = (ka1 * np.array([l109r == 0])).flatten() + (
+        ka2 * np.array([l109r == 1])
+    ).flatten()
+    m1 = model_m_from_c(10**ka, 10**km, c1)
     return np.log10(m1)
 
 
 def model_log_paired_D(logcyt_l109r, ka1, ka2, km, D):
     logcyt, l109r = logcyt_l109r
-    cyt = 10 ** logcyt
+    cyt = 10**logcyt
     c1 = cyt
-    ka = (ka1 * np.array([l109r == 0])).flatten() + (ka2 * np.array([l109r == 1])).flatten()
-    m1 = model_m_from_c(10 ** ka, 10 ** km, c1)
-    return np.log10(m1) * (10 ** D)
+    ka = (ka1 * np.array([l109r == 0])).flatten() + (
+        ka2 * np.array([l109r == 1])
+    ).flatten()
+    m1 = model_m_from_c(10**ka, 10**km, c1)
+    return np.log10(m1) * (10**D)
 
 
 def monomer_fraction(conc, ka):
-    return ((np.sqrt(4 * conc * (10 ** ka) + 1) - 1) / (2 * (10 ** ka))) / conc
+    return ((np.sqrt(4 * conc * (10**ka) + 1) - 1) / (2 * (10**ka))) / conc
 
 
 def dimer_fraction(conc, ka):
-    return 1 - (((np.sqrt(4 * conc * (10 ** ka) + 1) - 1) / (2 * (10 ** ka))) / conc)
+    return 1 - (((np.sqrt(4 * conc * (10**ka) + 1) - 1) / (2 * (10**ka))) / conc)
 
 
 """
@@ -130,8 +154,8 @@ class EnergiesConfidenceIntervalUnpaired:
         self.ka_full = popt_full[0]
         self.km_full = popt_full[1]
         if self.log:
-            self.cyt_dim = 100 * dimer_fraction(10 ** self.res_x, self.ka_full)
-            self.mem_dim = 100 * dimer_fraction(10 ** self.res_y, self.ka_full)
+            self.cyt_dim = 100 * dimer_fraction(10**self.res_x, self.ka_full)
+            self.mem_dim = 100 * dimer_fraction(10**self.res_y, self.ka_full)
         else:
             self.cyt_dim = 100 * dimer_fraction(self.res_x, self.ka_full)
             self.mem_dim = 100 * dimer_fraction(self.res_y, self.ka_full)
@@ -148,8 +172,8 @@ class EnergiesConfidenceIntervalUnpaired:
         for i, p in enumerate(params):
             all_fits[i, :] = self.model(self.res_x, *p)
             if self.log:
-                all_cyt_dim[i, :] = 100 * dimer_fraction(10 ** self.res_x, p[0])
-                all_mem_dim[i, :] = 100 * dimer_fraction(10 ** self.res_y, p[0])
+                all_cyt_dim[i, :] = 100 * dimer_fraction(10**self.res_x, p[0])
+                all_mem_dim[i, :] = 100 * dimer_fraction(10**self.res_y, p[0])
             else:
                 all_cyt_dim[i, :] = 100 * dimer_fraction(self.res_x, p[0])
                 all_mem_dim[i, :] = 100 * dimer_fraction(self.res_y, p[0])
@@ -167,7 +191,9 @@ class EnergiesConfidenceIntervalUnpaired:
             bounds[0][0], bounds[1][0] = self.p0[0] - epsilon, self.p0[0] + epsilon
         p0 = self.p0
 
-        popt, pcov = curve_fit(self.model, cyt, mem, maxfev=1000000, p0=p0, bounds=bounds)
+        popt, pcov = curve_fit(
+            self.model, cyt, mem, maxfev=1000000, p0=p0, bounds=bounds
+        )
         params = popt
         return params
 
@@ -180,15 +206,24 @@ class EnergiesConfidenceIntervalUnpaired:
 
 
 class EnergiesConfidenceIntervalPaired:
-    def __init__(self, df, region='post', log=False, p0=(15, 15, 5), fix_wt=False, fix_mut=False, fit_D=False):
+    def __init__(
+        self,
+        df,
+        region="post",
+        log=False,
+        p0=(15, 15, 5),
+        fix_wt=False,
+        fix_mut=False,
+        fit_D=False,
+    ):
         # Import data
         self.log = log
-        if region == 'post':
+        if region == "post":
             if self.log:
                 mems = np.log10(df.Mem_post.to_numpy())
             else:
                 mems = df.Mem_post.to_numpy()
-        elif region == 'whole':
+        elif region == "whole":
             if self.log:
                 mems = np.log10(df.Mem_tot.to_numpy())
             else:
@@ -200,7 +235,7 @@ class EnergiesConfidenceIntervalPaired:
             self.cyts = np.log10(df.Cyt.to_numpy())
         else:
             self.cyts = df.Cyt.to_numpy()
-        self.l109r = (df.Genotype == 'L109R').to_numpy() * 1
+        self.l109r = (df.Genotype == "L109R").to_numpy() * 1
         self.unipol = df.UniPol.tolist()
         self.p0 = p0
         self.fix_wt = fix_wt
@@ -236,13 +271,26 @@ class EnergiesConfidenceIntervalPaired:
         self.run()
 
     def run(self, n_bootstrap=1000, n_x=100, interval=95):
-
         # Analysing full dataset
         popt_full = self.single_fit([self.cyts, self.l109r], self.mems)
-        self.res_x = [np.linspace(np.min(self.cyts[self.l109r == 0]), np.max(self.cyts[self.l109r == 0]), n_x),
-                      np.linspace(np.min(self.cyts[self.l109r == 1]), np.max(self.cyts[self.l109r == 1]), n_x)]
-        self.res_y[0] = self.model([self.res_x[0], np.zeros(len(self.res_x[0]))], *popt_full)
-        self.res_y[1] = self.model([self.res_x[1], np.ones(len(self.res_x[1]))], *popt_full)
+        self.res_x = [
+            np.linspace(
+                np.min(self.cyts[self.l109r == 0]),
+                np.max(self.cyts[self.l109r == 0]),
+                n_x,
+            ),
+            np.linspace(
+                np.min(self.cyts[self.l109r == 1]),
+                np.max(self.cyts[self.l109r == 1]),
+                n_x,
+            ),
+        ]
+        self.res_y[0] = self.model(
+            [self.res_x[0], np.zeros(len(self.res_x[0]))], *popt_full
+        )
+        self.res_y[1] = self.model(
+            [self.res_x[1], np.ones(len(self.res_x[1]))], *popt_full
+        )
         self.ka_full = [popt_full[0], popt_full[1]]
         self.km_full = popt_full[2]
         if self.fit_D:
@@ -268,7 +316,9 @@ class EnergiesConfidenceIntervalPaired:
         all_cyt_dim0 = np.zeros([n_bootstrap, n_x])
         all_mem_dim0 = np.zeros([n_bootstrap, n_x])
         for i, p in enumerate(params):
-            all_fits0[i, :] = self.model([self.res_x[0], np.zeros(len(self.res_x[0]))], *p)
+            all_fits0[i, :] = self.model(
+                [self.res_x[0], np.zeros(len(self.res_x[0]))], *p
+            )
             if self.log:
                 all_cyt_dim0[i, :] = 100 * dimer_fraction(10 ** self.res_x[0], p[0])
                 all_mem_dim0[i, :] = 100 * dimer_fraction(10 ** self.res_y[0], p[0])
@@ -277,16 +327,22 @@ class EnergiesConfidenceIntervalPaired:
                 all_mem_dim0[i, :] = 100 * dimer_fraction(self.res_y[0], p[0])
         self.all_fits_lower[0] = np.percentile(all_fits0, (100 - interval) / 2, axis=0)
         self.all_fits_upper[0] = np.percentile(all_fits0, 50 + (interval / 2), axis=0)
-        self.cyt_dim_lower[0] = np.percentile(all_cyt_dim0, (100 - interval) / 2, axis=0)
+        self.cyt_dim_lower[0] = np.percentile(
+            all_cyt_dim0, (100 - interval) / 2, axis=0
+        )
         self.cyt_dim_upper[0] = np.percentile(all_cyt_dim0, 50 + (interval / 2), axis=0)
-        self.mem_dim_lower[0] = np.percentile(all_mem_dim0, (100 - interval) / 2, axis=0)
+        self.mem_dim_lower[0] = np.percentile(
+            all_mem_dim0, (100 - interval) / 2, axis=0
+        )
         self.mem_dim_upper[0] = np.percentile(all_mem_dim0, 50 + (interval / 2), axis=0)
 
         all_fits1 = np.zeros([n_bootstrap, n_x])
         all_cyt_dim1 = np.zeros([n_bootstrap, n_x])
         all_mem_dim1 = np.zeros([n_bootstrap, n_x])
         for i, p in enumerate(params):
-            all_fits1[i, :] = self.model([self.res_x[1], np.ones(len(self.res_x[1]))], *p)
+            all_fits1[i, :] = self.model(
+                [self.res_x[1], np.ones(len(self.res_x[1]))], *p
+            )
             if self.log:
                 all_cyt_dim1[i, :] = 100 * dimer_fraction(10 ** self.res_x[1], p[1])
                 all_mem_dim1[i, :] = 100 * dimer_fraction(10 ** self.res_y[1], p[1])
@@ -295,13 +351,16 @@ class EnergiesConfidenceIntervalPaired:
                 all_mem_dim1[i, :] = 100 * dimer_fraction(self.res_y[1], p[1])
         self.all_fits_lower[1] = np.percentile(all_fits1, (100 - interval) / 2, axis=0)
         self.all_fits_upper[1] = np.percentile(all_fits1, 50 + (interval / 2), axis=0)
-        self.cyt_dim_lower[1] = np.percentile(all_cyt_dim1, (100 - interval) / 2, axis=0)
+        self.cyt_dim_lower[1] = np.percentile(
+            all_cyt_dim1, (100 - interval) / 2, axis=0
+        )
         self.cyt_dim_upper[1] = np.percentile(all_cyt_dim1, 50 + (interval / 2), axis=0)
-        self.mem_dim_lower[1] = np.percentile(all_mem_dim1, (100 - interval) / 2, axis=0)
+        self.mem_dim_lower[1] = np.percentile(
+            all_mem_dim1, (100 - interval) / 2, axis=0
+        )
         self.mem_dim_upper[1] = np.percentile(all_mem_dim1, 50 + (interval / 2), axis=0)
 
     def single_fit(self, cyt_l109r, mem):
-
         if not self.fit_D:
             bounds = [[-np.inf, -np.inf, -np.inf], [np.inf, np.inf, np.inf]]
             epsilon = 0.00000001
@@ -311,7 +370,10 @@ class EnergiesConfidenceIntervalPaired:
                 bounds[0][1], bounds[1][1] = self.p0[1] - epsilon, self.p0[1] + epsilon
             p0 = self.p0
         else:
-            bounds = [[-np.inf, -np.inf, -np.inf, -np.inf], [np.inf, np.inf, np.inf, np.inf]]
+            bounds = [
+                [-np.inf, -np.inf, -np.inf, -np.inf],
+                [np.inf, np.inf, np.inf, np.inf],
+            ]
             epsilon = 0.00000001
             if self.fix_wt:
                 bounds[0][0], bounds[1][0] = self.p0[0] - epsilon, self.p0[0] + epsilon
@@ -320,7 +382,9 @@ class EnergiesConfidenceIntervalPaired:
             p0 = list(self.p0)
             p0.append(0)
 
-        popt, pcov = curve_fit(self.model, np.array(cyt_l109r), mem, maxfev=10000000, p0=p0, bounds=bounds)
+        popt, pcov = curve_fit(
+            self.model, np.array(cyt_l109r), mem, maxfev=10000000, p0=p0, bounds=bounds
+        )
         params = popt
         return params
 

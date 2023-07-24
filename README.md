@@ -91,23 +91,6 @@ Figure S5: B, C\
 Table S1\
 Table S3
 
-## Full analysis
-
-To perform all analysis and generate all figures:
-
-    cd scripts
-    python run_all_notebooks.py
-
-This will create and populate a series of 'Figs' folders in _scripts_ containing PNGs of individual figure panels.
-Will take around half an hour to run depending on the machine.
-Note, running the complete analysis requires access to raw data.
-If you have access to this data, be sure to specify the _data_path_ variable in _src/helpers.py_.
-If you don't have access to the raw data set, run
-
-    python run_all_notebooks.py --data-access=False
-
-and it will only run notebooks that don't require raw data access. 
-
 ## License
 
 This work is licensed under a
