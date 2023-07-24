@@ -15,7 +15,7 @@ from par_segmentation import (
 )
 from discco import ImageQuant2
 from .helpers import (
-    data_path,
+    raw_data_path,
     lighten,
     fake_log,
     minor_ticks,

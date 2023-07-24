@@ -4,7 +4,7 @@ import random
 
 np.random.seed(12345)
 
-data_path = "/Users/blandt/Desktop/PaperData/"
+raw_data_path = "/Users/blandt/Desktop/PaperData/"
 
 
 def lighten(color, amount=1.8):
