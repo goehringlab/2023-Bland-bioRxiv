@@ -1,34 +1,17 @@
-# Bland et al., 2023
+## Optimized dimerization of the PAR-2 RING domain drives cooperative and selective membrane recruitment for robust feedback-driven cell polarization 
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
-Complete analysis code for Bland et al., 2023
-
-## Installation
-
-To install on your local machine, run the following:
-
-&#8291;1. Clone the repository:
-
-    git clone --depth 1 https://github.com/tsmbland/Bland-et-al-2023.git
-    cd Bland-et-al-2023
-
-&#8291;2. Create conda environment:
-
-    conda env create -f environment.yml
-
-&#8291;3. Activate conda environment:
-
-    conda activate par2_paper
+Complete analysis code for the paper `"Optimized dimerization of the PAR-2 RING domain drives cooperative and selective membrane recruitment for robust feedback-driven cell polarization" (Bland et al., 2023)`
 
 
-## Data
+## Data availability
 
 The entire dataset will be made publicly available 
 
-## Notebooks
+## Code structure
 
-Notebooks used to perform the analysis in the paper and generate all the figures are found in _scripts_.
+Notebooks used to perform the analysis in the paper and generate all the figure panels are found in _scripts_.
 This is split into two sections:
 
 - __Run__: notebooks used to perform quantification on raw images, and save results in the _data_ folder (e.g. _ph_quantify.ipynb_ outputs the data file _ph_quantification.csv_). Running these scripts requires access to the raw data repository (i.e. image files). 
@@ -87,6 +70,23 @@ Figure S8: [B-D][a9263]\
 Figure S9: [A-D][a6824]\
 [Table S2][a4134]\
 [Table S4][a1912]
+
+## Installation
+
+To install on your local machine, run the following:
+
+&#8291;1. Clone the repository:
+
+    git clone --depth 1 https://github.com/tsmbland/Bland-et-al-2023.git
+    cd Bland-et-al-2023
+
+&#8291;2. Create conda environment:
+
+    conda env create -f environment.yml
+
+&#8291;3. Activate conda environment:
+
+    conda activate par2_paper
 
 ## License
 
