@@ -31,8 +31,8 @@ The entire dataset will be made publicly available
 Notebooks used to perform the analysis in the paper and generate all the figures are found in _scripts_.
 This is split into two sections:
 
-- __Run__: notebooks used to perform quantification on raw images, and save results in the _data_ folder. Running these scripts requires access to the main data repository (i.e. image files). 
-- __Analysis__: notebooks used to perform downstream analysis on the quantification results from above and generate figure panels (which are saved in a series of '_Figs_' folders). Most figures can be created without access to the main data repository, but some do require access to raw data (e.g. panels displaying specific images). Also includes SEC-MALS analysis and modelling.
+- __Run__: notebooks used to perform quantification on raw images, and save results in the _data_ folder (e.g. _ph_quantify.ipynb_ outputs the data file _ph_quantification.csv_). Running these scripts requires access to the raw data repository (i.e. image files). 
+- __Analysis__: notebooks used to perform downstream analysis on the quantification results from above and generate figure panels (which are saved in a series of '_Figs_' folders). Most figures can be created without access to the raw data repository, but some do require access to raw data (e.g. panels displaying specific images). Also includes SEC-MALS analysis and modelling.
 
 Notebooks for creating specific figure panels:
 
