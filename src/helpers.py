@@ -6,6 +6,10 @@ np.random.seed(12345)
 
 raw_data_path = "/Users/blandt/Desktop/PaperData/"
 
+"""
+Plotting
+
+"""
 
 def lighten(color, amount=1.8):
     import matplotlib.colors as mc
@@ -83,6 +87,11 @@ def log_molar_to_micromolar(x, pos):
     "The two args are the value and tick position"
     return r"$10^{%d}$" % (x + 6)
 
+
+"""
+Array manipulation
+
+"""
 
 def fold(array):
     return (array[:50][::-1] + array[50:]) / 2

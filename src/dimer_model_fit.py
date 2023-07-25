@@ -1,8 +1,5 @@
 import numpy as np
-import scipy.odr as odr
 from scipy.optimize import curve_fit
-import scipy.stats as st
-import matplotlib.pyplot as plt
 
 """
 Model

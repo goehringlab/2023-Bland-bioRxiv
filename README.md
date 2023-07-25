@@ -71,6 +71,8 @@ Figure S9: [A-D][a6824]\
 [Table S2][a4134]\
 [Table S4][a1912]
 
+Core code is found in _src_ as well as two additional git repositories: [par-segmentation](https://github.com/tsmbland/par-segmentation) and [discco](https://github.com/tsmbland/discco)
+
 ## Installation
 
 To install on your local machine, run the following:

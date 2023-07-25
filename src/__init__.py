@@ -23,3 +23,6 @@ from .helpers import (
     log_molar_to_micromolar,
     fold,
 )
+
+from. dimer_model_fit import EnergiesConfidenceIntervalPaired
+
