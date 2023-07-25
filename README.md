@@ -24,72 +24,69 @@ To install on your local machine, run the following:
 
 ## Data
 
-Think about options for making entire dataset publicly available
+The entire dataset will be made publicly available 
 
 ## Notebooks
 
 Notebooks used to perform the analysis in the paper and generate all the figures are found in _scripts_.
 This is split into two sections:
 
-- __Run__: notebooks used to perform quantification on raw images. Running these scripts requires access to the
-  main data repository (i.e. image files). 
-- __Analysis__: notebooks used to perform downstream analysis on the quantification results from
-  above and generate figures.
-  Most of these can be run without access to the main data repository, but some do require access to raw data (e.g. figures showing specific embryos).
-  These notebooks are marked with an underscore at the end of their file name.
-  Also includes SEC-MALS analysis and modelling.
+- __Run__: notebooks used to perform quantification on raw images, and save results in the _data_ folder. Running these scripts requires access to the main data repository (i.e. image files). 
+- __Analysis__: notebooks used to perform downstream analysis on the quantification results from above and generate figure panels (which are saved in a series of '_Figs_' folders). Most figures can be created without access to the main data repository, but some do require access to raw data (e.g. panels displaying specific images). Also includes SEC-MALS analysis and modelling.
 
-Code for creating specific figure panels (to do: create links):
+Notebooks for creating specific figure panels:
 
-[n0]: scripts/Downstream%20analysis%20and%20figures/Dimer%20model%20fitting/00%20ProcessData.ipynb
-[n1]: scripts/Downstream%20analysis%20and%20figures/Dimer%20model%20fitting/01%20Figures.ipynb
-[n2]: scripts/Downstream%20analysis%20and%20figures/Dimer%20model%20fitting/01%20Figures2.ipynb
-[n3]: scripts/Downstream%20analysis%20and%20figures/Dimer%20model%20fitting/02%20All%20fits.ipynb
-[n4]: scripts/Downstream%20analysis%20and%20figures/Dimer%20model%20solving/01%20Solve%20model.ipynb
-[n5]: scripts/Downstream%20analysis%20and%20figures/GCN4/Figures%20PRBH_.ipynb
-[n6]: scripts/Downstream%20analysis%20and%20figures/GCN4/Figures%20S241A_.ipynb
-[n7]: scripts/Downstream%20analysis%20and%20figures/GCN4/Figures%20fragment_.ipynb
-[n8]: scripts/Downstream%20analysis%20and%20figures/GCN4/Figures%20par3%20mut_.ipynb
-[n9]: scripts/Downstream%20analysis%20and%20figures/GCN4/Figures_.ipynb
-[n10]: scripts/Downstream%20analysis%20and%20figures/Model%20nonlinearity/Figs.ipynb
-[n11]: scripts/Downstream%20analysis%20and%20figures/Optogenetics%20analysis/Optogenetics%20figures_.ipynb
-[n12]: scripts/Downstream%20analysis%20and%20figures/PH%20rundown/Figs_log_transformed.ipynb
-[n13]: scripts/Downstream%20analysis%20and%20figures/Polarised%20vs%20uniform/Figures_.ipynb
-[n14]: scripts/Downstream%20analysis%20and%20figures/Quantification%20method/Comparison%20to%20old%20method_.ipynb
-[n15]: scripts/Downstream%20analysis%20and%20figures/Quantification%20method/Schematic%20membrane%20profile.ipynb
-[n16]: scripts/Downstream%20analysis%20and%20figures/Quantification%20method/Schematic.ipynb
-[n17]: scripts/Downstream%20analysis%20and%20figures/Quantification%20model%20calibration%20comparison/Figures%20bgcurves.ipynb
-[n18]: scripts/Downstream%20analysis%20and%20figures/Quantification%20summary%20table/Results%20table%202.ipynb
-[n19]: scripts/Downstream%20analysis%20and%20figures/Quantification%20summary%20table/Results%20table.ipynb
-[n20]: scripts/Downstream%20analysis%20and%20figures/RING%20PH/Figures_.ipynb
-[n21]: scripts/Downstream%20analysis%20and%20figures/RING%20combined%20mutants/Untitled.ipynb
-[n22]: scripts/Downstream%20analysis%20and%20figures/RING%20fragment/Figures_.ipynb
-[n23]: scripts/Downstream%20analysis%20and%20figures/Rundowns%20regression/Fitting%20log%20transformed.ipynb
-[n24]: scripts/Downstream%20analysis%20and%20figures/Rundowns%20regression/Schematic.ipynb
-[n25]: scripts/Downstream%20analysis%20and%20figures/SEC%20MALS/Titration_curves.ipynb
-[n26]: scripts/Downstream%20analysis%20and%20figures/SEC%20MALS/Traces_.ipynb
-[n27]: scripts/Downstream%20analysis%20and%20figures/SEC%20MALS/xml_extract_.ipynb
-[n28]: scripts/Downstream%20analysis%20and%20figures/SEC%20MALS/xml_extract_L109R_.ipynb
-[n29]: scripts/Downstream%20analysis%20and%20figures/Three%20compartment%20model/Equilibrium.ipynb
-[n30]: scripts/Downstream%20analysis%20and%20figures/Three%20compartment%20model/Kinetic.ipynb
-[n31]: scripts/Downstream%20analysis%20and%20figures/Three%20compartment%20model/Prefactor.ipynb
-[n32]: scripts/Downstream%20analysis%20and%20figures/mlc-4%20RNAi/Quantification%20figs.ipynb
-[n33]: scripts/Downstream%20analysis%20and%20figures/mlc-4%20RNAi/SAIBR%20figs_.ipynb
-[n34]: scripts/Downstream%20analysis%20and%20figures/nop-1/2cell%20asymmetry.ipynb
-[n35]: scripts/Downstream%20analysis%20and%20figures/nop-1/Lethality.ipynb
+[a5302]: scripts/Analysis/6HNL/6HNL.ipynb
+[a1912]: scripts/Analysis/DimerModelFitting/02_AllFits.ipynb
+[a5698]: scripts/Analysis/DimerModelFitting/00_ProcessData.ipynb
+[a6801]: scripts/Analysis/DimerModelFitting/01_Figures.ipynb
+[a5093]: scripts/Analysis/DimerModelSolving/SolveModel.ipynb
+[a6684]: scripts/Analysis/GCN4/Fragment.ipynb
+[a5514]: scripts/Analysis/GCN4/Par3Mut.ipynb
+[a1834]: scripts/Analysis/GCN4/Par2GCN4.ipynb
+[a9246]: scripts/Analysis/GCN4/PRBH.ipynb
+[a9263]: scripts/Analysis/Meiosis/Figures.ipynb
+[a9397]: scripts/Analysis/Mlc4/SAIBR.ipynb
+[a4186]: scripts/Analysis/Mlc4/Quantification.ipynb
+[a5886]: scripts/Analysis/ModelNonlinearity/Figs.ipynb
+[a3255]: scripts/Analysis/Nop1/Lethality.ipynb
+[a3572]: scripts/Analysis/Nop1/2cellAsymmetry.ipynb
+[a9147]: scripts/Analysis/Optogenetics/Optogenetics.ipynb
+[a0226]: scripts/Analysis/PhRundown/FigsLogTransformed.ipynb
+[a1487]: scripts/Analysis/PolarisedVsUniform/Figures.ipynb
+[a2111]: scripts/Analysis/QuantificationCalibrationComparison/Figures.ipynb
+[a6427]: scripts/Analysis/QuantificationMethod/MethodComparison.ipynb
+[a4447]: scripts/Analysis/QuantificationMethod/SchematicMembraneProfile.ipynb
+[a8752]: scripts/Analysis/QuantificationMethod/Schematic.ipynb
+[a4134]: scripts/Analysis/QuantificationSummaryTable/ResultsTable.ipynb
+[a7601]: scripts/Analysis/RingCombinedMutants/Figures.ipynb
+[a3603]: scripts/Analysis/RingFragment/Figures.ipynb
+[a5616]: scripts/Analysis/RingPh/Figures.ipynb
+[a6085]: scripts/Analysis/RundownsRegression/PlotLinearScale.ipynb
+[a3476]: scripts/Analysis/RundownsRegression/Schematic.ipynb
+[a8492]: scripts/Analysis/RundownsRegression/FittingLogTransformed.ipynb
+[a5498]: scripts/Analysis/SecMals/TitrationCurves.ipynb
+[a9706]: scripts/Analysis/SecMals/Traces.ipynb
+[a5004]: scripts/Analysis/SecMals/XmlExtract.ipynb
+[a6824]: scripts/Analysis/ThreeCompartmentModel/Kinetic.ipynb
+[a1883]: scripts/Analysis/ThreeCompartmentModel/Prefactor.ipynb
+[a8987]: scripts/Analysis/ThreeCompartmentModel/Equilibrium.ipynb
 
 
-Figure 1: D, E, F, G\
-Figure 2: C, D, E, F, G, H, I\
-Figure 3: B, C, D, E, F, G, H, I\
-Figure 4: A, B, C, D, E\
-Figure 5: A, C, D, E, F, G, H\
-Figure S1: C, D, F, G\
-Figure S2\
-Figure S5: B\
-Figure S5: B, C\
-Table S1\
-Table S3
+Figure 1: [D-E][a1487], [F][a0226], [G][a8492]\
+Figure 2: [A][a3603], [B][a5616], [F-G][a9706], [H][a5498], [I][a1487], [J][a8492], [K][a3572], [L][a3255]\
+Figure 3: [B-D][a5886], [F][a6801]\
+Figure 4: [A-B][a1834], [C][a6684], [D][a9397], [E][a4186]\
+Figure 5: [A][a8987], [C-D][a6824], [E-F][a5514], [G-H][a9246]\
+Figure S1: [A][a8752], [C-D][a2111], [F][a6427], [G][a9147]\
+Figure S2: [A-H][a8492]\
+Figure S4: [B][a7601]\
+Figure S6: [B-F][a6801]\
+Figure S7: [A-B][a5302]\
+Figure S8: [B-D][a9263]\
+Figure S9: [A-D][a6824]\
+[Table S2][a4134]\
+[Table S4][a1912]
 
 ## License
 

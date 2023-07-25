@@ -5,6 +5,7 @@ from src import direcslist
 import glob
 import os
 import nbformat
+import time
 from nbconvert.preprocessors import ExecutePreprocessor
 from nbconvert.preprocessors.execute import CellExecutionError
 
@@ -19,6 +20,9 @@ for p in direcslist("Analysis"):
     file_list2.extend(glob.glob(p + "/*.ipynb"))
 file_list2 = sorted(file_list2)
 file_list = file_list1 + file_list2
+
+# Start timer
+start_time = time.time()
 
 # Execute notebooks and output
 num_notebooks = len(file_list)
@@ -37,6 +41,10 @@ for i, f in enumerate(file_list):
         except TimeoutError:
             msg = 'Timeout executing the notebook "%s".\n' % f
             print(msg)
-        # finally:
-        #     # Save output
-        #     nbformat.write(nb, f)
+        finally:
+            # Save output
+            nbformat.write(nb, f)
+
+# Time elapsed
+elapsed_time = time.time() - start_time
+print('Finished! (%s minutes, %s seconds)' % (int(elapsed_time // 60), int(elapsed_time % 60)))
