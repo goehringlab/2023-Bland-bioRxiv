@@ -1,670 +1,670 @@
 ,Path,EmbryoID,Line,Date,RNAi
-0,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200129_lp637_wt_tom4,15,60/15,30_",1580292350,lp637,200129,wt
-1,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200129_lp637_wt_tom4,15,60/15,30_1",1580292382,lp637,200129,wt
-2,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200129_lp637_wt_tom4,15,60/15,30_2",1580292449,lp637,200129,wt
-3,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200129_lp637_wt_tom4,15,60/15,60_",1580292501,lp637,200129,wt
-4,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200129_lp637_wt_tom4,15,60/15,60_1",1580292520,lp637,200129,wt
-5,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200129_lp637_wt_tom4,15,60/15,60_2",1580292634,lp637,200129,wt
-6,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200129_lp637_wt_tom4,15,60/15,60_3",1580292710,lp637,200129,wt
-7,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200129_lp637_wt_tom4,15,60/15,60_4",1580292794,lp637,200129,wt
-8,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200129_lp637_wt_tom4,15,60/15,60_5",1580292871,lp637,200129,wt
-9,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200129_nwg246_wt_tom4,15,60/00",1580295502,nwg246,200129,wt
-10,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200129_nwg246_wt_tom4,15,60/01",1580295577,nwg246,200129,wt
-11,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200129_nwg246_wt_tom4,15,60/02",1580295679,nwg246,200129,wt
-12,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200129_n2_wt_tom4,15,60/00",1580296235,n2,200129,wt
-13,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200129_n2_wt_tom4,15,60/01",1580296463,n2,200129,wt
-14,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200129_n2_wt_tom4,15,60/02",1580296536,n2,200129,wt
-15,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200129_n2_wt_tom4,15,60/03",1580296662,n2,200129,wt
-16,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200129_n2_wt_tom4,15,60/04",1580296747,n2,200129,wt
-17,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_lp637_2001301800par2_tom4,15,60/00",1580465014,lp637,200131,2001301800par2
-18,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_lp637_2001301800par2_tom4,15,60/01",1580465112,lp637,200131,2001301800par2
-19,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_lp637_2001301800par2_tom4,15,60/02",1580465526,lp637,200131,2001301800par2
-20,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_lp637_2001301800par2_tom4,15,60/03",1580465615,lp637,200131,2001301800par2
-21,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_lp637_2001301800par2_tom4,15,60/04",1580465704,lp637,200131,2001301800par2
-22,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg240_2001301800par2_tom4,15,60/04",1580466071,nwg240,200131,2001301800par2
-23,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg240_2001301800par2_tom4,15,60/06",1580466278,nwg240,200131,2001301800par2
-24,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg201_2001301800par2_tom4,15,60/06",1580466806,nwg201,200131,2001301800par2
-25,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg201_2001301800par2_tom4,15,60/07",1580466933,nwg201,200131,2001301800par2
-26,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg201_2001301800par2_tom4,15,60/08",1580467263,nwg201,200131,2001301800par2
-27,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg201_2001301800par2_tom4,15,60/09",1580467394,nwg201,200131,2001301800par2
-28,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg201_2001301800par2_tom4,15,60/10",1580467481,nwg201,200131,2001301800par2
-29,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg201_2001301800par2_tom4,15,60/11",1580467559,nwg201,200131,2001301800par2
-30,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg246_2001301800par2_tom4,15,60/11",1580467889,nwg246,200131,2001301800par2
-31,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg246_2001301800par2_tom4,15,60/12",1580467957,nwg246,200131,2001301800par2
-32,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg246_2001301800par2_tom4,15,60/13",1580468038,nwg246,200131,2001301800par2
-33,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg246_2001301800par2_tom4,15,60/14",1580468171,nwg246,200131,2001301800par2
-34,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg246_2001301800par2_tom4,15,60/15",1580468248,nwg246,200131,2001301800par2
-35,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg246_2001301800par2_tom4,15,60/16",1580468375,nwg246,200131,2001301800par2
-36,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg246_2001301800par2_tom4,15,60/17",1580468567,nwg246,200131,2001301800par2
-37,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg246_2001301800par2_tom4,15,60/18",1580468791,nwg246,200131,2001301800par2
-38,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg201_wt_tom4,15,60/18",1580469608,nwg201,200131,wt
-39,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg201_wt_tom4,15,60/19",1580469705,nwg201,200131,wt
-40,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg201_wt_tom4,15,60/20",1580469806,nwg201,200131,wt
-41,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg201_wt_tom4,15,60/21",1580469929,nwg201,200131,wt
-42,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg201_wt_tom4,15,60/22",1580470040,nwg201,200131,wt
-43,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg246_wt_tom4,15,60/22",1580471040,nwg246,200131,wt
-44,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg246_wt_tom4,15,60/23",1580471142,nwg246,200131,wt
-45,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg246_wt_tom4,15,60/25",1580471468,nwg246,200131,wt
-46,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_lp637_2001310930par2_tom4,15,60/30",1580477460,lp637,200131,2001310930par2
-47,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_lp637_2001310930par2_tom4,15,60/32",1580477805,lp637,200131,2001310930par2
-48,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_lp637_2001310930par2_tom4,15,60/33",1580477895,lp637,200131,2001310930par2
-49,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_lp637_2001310930par2_tom4,15,60/34",1580478174,lp637,200131,2001310930par2
-50,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg201_2001310930par2_tom4,15,60/34",1580478374,nwg201,200131,2001310930par2
-51,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg201_2001310930par2_tom4,15,60/35",1580478458,nwg201,200131,2001310930par2
-52,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg201_2001310930par2_tom4,15,60/36",1580478555,nwg201,200131,2001310930par2
-53,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg201_2001310930par2_tom4,15,60/37",1580478641,nwg201,200131,2001310930par2
-54,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg201_2001310930par2_tom4,15,60/38",1580478817,nwg201,200131,2001310930par2
-55,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg201_2001310930par2_tom4,15,60/39",1580478938,nwg201,200131,2001310930par2
-56,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg246_2001310930par2_tom4,15,60/39",1580479283,nwg246,200131,2001310930par2
-57,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg246_2001310930par2_tom4,15,60/40",1580479354,nwg246,200131,2001310930par2
-58,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg246_2001310930par2_tom4,15,60/41",1580479504,nwg246,200131,2001310930par2
-59,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg246_2001310930par2_tom4,15,60/42",1580479596,nwg246,200131,2001310930par2
-60,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg246_2001310930par2_tom4,15,60/43",1580479778,nwg246,200131,2001310930par2
-61,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg246_2001310930par2_tom4,15,60/44",1580479887,nwg246,200131,2001310930par2
-62,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg240_2001310930par2_tom4,15,60/44",1580480520,nwg240,200131,2001310930par2
-63,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg240_2001310930par2_tom4,15,60/45",1580481331,nwg240,200131,2001310930par2
-64,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg240_2001310930par2_tom4,15,60/46",1580481412,nwg240,200131,2001310930par2
-65,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_lp637_2001310930par2_tom4,15,60/46",1580483608,lp637,200131,2001310930par2
-66,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_lp637_2001310930par2_tom4,15,60/47",1580483779,lp637,200131,2001310930par2
-67,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_lp637_2001310930par2_tom4,15,60/48",1580483848,lp637,200131,2001310930par2
-68,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg201_2001310930par2_tom4,15,60/48",1580484345,nwg201,200131,2001310930par2
-69,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg201_2001310930par2_tom4,15,60/50",1580484742,nwg201,200131,2001310930par2
-70,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg246_2001310930par2_tom4,15,60/50",1580485115,nwg246,200131,2001310930par2
-71,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg246_2001310930par2_tom4,15,60/51",1580485218,nwg246,200131,2001310930par2
-72,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg246_2001310930par2_tom4,15,60/52",1580485305,nwg246,200131,2001310930par2
-73,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg246_2001310930par2_tom4,15,60/53",1580485383,nwg246,200131,2001310930par2
-74,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg246_2001310930par2_tom4,15,60/54",1580485470,nwg246,200131,2001310930par2
-75,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg246_2001310930par2_tom4,15,60/55",1580485575,nwg246,200131,2001310930par2
-76,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg201_2001310930par2_tom4,15,60/55",1580486326,nwg201,200131,2001310930par2
-77,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg201_2001310930par2_tom4,15,60/56",1580486636,nwg201,200131,2001310930par2
-78,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg201_2001310930par2_tom4,15,60/57",1580486733,nwg201,200131,2001310930par2
-79,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_lp637_2001310930par2_tom4,15,60/58",1580491158,lp637,200131,2001310930par2
-80,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_lp637_2001310930par2_tom4,15,60/59",1580491224,lp637,200131,2001310930par2
-81,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_lp637_2001310930par2_tom4,15,60/60",1580491306,lp637,200131,2001310930par2
-82,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_lp637_2001310930par2_tom4,15,60/61",1580491323,lp637,200131,2001310930par2
-83,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_lp637_2001310930par2_tom4,15,60/62",1580491386,lp637,200131,2001310930par2
-84,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_lp637_2001310930par2_tom4,15,60/64",1580491849,lp637,200131,2001310930par2
-85,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg201_2001310930par2_tom4,15,60/64",1580491992,nwg201,200131,2001310930par2
-86,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg201_2001310930par2_tom4,15,60/65",1580492056,nwg201,200131,2001310930par2
-87,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg201_2001310930par2_tom4,15,60/66",1580492432,nwg201,200131,2001310930par2
-88,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg201_2001310930par2_tom4,15,60/67",1580492524,nwg201,200131,2001310930par2
-89,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg201_2001310930par2_tom4,15,60/68",1580492689,nwg201,200131,2001310930par2
-90,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg246_2001310930par2_tom4,15,60/69",1580493034,nwg246,200131,2001310930par2
-91,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg246_2001310930par2_tom4,15,60/70",1580493148,nwg246,200131,2001310930par2
-92,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg246_2001310930par2_tom4,15,60/71",1580493339,nwg246,200131,2001310930par2
-93,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg246_2001310930par2_tom4,15,60/72",1580493708,nwg246,200131,2001310930par2
-94,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg246_2001310930par2_tom4,15,60/73",1580493790,nwg246,200131,2001310930par2
-95,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_lp637_2001310930par2_tom4,15,60/73",1580497904,lp637,200131,2001310930par2
-96,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_lp637_2001310930par2_tom4,15,60/74",1580498051,lp637,200131,2001310930par2
-97,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_lp637_2001310930par2_tom4,15,60/75",1580498161,lp637,200131,2001310930par2
-98,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_lp637_2001310930par2_tom4,15,60/76",1580498233,lp637,200131,2001310930par2
-99,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_lp637_2001310930par2_tom4,15,60/77",1580498355,lp637,200131,2001310930par2
-100,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_lp637_2001310930par2_tom4,15,60/78",1580498426,lp637,200131,2001310930par2
-101,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg201_2001310930par2_tom4,15,60/78",1580498803,nwg201,200131,2001310930par2
-102,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg201_2001310930par2_tom4,15,60/79",1580498907,nwg201,200131,2001310930par2
-103,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg201_2001310930par2_tom4,15,60/80",1580499013,nwg201,200131,2001310930par2
-104,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg201_2001310930par2_tom4,15,60/81",1580499117,nwg201,200131,2001310930par2
-105,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg201_2001310930par2_tom4,15,60/82",1580499371,nwg201,200131,2001310930par2
-106,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/200131_nwg246_2001310930par2_tom4,15,60/82",1580499518,nwg246,200131,2001310930par2
-107,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/210409_n2_tom4,15,60/00",1617988266,n2,210409,wt
-108,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/210409_n2_tom4,15,60/01",1617988362,n2,210409,wt
-109,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/210409_n2_tom4,15,60/02",1617988428,n2,210409,wt
-110,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/210409_n2_tom4,15,60/03",1617988545,n2,210409,wt
-111,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/210409_n2_tom4,15,60/04",1617988607,n2,210409,wt
-112,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/210409_n2_tom4,15,60/05",1617988681,n2,210409,wt
-113,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/210428_nwg338_tom4,15,60/00",1619612647,nwg338,210428,wt
-114,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/210428_nwg338_tom4,15,60/01",1619613124,nwg338,210428,wt
-115,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/210428_nwg338_tom4,15,60/02",1619613192,nwg338,210428,wt
-116,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/210428_nwg338_tom4,15,60/03",1619613298,nwg338,210428,wt
-117,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/210428_nwg338_tom4,15,60/04",1619613498,nwg338,210428,wt
-118,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/210428_nwg338_tom4,15,60/05",1619614190,nwg338,210428,wt
-119,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/210428_nwg240_tom4,15,60/05",1619614395,nwg240,210428,wt
-120,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/210428_nwg240_tom4,15,60/06",1619614611,nwg240,210428,wt
-121,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/210428_nwg240_tom4,15,60/07",1619614724,nwg240,210428,wt
-122,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/210428_nwg240_tom4,15,60/08",1619614822,nwg240,210428,wt
-123,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/210428_nwg240_tom4,15,60/09",1619615013,nwg240,210428,wt
-124,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/210428_lp637_tom4,15,60/13",1619616508,lp637,210428,wt
-125,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/210428_lp637_tom4,15,60/16",1619616861,lp637,210428,wt
-126,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/210428_n2_tom4,15,60/16",1619617250,n2,210428,wt
-127,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/210428_n2_tom4,15,60/17",1619617330,n2,210428,wt
-128,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/210428_n2_tom4,15,60/18",1619617370,n2,210428,wt
-129,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/210428_n2_tom4,15,60/19",1619617679,n2,210428,wt
-130,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/210521_nwg351_tom4,15,60/00",1621592001,nwg351,210521,wt
-131,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/210521_nwg351_tom4,15,60/01",1621592113,nwg351,210521,wt
-132,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/210521_nwg351_tom4,15,60/02",1621592209,nwg351,210521,wt
-133,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/210521_nwg351_tom4,15,60/03",1621592332,nwg351,210521,wt
-134,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/210521_nwg351_tom4,15,60/04",1621592572,nwg351,210521,wt
-135,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/210722_nwg376_tom4,15,60/00",1626959137,nwg376,210722,wt
-136,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/210722_nwg376_tom4,15,60/03",1626959682,nwg376,210722,wt
-137,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/210722_nwg376_tom4,15,60/04",1626962343,nwg376,210722,wt
-138,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/210722_nwg376_tom4,15,60/05",1626962588,nwg376,210722,wt
-139,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/210722_nwg377_tom4,15,60/01",1626964098,nwg377,210722,wt
-140,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/210722_nwg377_tom4,15,60/02",1626964696,nwg377,210722,wt
-141,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/210722_lp637_tom4,15,60/00",1626965652,lp637,210722,wt
-142,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/210722_lp637_tom4,15,60/01",1626965890,lp637,210722,wt
-143,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/210722_lp637_tom4,15,60/02",1626966127,lp637,210722,wt
-144,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/210722_n2_tom4,15,60/00",1626966835,n2,210722,wt
-145,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/210722_n2_tom4,15,60/01",1626966955,n2,210722,wt
-146,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/210722_n2_tom4,15,60/02",1626967298,n2,210722,wt
-147,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/210816_nwg381_tom4,15,60/02",1629104596,nwg381,210816,wt
-148,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/210816_nwg381_tom4,15,60/03",1629105144,nwg381,210816,wt
-149,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/210816_nwg381_tom4,15,60/04",1629105744,nwg381,210816,wt
-150,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/210917_nwg400_tom4,15,60/00",1631869475,nwg400,210917,wt
-151,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/210917_nwg400_tom4,15,60/02",1631869797,nwg400,210917,wt
-152,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/210917_nwg400_tom4,15,60/03",1631869867,nwg400,210917,wt
-153,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/210930_nwg407_tom4,15,60/00",1632993829,nwg407,210930,wt
-154,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/210930_nwg407_tom4,15,60/01",1632993990,nwg407,210930,wt
-155,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/210930_nwg408_tom4,15,60/01",1632999064,nwg408,210930,wt
-156,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211106_nwg325_tom4,15,60/00",1636207243,lp637,211106,wt
-157,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211106_nwg325_tom4,15,60/01",1636207369,lp637,211106,wt
-158,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211106_nwg325_tom4,15,60/02",1636207547,lp637,211106,wt
-159,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211106_nwg325_tom4,15,60/03",1636207830,lp637,211106,wt
-160,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211106_nwg325_tom4,15,60/04",1636207917,lp637,211106,wt
-161,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211106_nwg240_tom4,15,60/00",1636208466,nwg240,211106,wt
-162,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211106_nwg240_tom4,15,60/01",1636208584,nwg240,211106,wt
-163,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211106_nwg240_tom4,15,60/02",1636209010,nwg240,211106,wt
-164,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211106_nwg240_tom4,15,60/03",1636209092,nwg240,211106,wt
-165,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211106_nwg240_tom4,15,60/04",1636209293,nwg240,211106,wt
-166,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211106_nwg338_tom4,15,60/00",1636209729,nwg338,211106,wt
-167,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211106_nwg338_tom4,15,60/01",1636209807,nwg338,211106,wt
-168,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211106_nwg338_tom4,15,60/02",1636209863,nwg338,211106,wt
-169,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211106_nwg338_tom4,15,60/03",1636210034,nwg338,211106,wt
-170,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211106_nwg338_tom4,15,60/04",1636210136,nwg338,211106,wt
-171,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211106_nwg400_tom4,15,60/00",1636210635,nwg400,211106,wt
-172,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211106_nwg400_tom4,15,60/01",1636210841,nwg400,211106,wt
-173,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211106_nwg400_tom4,15,60/02",1636210900,nwg400,211106,wt
-174,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211106_nwg400_tom4,15,60/03",1636211058,nwg400,211106,wt
-175,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211106_nwg400_tom4,15,60/04",1636211352,nwg400,211106,wt
-176,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211106_nwg351_tom4,15,60/00",1636211821,nwg351,211106,wt
-177,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211106_nwg351_tom4,15,60/01",1636212103,nwg351,211106,wt
-178,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211106_nwg351_tom4,15,60/02",1636212779,nwg351,211106,wt
-179,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211106_nwg351_tom4,15,60/03",1636212839,nwg351,211106,wt
-180,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211106_nwg351_tom4,15,60/04",1636213213,nwg351,211106,wt
-181,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211106_nwg407_tom4,15,60/00",1636213329,nwg407,211106,wt
-182,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211106_nwg407_tom4,15,60/01",1636214602,nwg407,211106,wt
-183,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211106_nwg407_tom4,15,60/02",1636214652,nwg407,211106,wt
-184,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211106_nwg407_tom4,15,60/03",1636214978,nwg407,211106,wt
-185,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211106_nwg407_tom4,15,60/04",1636215145,nwg407,211106,wt
-186,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211106_nwg325bal_tom4,15,60/00",1636216440,nwg325bal,211106,wt
-187,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211106_nwg325bal_tom4,15,60/01",1636216527,nwg325bal,211106,wt
-188,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211106_nwg325bal_tom4,15,60/02",1636217133,nwg325bal,211106,wt
-189,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211106_nwg325bal_tom4,15,60/03",1636217193,nwg325bal,211106,wt
-190,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211106_nwg325bal_tom4,15,60/04",1636217336,nwg325bal,211106,wt
-191,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211112_nwg325_tom4,15,60/00",1636724878,lp637,211112,wt
-192,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211112_nwg325_tom4,15,60/01",1636725257,lp637,211112,wt
-193,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211112_nwg325_tom4,15,60/02",1636725467,lp637,211112,wt
-194,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211112_nwg338_tom4,15,60/00",1636725912,nwg338,211112,wt
-195,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211112_nwg338_tom4,15,60/01",1636726002,nwg338,211112,wt
-196,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211112_nwg338_tom4,15,60/02",1636726192,nwg338,211112,wt
-197,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211112_nwg338_tom4,15,60/03",1636726440,nwg338,211112,wt
-198,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211112_nwg400_tom4,15,60/00",1636727165,nwg400,211112,wt
-199,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211112_nwg400_tom4,15,60/01",1636727593,nwg400,211112,wt
-200,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211112_nwg400_tom4,15,60/03",1636728279,nwg400,211112,wt
-201,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211112_nwg400_tom4,15,60/04",1636728556,nwg400,211112,wt
-202,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211112_nwg351_tom4,15,60/00",1636730335,nwg351,211112,wt
-203,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211112_nwg351_tom4,15,60/01",1636730705,nwg351,211112,wt
-204,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211112_nwg351_tom4,15,60/02",1636730931,nwg351,211112,wt
-205,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211112_nwg351_tom4,15,60/03",1636731065,nwg351,211112,wt
-206,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211112_nwg351_tom4,15,60/04",1636731237,nwg351,211112,wt
-207,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211112_nwg407_tom4,15,60/00",1636731700,nwg407,211112,wt
-208,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211112_nwg407_tom4,15,60/01",1636731760,nwg407,211112,wt
-209,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211112_nwg407_tom4,15,60/02",1636731944,nwg407,211112,wt
-210,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211112_nwg407_tom4,15,60/03",1636732009,nwg407,211112,wt
-211,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211112_nwg407_tom4,15,60/04",1636732082,nwg407,211112,wt
-212,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211112_nwg407_tom4,15,60/05",1636732223,nwg407,211112,wt
-213,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211112_nwg240_tom4,15,60/00",1636733338,nwg240,211112,wt
-214,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211112_nwg240_tom4,15,60/01",1636733417,nwg240,211112,wt
-215,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211112_nwg240_tom4,15,60/02",1636733482,nwg240,211112,wt
-216,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211112_nwg325bal_tom4,15,60/03",1636734164,nwg325bal,211112,wt
-217,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211112_nwg325bal_tom4,15,60/04",1636734321,nwg325bal,211112,wt
-218,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211112_nwg325bal_tom4,15,60/05",1636734403,nwg325bal,211112,wt
-219,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211112_nwg325bal_tom4,15,60/06",1636734428,nwg325bal,211112,wt
-220,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211112_nwg325bal_tom4,15,60/07",1636734504,nwg325bal,211112,wt
-221,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211112_nwg325bal_tom4,15,60/08",1636734568,nwg325bal,211112,wt
-222,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211113_nwg201_11121830par2rnai_tom4,15,60/00",1636804632,nwg201,211113,11121830par2rnai
-223,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211113_nwg201_11121830par2rnai_tom4,15,60/01",1636804741,nwg201,211113,11121830par2rnai
-224,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211113_nwg201_11121830par2rnai_tom4,15,60/02",1636805193,nwg201,211113,11121830par2rnai
-225,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211113_nwg201_11121830par2rnai_tom4,15,60/03",1636805282,nwg201,211113,11121830par2rnai
-226,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211113_nwg201_11121830par2rnai_tom4,15,60/04",1636806918,nwg201,211113,11121830par2rnai
-227,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211113_nwg201_11121830par2rnai_tom4,15,60/05",1636807401,nwg201,211113,11121830par2rnai
-228,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211113_nwg201_wt_tom4,15,60/00",1636809615,nwg201,211113,wt
-229,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211113_nwg201_wt_tom4,15,60/01",1636809765,nwg201,211113,wt
-230,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211113_nwg201_wt_tom4,15,60/02",1636809832,nwg201,211113,wt
-231,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211113_nwg201_wt_tom4,15,60/03",1636810267,nwg201,211113,wt
-232,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211113_nwg201_wt_tom4,15,60/04",1636810424,nwg201,211113,wt
-233,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211113_nwg369_wt_tom4,15,60/00",1636811186,nwg369,211113,wt
-234,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211113_nwg369_wt_tom4,15,60/01",1636811521,nwg369,211113,wt
-235,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211113_nwg369_wt_tom4,15,60/02",1636812328,nwg369,211113,wt
-236,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211117_nwg201_11161900par2_tom4,15,60/00",1637136572,nwg201,211117,11161900par2
-237,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211117_nwg201_11161900par2_tom4,15,60/01",1637136903,nwg201,211117,11161900par2
-238,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211117_nwg201_11161900par2_tom4,15,60/02",1637137048,nwg201,211117,11161900par2
-239,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211117_nwg201_11161900par2_tom4,15,60/03",1637137150,nwg201,211117,11161900par2
-240,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211117_nwg201_11161900par2_tom4,15,60/04",1637137232,nwg201,211117,11161900par2
-241,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211117_nwg369_11161900par2_tom4,15,60/00",1637137572,nwg369,211117,11161900par2
-242,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211117_nwg201_wt_tom4,15,60/00",1637146971,nwg201,211117,wt
-243,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211117_nwg201_wt_tom4,15,60/01",1637147275,nwg201,211117,wt
-244,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211117_nwg369_wt_tom4,15,60/00",1637147895,nwg369,211117,wt
-245,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211117_nwg369_wt_tom4,15,60/01",1637148255,nwg369,211117,wt
-246,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211117_nwg369_wt_tom4,15,60/02",1637148797,nwg369,211117,wt
-247,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211117_nwg369_wt_tom4,15,60/03",1637149063,nwg369,211117,wt
-248,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211117_nwg201_11170730par2_tom4,15,60/00",1637155323,nwg201,211117,11170730par2
-249,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211117_nwg201_11170730par2_tom4,15,60/01",1637155529,nwg201,211117,11170730par2
-250,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211117_nwg201_11170730par2_tom4,15,60/02",1637155904,nwg201,211117,11170730par2
-251,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211117_nwg201_11170730par2_tom4,15,60/03",1637156255,nwg201,211117,11170730par2
-252,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211117_nwg201_11170730par2_tom4,15,60/04",1637156424,nwg201,211117,11170730par2
-253,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211117_nwg201_11170730par2_tom4,15,60/05",1637156493,nwg201,211117,11170730par2
-254,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211117_nwg201_11170730par2_tom4,15,60/06",1637156566,nwg201,211117,11170730par2
-255,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211117_nwg201_11170730par2_tom4,15,60/07",1637156634,nwg201,211117,11170730par2
-256,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211117_nwg369_11170730par2_tom4,15,60/00",1637157095,nwg369,211117,11170730par2
-257,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211117_nwg369_11170730par2_tom4,15,60/01",1637157300,nwg369,211117,11170730par2
-258,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211117_nwg369_11170730par2_tom4,15,60/02",1637157382,nwg369,211117,11170730par2
-259,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211117_nwg369_11170730par2_tom4,15,60/03",1637157881,nwg369,211117,11170730par2
-260,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211117_nwg369_11170730par2_tom4,15,60/04",1637162547,nwg369,211117,11170730par2
-261,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211117_nwg369_11170730par2_tom4,15,60/05",1637162632,nwg369,211117,11170730par2
-262,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211117_nwg369_11170730par2_tom4,15,60/06",1637162683,nwg369,211117,11170730par2
-263,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211117_nwg369_11170730par2_tom4,15,60/07",1637162755,nwg369,211117,11170730par2
-264,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211117_nwg369_11170730par2_tom4,15,60/08",1637162970,nwg369,211117,11170730par2
-265,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211117_nwg369_11170730par2_tom4,15,60/09",1637163036,nwg369,211117,11170730par2
-266,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211117_nwg201_11170730par2_tom4,15,60/08",1637164001,nwg201,211117,11170730par2
-267,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211117_nwg201_11170730par2_tom4,15,60/09",1637164536,nwg201,211117,11170730par2
-268,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211117_nwg201_11170730par2_tom4,15,60/10",1637168615,nwg201,211117,11170730par2
-269,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211117_nwg201_11170730par2_tom4,15,60/11",1637168692,nwg201,211117,11170730par2
-270,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211117_nwg201_11170730par2_tom4,15,60/12",1637168756,nwg201,211117,11170730par2
-271,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211117_nwg201_11170730par2_tom4,15,60/13",1637169050,nwg201,211117,11170730par2
-272,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211117_nwg369_11170730par2_tom4,15,60/10",1637169364,nwg369,211117,11170730par2
-273,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211117_nwg369_11170730par2_tom4,15,60/11",1637169682,nwg369,211117,11170730par2
-274,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211117_nwg369_11170730par2_tom4,15,60/12",1637170230,nwg369,211117,11170730par2
-275,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211118_nwg325_11171800par2_tom4,15,60/00",1637230637,lp637,211118,11171800par2
-276,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211118_nwg325_11171800par2_tom4,15,60/01",1637230700,lp637,211118,11171800par2
-277,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211118_nwg325_11171800par2_tom4,15,60/02",1637230724,lp637,211118,11171800par2
-278,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211118_nwg325_11171800par2_tom4,15,60/03",1637230814,lp637,211118,11171800par2
-279,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211118_nwg325_11171800par2_tom4,15,60/04",1637231476,lp637,211118,11171800par2
-280,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211118_nwg325_wt_tom4,15,60/00",1637235755,lp637,211118,wt
-281,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211118_nwg325_wt_tom4,15,60/01",1637235819,lp637,211118,wt
-282,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211118_nwg325_11180930par2_tom4,15,60/01",1637246228,lp637,211118,11180930par2
-283,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211118_nwg325_11180930par2_tom4,15,60/02",1637246347,lp637,211118,11180930par2
-284,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211118_nwg325_11180930par2_tom4,15,60/03",1637246490,lp637,211118,11180930par2
-285,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211118_nwg325_11180930par2_tom4,15,60/04",1637249456,lp637,211118,11180930par2
-286,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211118_nwg325_11180930par2_tom4,15,60/05",1637249756,lp637,211118,11180930par2
-287,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211118_nwg325_11180930par2_tom4,15,60/06",1637249840,lp637,211118,11180930par2
-288,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211118_nwg325_11180930par2_tom4,15,60/07",1637250002,lp637,211118,11180930par2
-289,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211118_nwg325_11180930par2_tom4,15,60/08",1637256563,lp637,211118,11180930par2
-290,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211118_nwg325_11180930par2_tom4,15,60/09",1637256715,lp637,211118,11180930par2
-291,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211118_nwg325_11180930par2_tom4,15,60/10",1637256964,lp637,211118,11180930par2
-292,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211118_nwg325_11180930par2_tom4,15,60/11",1637257032,lp637,211118,11180930par2
-293,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211118_nwg325_11180930par2_tom4,15,60/12",1637257496,lp637,211118,11180930par2
-294,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211118_nwg325_11180930par2_tom4,15,60/13",1637257662,lp637,211118,11180930par2
-295,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211118_nwg325_11180930par2_tom4,15,60/14",1637257730,lp637,211118,11180930par2
-296,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211118_nwg325_11180930par2_tom4,15,60/15",1637258032,lp637,211118,11180930par2
-297,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211118_nwg325_11180930par2_tom4,15,60/16",1637258124,lp637,211118,11180930par2
-298,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211208_nwg437_tom4,15,60/00",1638961879,nwg437,211208,wt
-299,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211209_nwg437_tom4,15,60/00",1639042823,nwg437,211209,wt
-300,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211209_nwg437_tom4,15,60/01",1639043290,nwg437,211209,wt
-301,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211209_nwg437_tom4,15,60/02",1639043808,nwg437,211209,wt
-302,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211209_nwg437_tom4,15,60/03",1639044750,nwg437,211209,wt
-303,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211209_nwg437_tom4,15,60/04",1639045098,nwg437,211209,wt
-304,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211209_nwg437_tom4,15,60/05",1639045146,nwg437,211209,wt
-305,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/211209_nwg437_tom4,15,60/06",1639045896,nwg437,211209,wt
-306,/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220307_nwg456/KK571-QxNWG0398_1,1646659926,nwg456,220307,wt
-307,/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220307_nwg456/KK571-QxNWG0398_2,1646660860,nwg456,220307,wt
-308,/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220307_nwg456/KK571-QxNWG0398_7,1646662614,nwg456,220307,wt
-309,/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220307_nwg456/KK571-QxNWG0398_8,1646662688,nwg456,220307,wt
-310,/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220307_nwg456/KK571-QxNWG0398_10,1646663926,nwg456,220307,wt
-311,/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220307_nwg456/KK571-QxNWG0398_11,1646663986,nwg456,220307,wt
-312,/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220307_nwg456/KK571-QxNWG0398_12,1646664204,nwg456,220307,wt
-313,/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220307_n2/N2_,1646667200,n2,220307,wt
-314,/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220307_n2/N2_2,1646668576,n2,220307,wt
-315,/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220307_n2/N2_3,1646668732,n2,220307,wt
-316,/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220307_n2/N2_6,1646669810,n2,220307,wt
-317,/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220307_n2/N2_7,1646669958,n2,220307,wt
-318,/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220307_n2/N2_8,1646670076,n2,220307,wt
-319,/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220307_n2/N2_9,1646670766,n2,220307,wt
-320,/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220307_n2/N2_10,1646670806,n2,220307,wt
-321,/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220307_nwg481/00,1646672328,nwg481,220307,wt
-322,/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220307_nwg481/01,1646672362,nwg481,220307,wt
-323,/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220307_nwg481/02,1646672430,nwg481,220307,wt
-324,/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220307_nwg481/05,1646672542,nwg481,220307,wt
-325,/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220307_nwg481/06,1646672864,nwg481,220307,wt
-326,/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220307_nwg481/07,1646673670,nwg481,220307,wt
-327,/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220307_nwg481/08,1646673704,nwg481,220307,wt
-328,/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220307_nwg481/09,1646673764,nwg481,220307,wt
-329,/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220307_nwg481/10,1646673814,nwg481,220307,wt
-330,/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220307_nwg481/11,1646673848,nwg481,220307,wt
-331,/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220307_nwg481/13,1646673946,nwg481,220307,wt
-332,/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220307_nwg482/3.7 Alt P2 Dimer_,1646674612,nwg482,220307,wt
-333,/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220307_nwg482/3.7 Alt P2 Dimer_1,1646674686,nwg482,220307,wt
-334,/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220307_nwg482/3.7 Alt P2 Dimer_2,1646674874,nwg482,220307,wt
-335,/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220307_nwg482/3.7 Alt P2 Dimer_3,1646674966,nwg482,220307,wt
-336,/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220307_nwg482/3.7 Alt P2 Dimer_5,1646675984,nwg482,220307,wt
-337,/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220307_nwg482/3.7 Alt P2 Dimer_6,1646676758,nwg482,220307,wt
-338,/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220307_nwg482/3.7 Alt P2 Dimer_7,1646676850,nwg482,220307,wt
-339,/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220307_nwg482/3.7 Alt P2 Dimer_8,1646676874,nwg482,220307,wt
-340,/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220307_nwg482/3.7 Alt P2 Dimer_9,1646677818,nwg482,220307,wt
-341,/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220307_nwg482/3.7 Alt P2 Dimer_10,1646677912,nwg482,220307,wt
-342,/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220307_nwg482/3.7 Alt P2 Dimer_11,1646677938,nwg482,220307,wt
-343,/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220307_nwg482/3.7 Alt P2 Dimer_12,1646677962,nwg482,220307,wt
-344,/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220307_nwg482/3.7 Alt P2 Dimer_13,1646677976,nwg482,220307,wt
-345,/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220309_nwg465/GCN4 dimer 7.1_s241a_2,1646838930,nwg465,220309,wt
-346,/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220309_nwg465/GCN4 dimer 7.1_s241a_3,1646838996,nwg465,220309,wt
-347,/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220309_nwg465/GCN4 dimer 7.1_s241a_4,1646839060,nwg465,220309,wt
-348,/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220309_nwg465/GCN4 dimer 7.1_s241a_5,1646839292,nwg465,220309,wt
-349,/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220309_nwg465/GCN4 dimer 7.1_s241a_9,1646840648,nwg465,220309,wt
-350,/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220309_nwg465/GCN4 dimer 7.1_s241a_10,1646840670,nwg465,220309,wt
-351,/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220309_nwg465/GCN4 dimer 7.1_s241a_11,1646840692,nwg465,220309,wt
-352,/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220309_nwg465/GCN4 dimer 7.1_s241a_13,1646842690,nwg465,220309,wt
-353,/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220309_n2/N2_,1646843696,n2,220309,wt
-354,/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220309_n2/N2_1,1646844270,n2,220309,wt
-355,/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220309_n2/N2_2,1646844388,n2,220309,wt
-356,/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220309_n2/N2_3,1646844898,n2,220309,wt
-357,/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220309_n2/N2_4,1646844926,n2,220309,wt
-358,/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220309_n2/N2_5,1646844958,n2,220309,wt
-359,/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220309_n2/N2_6,1646845058,n2,220309,wt
-360,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220805_n2_tom4,15,60/00",1659692272,n2,220805,wt
-361,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220805_n2_tom4,15,60/01",1659692338,n2,220805,wt
-362,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220805_n2_tom4,15,60/02",1659692468,n2,220805,wt
-363,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220805_nwg376_tom4,15,60/00",1659692852,nwg376,220805,wt
-364,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220805_nwg489_tom4,15,60/00",1659693501,nwg489,220805,wt
-365,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220805_nwg489_tom4,15,60/01",1659693843,nwg489,220805,wt
-366,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220805_nwg489_tom4,15,60/02",1659694165,nwg489,220805,wt
-367,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220805_nwg489_tom4,15,60/03",1659694501,nwg489,220805,wt
-368,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220805_lp637_tom4,15,60/00",1659695815,lp637,220805,wt
-369,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220805_lp637_tom4,15,60/01",1659696123,lp637,220805,wt
-370,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220805_n2_tom4,15,60/04",1659701426,n2,220805,wt
-371,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220805_n2_tom4,15,60/03",1659701536,n2,220805,wt
-372,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220805_lp637_tom4,15,60/02",1659702010,lp637,220805,wt
-373,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220805_lp637_tom4,15,60/03",1659702431,lp637,220805,wt
-374,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220805_lp637_tom4,15,60/04",1659702579,lp637,220805,wt
-375,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220805_lp637_tom4,15,60/05",1659702640,lp637,220805,wt
-376,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220805_lp637_tom4,15,60/06",1659703232,lp637,220805,wt
-377,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220805_nwg489_tom4,15,60/04",1659703723,nwg489,220805,wt
-378,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220805_nwg489_tom4,15,60/05",1659704003,nwg489,220805,wt
-379,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220805_nwg489_tom4,15,60/06",1659704107,nwg489,220805,wt
-380,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220805_nwg489_tom4,15,60/07",1659704422,nwg489,220805,wt
-381,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220805_nwg489_tom4,15,60/08",1659704706,nwg489,220805,wt
-382,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220805_nwg489_tom4,15,60/09",1659705047,nwg489,220805,wt
-383,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220805_nwg376_tom4,15,60/01",1659706197,nwg376,220805,wt
-384,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220805_nwg376_tom4,15,60/02",1659706290,nwg376,220805,wt
-385,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220805_nwg376_tom4,15,60/03",1659706373,nwg376,220805,wt
-386,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220805_nwg376_tom4,15,60/04",1659706839,nwg376,220805,wt
-387,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220823_n2_tom4,15,60/00",1661257972,n2,220823,wt
-388,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220823_n2_tom4,15,60/01",1661258046,n2,220823,wt
-389,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220823_n2_tom4,15,60/02",1661258147,n2,220823,wt
-390,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220823_n2_tom4,15,60/03",1661258401,n2,220823,wt
-391,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220823_nwg338_tom4,15,60/03",1661258538,nwg338,220823,wt
-392,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220823_nwg338_tom4,15,60/04",1661258718,nwg338,220823,wt
-393,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220823_nwg338_tom4,15,60/05",1661258965,nwg338,220823,wt
-394,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220823_nwg338_tom4,15,60/06",1661259125,nwg338,220823,wt
-395,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220823_lp637_tom4,15,60/06",1661259794,lp637,220823,wt
-396,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220823_lp637_tom4,15,60/07",1661259869,lp637,220823,wt
-397,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220823_lp637_tom4,15,60/08",1661260262,lp637,220823,wt
-398,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220823_lp637_tom4,15,60/09",1661260423,lp637,220823,wt
-399,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220823_lp637_tom4,15,60/10",1661260543,lp637,220823,wt
-400,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220823_nwg482_tom4,15,60/10",1661261126,nwg482,220823,wt
-401,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220823_nwg482_tom4,15,60/11",1661261374,nwg482,220823,wt
-402,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220823_nwg482_tom4,15,60/12",1661261462,nwg482,220823,wt
-403,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220823_nwg376_tom4,15,60/12",1661261980,nwg376,220823,wt
-404,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220823_nwg376_tom4,15,60/13",1661262373,nwg376,220823,wt
-405,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220823_nwg437_tom4,15,60/13",1661262571,nwg437,220823,wt
-406,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220823_nwg201_tom4,15,60/13",1661263219,nwg201,220823,wt
-407,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220823_nwg201_tom4,15,60/14",1661263290,nwg201,220823,wt
-408,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220823_nwg201_tom4,15,60/15",1661263661,nwg201,220823,wt
-409,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220823_nwg201_tom4,15,60/16",1661263796,nwg201,220823,wt
-410,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220823_nwg369_tom4,15,60/16",1661264390,nwg369,220823,wt
-411,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220823_nwg369_tom4,15,60/17",1661264635,nwg369,220823,wt
-412,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220823_nwg369_tom4,15,60/18",1661264695,nwg369,220823,wt
-413,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220823_nwg369_tom4,15,60/19",1661264791,nwg369,220823,wt
-414,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220823_nwg369_tom4,15,60/20",1661264989,nwg369,220823,wt
-415,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220823_nwg369_tom4,15,60/21",1661265203,nwg369,220823,wt
-416,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220823_nwg246_tom4,15,60/21",1661265565,nwg246,220823,wt
-417,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220823_nwg246_tom4,15,60/22",1661266106,nwg246,220823,wt
-418,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220823_nwg482_tom4,15,60/22",1661267004,nwg482,220823,wt
-419,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220823_nwg482_tom4,15,60/23",1661267125,nwg482,220823,wt
-420,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220823_nwg338_tom4,15,60/23",1661267502,nwg338,220823,wt
-421,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220823_nwg338_tom4,15,60/24",1661267550,nwg338,220823,wt
-422,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220823_nwg338_tom4,15,60/25",1661267862,nwg338,220823,wt
-423,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220823_nwg338_tom4,15,60/26",1661267955,nwg338,220823,wt
-424,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220823_nwg376_tom4,15,60/26",1661268645,nwg376,220823,wt
-425,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220823_nwg376_tom4,15,60/27",1661268814,nwg376,220823,wt
-426,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220823_nwg376_tom4,15,60/28",1661269196,nwg376,220823,wt
-427,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220823_nwg201_tom4,15,60/28",1661269403,nwg201,220823,wt
-428,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220823_nwg201_tom4,15,60/29",1661269517,nwg201,220823,wt
-429,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220823_nwg369_tom4,15,60/29",1661270127,nwg369,220823,wt
-430,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220823_nwg369_tom4,15,60/31",1661270810,nwg369,220823,wt
-431,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220823_nwg338_tom4,15,60/31",1661271156,nwg338,220823,wt
-432,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220823_nwg338_tom4,15,60/32",1661271589,nwg338,220823,wt
-433,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220823_nwg338_tom4,15,60/33",1661271947,nwg338,220823,wt
-434,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220823_nwg240_tom4,15,60/33",1661272601,nwg240,220823,wt
-435,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220823_nwg240_tom4,15,60/35",1661273142,nwg240,220823,wt
-436,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220823_nwg398_tom4,15,60/35",1661273266,nwg398,220823,wt
-437,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220823_nwg398_tom4,15,60/36",1661273446,nwg398,220823,wt
-438,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220823_nwg240_tom4,15,60/36",1661273972,nwg240,220823,wt
-439,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220823_nwg240_tom4,15,60/37",1661274153,nwg240,220823,wt
-440,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220823_nwg240_tom4,15,60/38",1661274323,nwg240,220823,wt
-441,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220824_n2_tom4,15,60/00",1661344527,n2,220824,wt
-442,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220824_n2_tom4,15,60/01",1661344600,n2,220824,wt
-443,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220824_n2_tom4,15,60/02",1661345205,n2,220824,wt
-444,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220824_nwg240_tom4,15,60/23",1661345808,nwg240,220824,wt
-445,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220824_nwg240_tom4,15,60/24",1661346264,nwg240,220824,wt
-446,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220824_nwg240_tom4,15,60/25",1661346572,nwg240,220824,wt
-447,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220824_nwg240_tom4,15,60/26",1661347062,nwg240,220824,wt
-448,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220824_nwg398_tom4,15,60/26",1661347186,nwg398,220824,wt
-449,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220824_nwg398_tom4,15,60/27",1661347761,nwg398,220824,wt
-450,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220824_nwg398_tom4,15,60/28",1661347880,nwg398,220824,wt
-451,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220824_nwg398_tom4,15,60/29",1661348028,nwg398,220824,wt
-452,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220824_nwg398_tom4,15,60/30",1661348489,nwg398,220824,wt
-453,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220824_nwg398_tom4,15,60/31",1661349110,nwg398,220824,wt
-454,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220824_nwg201_tom4,15,60/31",1661349574,nwg201,220824,wt
-455,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220824_nwg201_tom4,15,60/32",1661349749,nwg201,220824,wt
-456,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220824_nwg201_tom4,15,60/33",1661349930,nwg201,220824,wt
-457,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220824_nwg246_tom4,15,60/33",1661350521,nwg246,220824,wt
-458,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220824_nwg246_tom4,15,60/34",1661350790,nwg246,220824,wt
-459,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220824_nwg246_tom4,15,60/35",1661351533,nwg246,220824,wt
-460,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220824_nwg246_tom4,15,60/36",1661351896,nwg246,220824,wt
-461,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220824_nwg246_tom4,15,60/37",1661352301,nwg246,220824,wt
-462,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220824_nwg246_tom4,15,60/38",1661352658,nwg246,220824,wt
-463,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220824_nwg246_tom4,15,60/39",1661352997,nwg246,220824,wt
-464,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220824_nwg437_tom4,15,60/39",1661353386,nwg437,220824,wt
-465,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220824_nwg437_tom4,15,60/40",1661353448,nwg437,220824,wt
-466,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220824_nwg437_tom4,15,60/41",1661353823,nwg437,220824,wt
-467,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220824_nwg437_tom4,15,60/42",1661354260,nwg437,220824,wt
-468,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220824_nwg456_tom4,15,60/42",1661355220,nwg456,220824,wt
-469,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220824_nwg456_tom4,15,60/43",1661355384,nwg456,220824,wt
-470,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220824_nwg456_tom4,15,60/44",1661355927,nwg456,220824,wt
-471,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220824_nwg456_tom4,15,60/45",1661356421,nwg456,220824,wt
-472,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220824_nwg456_tom4,15,60/46",1661356595,nwg456,220824,wt
-473,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220824_nwg456_tom4,15,60/47",1661356880,nwg456,220824,wt
-474,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220824_nwg437_tom4,15,60/47",1661357813,nwg437,220824,wt
-475,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220824_nwg437_tom4,15,60/48",1661357886,nwg437,220824,wt
-476,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220824_nwg437_tom4,15,60/49",1661357989,nwg437,220824,wt
-477,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220824_nwg437_tom4,15,60/50",1661358327,nwg437,220824,wt
-478,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220824_nwg456_tom4,15,60/50",1661359632,nwg456,220824,wt
-479,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220825_n2_tom4,15,60/00",1661416158,n2,220825,wt
-480,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220825_n2_tom4,15,60/01",1661416609,n2,220825,wt
-481,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220825_nwg495_tom4,15,60/05",1661417125,nwg495,220825,wt
-482,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220825_nwg495_tom4,15,60/06",1661417223,nwg495,220825,wt
-483,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220825_nwg495_tom4,15,60/07",1661417709,nwg495,220825,wt
-484,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220825_nwg495_tom4,15,60/08",1661417984,nwg495,220825,wt
-485,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220825_nwg495_tom4,15,60/09",1661418467,nwg495,220825,wt
-486,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220825_nwg495_tom4,15,60/10",1661418786,nwg495,220825,wt
-487,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220825_nwg495_tom4,15,60/11",1661418861,nwg495,220825,wt
-488,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220825_nwg497_tom4,15,60/11",1661419605,nwg497,220825,wt
-489,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220825_nwg497_tom4,15,60/12",1661419677,nwg497,220825,wt
-490,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220825_nwg497_tom4,15,60/13",1661420099,nwg497,220825,wt
-491,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220825_nwg495_tom4,15,60/13",1661420182,nwg495,220825,wt
-492,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220825_nwg495_tom4,15,60/14",1661420349,nwg495,220825,wt
-493,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220825_nwg495_tom4,15,60/15",1661420565,nwg495,220825,wt
-494,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_lp637_2208251830par2_tom4,15,60/00",1661498747,lp637,220826,2208251830par2
-495,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_lp637_2208251830par2_tom4,15,60/01",1661499238,lp637,220826,2208251830par2
-496,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_lp637_2208251830par2_tom4,15,60/02",1661499420,lp637,220826,2208251830par2
-497,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg201_2208251830par2_tom4,15,60/02",1661500001,nwg201,220826,2208251830par2
-498,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg201_2208251830par2_tom4,15,60/03",1661500175,nwg201,220826,2208251830par2
-499,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg246_2208251830par2_tom4,15,60/03",1661500654,nwg246,220826,2208251830par2
-500,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg246_2208251830par2_tom4,15,60/04",1661500724,nwg246,220826,2208251830par2
-501,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg246_2208251830par2_tom4,15,60/05",1661500782,nwg246,220826,2208251830par2
-502,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg201_2208251830par2_tom4,15,60/05",1661500879,nwg201,220826,2208251830par2
-503,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg369_2208251830par2_tom4,15,60/06",1661501573,nwg369,220826,2208251830par2
-504,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg369_2208251830par2_tom4,15,60/07",1661501776,nwg369,220826,2208251830par2
-505,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg437_2208251830par2_tom4,15,60/07",1661502091,nwg437,220826,2208251830par2
-506,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg437_2208251830par2_tom4,15,60/08",1661502519,nwg437,220826,2208251830par2
-507,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg437_2208251830par2_tom4,15,60/09",1661502755,nwg437,220826,2208251830par2
-508,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg437_2208251830par2_tom4,15,60/10",1661502850,nwg437,220826,2208251830par2
-509,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg437_2208251830par2_tom4,15,60/11",1661503225,nwg437,220826,2208251830par2
-510,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_lp637_2208251830par2_tom4,15,60/11",1661503954,lp637,220826,2208251830par2
-511,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_lp637_2208251830par2_tom4,15,60/12",1661504006,lp637,220826,2208251830par2
-512,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_lp637_2208251830par2_tom4,15,60/13",1661504106,lp637,220826,2208251830par2
-513,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_lp637_2208251830par2_tom4,15,60/14",1661504564,lp637,220826,2208251830par2
-514,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg201_2208251830par2_tom4,15,60/14",1661504839,nwg201,220826,2208251830par2
-515,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg201_2208251830par2_tom4,15,60/15",1661505019,nwg201,220826,2208251830par2
-516,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg246_2208251830par2_tom4,15,60/15",1661505337,nwg246,220826,2208251830par2
-517,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg369_2208251830par2_tom4,15,60/15",1661505728,nwg369,220826,2208251830par2
-518,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg369_2208251830par2_tom4,15,60/16",1661505829,nwg369,220826,2208251830par2
-519,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg437_2208251830par2_tom4,15,60/16",1661506308,nwg437,220826,2208251830par2
-520,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg369_2208251830par2_tom4,15,60/17",1661506400,nwg369,220826,2208251830par2
-521,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg437_2208251830par2_tom4,15,60/17",1661506575,nwg437,220826,2208251830par2
-522,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg437_2208251830par2_tom4,15,60/18",1661506744,nwg437,220826,2208251830par2
-523,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg437_2208251830par2_tom4,15,60/19",1661506866,nwg437,220826,2208251830par2
-524,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg201_2208251830par2_tom4,15,60/19",1661507745,nwg201,220826,2208251830par2
-525,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg201_2208251830par2_tom4,15,60/20",1661508010,nwg201,220826,2208251830par2
-526,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg201_2208251830par2_tom4,15,60/21",1661508183,nwg201,220826,2208251830par2
-527,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg201_2208251830par2_tom4,15,60/22",1661508730,nwg201,220826,2208251830par2
-528,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg369_2208251830par2_tom4,15,60/22",1661510530,nwg369,220826,2208251830par2
-529,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg369_2208251830par2_tom4,15,60/23",1661510603,nwg369,220826,2208251830par2
-530,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_lp637_2208251830par2_tom4,15,60/23",1661511014,lp637,220826,2208251830par2
-531,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_lp637_2208251830par2_tom4,15,60/24",1661511539,lp637,220826,2208251830par2
-532,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_lp637_2208251830par2_tom4,15,60/25",1661511680,lp637,220826,2208251830par2
-533,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg456_tom4,15,60/35",1661517523,nwg456,220826,wt
-534,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg456_tom4,15,60/36",1661517704,nwg456,220826,wt
-535,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg456_tom4,15,60/37",1661517881,nwg456,220826,wt
-536,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg465_2208241100pkc3_tom4,15,60/37",1661518189,nwg465,220826,2208241100pkc3
-537,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg465_2208241100pkc3_tom4,15,60/38",1661518273,nwg465,220826,2208241100pkc3
-538,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg465_2208241100pkc3_tom4,15,60/39",1661518447,nwg465,220826,2208241100pkc3
-539,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg465_2208241100pkc3_tom4,15,60/40",1661518686,nwg465,220826,2208241100pkc3
-540,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg465_2208241100pkc3_tom4,15,60/41",1661519039,nwg465,220826,2208241100pkc3
-541,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg465_2208241100pkc3_tom4,15,60/42",1661519110,nwg465,220826,2208241100pkc3
-542,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg465_2208241100pkc3_tom4,15,60/43",1661519292,nwg465,220826,2208241100pkc3
-543,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_lp637_2208260800par2_tom4,15,60/43",1661519589,lp637,220826,2208260800par2
-544,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_lp637_2208260800par2_tom4,15,60/44",1661519687,lp637,220826,2208260800par2
-545,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_lp637_2208260800par2_tom4,15,60/45",1661519983,lp637,220826,2208260800par2
-546,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_lp637_2208260800par2_tom4,15,60/00",1661520177,lp637,220826,2208260800par2
-547,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_lp637_2208260800par2_tom4,15,60/01",1661520448,lp637,220826,2208260800par2
-548,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_lp637_2208260800par2_tom4,15,60/02",1661520649,lp637,220826,2208260800par2
-549,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg201_2208260800par2_tom4,15,60/02",1661521263,nwg201,220826,2208260800par2
-550,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg201_2208260800par2_tom4,15,60/03",1661521506,nwg201,220826,2208260800par2
-551,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg201_2208260800par2_tom4,15,60/04",1661521690,nwg201,220826,2208260800par2
-552,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg201_2208260800par2_tom4,15,60/05",1661521784,nwg201,220826,2208260800par2
-553,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg201_2208260800par2_tom4,15,60/06",1661521906,nwg201,220826,2208260800par2
-554,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg201_2208260800par2_tom4,15,60/07",1661521981,nwg201,220826,2208260800par2
-555,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg201_2208260800par2_tom4,15,60/08",1661522127,nwg201,220826,2208260800par2
-556,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg246_2208260800par2_tom4,15,60/08",1661522454,nwg246,220826,2208260800par2
-557,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg246_2208260800par2_tom4,15,60/09",1661522508,nwg246,220826,2208260800par2
-558,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg246_2208260800par2_tom4,15,60/10",1661523063,nwg246,220826,2208260800par2
-559,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg246_2208260800par2_tom4,15,60/11",1661523570,nwg246,220826,2208260800par2
-560,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg246_2208260800par2_tom4,15,60/12",1661523702,nwg246,220826,2208260800par2
-561,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg246_2208260800par2_tom4,15,60/13",1661523947,nwg246,220826,2208260800par2
-562,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg437_2208260800par2_tom4,15,60/13",1661524742,nwg437,220826,2208260800par2
-563,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg369_2208260800par2_tom4,15,60/14",1661525004,nwg369,220826,2208260800par2
-564,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg437_2208260800par2_tom4,15,60/14",1661525175,nwg437,220826,2208260800par2
-565,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg437_2208260800par2_tom4,15,60/15",1661529224,nwg437,220826,2208260800par2
-566,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg437_2208260800par2_tom4,15,60/16",1661529453,nwg437,220826,2208260800par2
-567,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg369_2208260800par2_tom4,15,60/17",1661529880,nwg369,220826,2208260800par2
-568,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg369_2208260800par2_tom4,15,60/18",1661530140,nwg369,220826,2208260800par2
-569,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg369_2208260800par2_tom4,15,60/19",1661530275,nwg369,220826,2208260800par2
-570,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg369_2208260800par2_tom4,15,60/20",1661530460,nwg369,220826,2208260800par2
-571,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg369_2208260800par2_tom4,15,60/22",1661531098,nwg369,220826,2208260800par2
-572,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_lp637_2208260800par2_tom4,15,60/22",1661531232,lp637,220826,2208260800par2
-573,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_lp637_2208260800par2_tom4,15,60/23",1661531578,lp637,220826,2208260800par2
-574,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_lp637_2208260800par2_tom4,15,60/24",1661531878,lp637,220826,2208260800par2
-575,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_lp637_2208260800par2_tom4,15,60/25",1661531939,lp637,220826,2208260800par2
-576,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_lp637_2208260800par2_tom4,15,60/26",1661532062,lp637,220826,2208260800par2
-577,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_lp637_2208260800par2_tom4,15,60/27",1661532142,lp637,220826,2208260800par2
-578,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg201_2208260800par2_tom4,15,60/27",1661532632,nwg201,220826,2208260800par2
-579,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg201_2208260800par2_tom4,15,60/28",1661532902,nwg201,220826,2208260800par2
-580,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg201_2208260800par2_tom4,15,60/29",1661533279,nwg201,220826,2208260800par2
-581,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg201_2208260800par2_tom4,15,60/30",1661533444,nwg201,220826,2208260800par2
-582,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg201_2208260800par2_tom4,15,60/31",1661533660,nwg201,220826,2208260800par2
-583,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg246_2208260800par2_tom4,15,60/31",1661533985,nwg246,220826,2208260800par2
-584,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg246_2208260800par2_tom4,15,60/32",1661534608,nwg246,220826,2208260800par2
-585,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg246_2208260800par2_tom4,15,60/33",1661535100,nwg246,220826,2208260800par2
-586,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg369_2208260800par2_tom4,15,60/33",1661535288,nwg369,220826,2208260800par2
-587,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg369_2208260800par2_tom4,15,60/34",1661535405,nwg369,220826,2208260800par2
-588,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg437_2208260800par2_tom4,15,60/34",1661535805,nwg437,220826,2208260800par2
-589,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg437_2208260800par2_tom4,15,60/35",1661535954,nwg437,220826,2208260800par2
-590,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg374_2208241800pkc3_tom4,15,60/35",1661537050,nwg374,220826,2208241800pkc3
-591,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg374_2208241800pkc3_tom4,15,60/36",1661537103,nwg374,220826,2208241800pkc3
-592,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg374_2208241800pkc3_tom4,15,60/37",1661537350,nwg374,220826,2208241800pkc3
-593,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg374_2208241800pkc3_tom4,15,60/38",1661537427,nwg374,220826,2208241800pkc3
-594,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg374_2208241800pkc3_tom4,15,60/42",1661537658,nwg374,220826,2208241800pkc3
-595,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg374_2208241800pkc3_tom4,15,60/43",1661537718,nwg374,220826,2208241800pkc3
-596,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220826_nwg374_2208241800pkc3_tom4,15,60/44",1661537779,nwg374,220826,2208241800pkc3
-597,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220829_nwg482_tom4,15,60/25",1661853201,nwg482,220829,wt
-598,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220829_nwg482_tom4,15,60/26",1661853515,nwg482,220829,wt
-599,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220829_nwg482_tom4,15,60/27",1661853692,nwg482,220829,wt
-600,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220829_nwg482_tom4,15,60/28",1661854659,nwg482,220829,wt
-601,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg240_2209011900par2_tom4,15,60/00",1662106822,nwg240,220902,2209011900par2
-602,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg240_2209011900par2_tom4,15,60/01",1662107557,nwg240,220902,2209011900par2
-603,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg240_2209011900par2_tom4,15,60/02",1662107944,nwg240,220902,2209011900par2
-604,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg240_2209011900par2_tom4,15,60/03",1662108170,nwg240,220902,2209011900par2
-605,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg338_2209011900par2_tom4,15,60/03",1662109418,nwg338,220902,2209011900par2
-606,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg338_2209011900par2_tom4,15,60/04",1662109725,nwg338,220902,2209011900par2
-607,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg338_2209011900par2_tom4,15,60/05",1662109850,nwg338,220902,2209011900par2
-608,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg338_2209011900par2_tom4,15,60/06",1662109973,nwg338,220902,2209011900par2
-609,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg338_2209011900par2_tom4,15,60/07",1662110180,nwg338,220902,2209011900par2
-610,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg338_2209011900par2_tom4,15,60/08",1662110274,nwg338,220902,2209011900par2
-611,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg338_2209011900par2_tom4,15,60/09",1662110523,nwg338,220902,2209011900par2
-612,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg376_2209011900par2_tom4,15,60/09",1662111058,nwg376,220902,2209011900par2
-613,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg376_2209011900par2_tom4,15,60/10",1662111185,nwg376,220902,2209011900par2
-614,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg376_2209011900par2_tom4,15,60/11",1662111583,nwg376,220902,2209011900par2
-615,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg376_2209011900par2_tom4,15,60/12",1662111681,nwg376,220902,2209011900par2
-616,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg376_2209011900par2_tom4,15,60/13",1662112198,nwg376,220902,2209011900par2
-617,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg376_2209011900par2_tom4,15,60/14",1662112272,nwg376,220902,2209011900par2
-618,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg376_2209011900par2_tom4,15,60/15",1662112440,nwg376,220902,2209011900par2
-619,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_n2_tom4,15,60/16",1662125532,n2,220902,wt
-620,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_n2_tom4,15,60/17",1662125924,n2,220902,wt
-621,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_n2_tom4,15,60/18",1662125988,n2,220902,wt
-622,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg240_2209020830par2_tom4,15,60/18",1662126857,nwg240,220902,2209020830par2
-623,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg240_2209020830par2_tom4,15,60/19",1662127395,nwg240,220902,2209020830par2
-624,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg240_2209020830par2_tom4,15,60/20",1662127461,nwg240,220902,2209020830par2
-625,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg240_2209020830par2_tom4,15,60/21",1662127962,nwg240,220902,2209020830par2
-626,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg338_2209020830par2_tom4,15,60/21",1662128363,nwg338,220902,2209020830par2
-627,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg338_2209020830par2_tom4,15,60/22",1662128584,nwg338,220902,2209020830par2
-628,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg338_2209020830par2_tom4,15,60/23",1662129044,nwg338,220902,2209020830par2
-629,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg338_2209020830par2_tom4,15,60/24",1662129182,nwg338,220902,2209020830par2
-630,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg338_2209020830par2_tom4,15,60/25",1662129330,nwg338,220902,2209020830par2
-631,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg376_2209020830par2_tom4,15,60/25",1662130448,nwg376,220902,2209020830par2
-632,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg376_2209020830par2_tom4,15,60/26",1662130530,nwg376,220902,2209020830par2
-633,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg376_2209020830par2_tom4,15,60/27",1662131061,nwg376,220902,2209020830par2
-634,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg376_2209020830par2_tom4,15,60/28",1662131442,nwg376,220902,2209020830par2
-635,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg240_2209020830par2_tom4,15,60/28",1662134487,nwg240,220902,2209020830par2
-636,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg240_2209020830par2_tom4,15,60/29",1662134843,nwg240,220902,2209020830par2
-637,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg338_2209020830par2_tom4,15,60/29",1662135495,nwg338,220902,2209020830par2
-638,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg338_2209020830par2_tom4,15,60/30",1662135931,nwg338,220902,2209020830par2
-639,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg376_2209020830par2_tom4,15,60/32",1662136758,nwg376,220902,2209020830par2
-640,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg376_2209020830par2_tom4,15,60/33",1662136830,nwg376,220902,2209020830par2
-641,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg376_2209020830par2_tom4,15,60/34",1662137118,nwg376,220902,2209020830par2
-642,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg240_2209011900par2_tom4,15,60/34",1662138361,nwg240,220902,2209011900par2
-643,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg338_2209011900par2_tom4,15,60/34",1662138631,nwg338,220902,2209011900par2
-644,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg338_2209011900par2_tom4,15,60/35",1662139178,nwg338,220902,2209011900par2
-645,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg338_2209011900par2_tom4,15,60/36",1662139382,nwg338,220902,2209011900par2
-646,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg376_2209011900par2_tom4,15,60/36",1662139673,nwg376,220902,2209011900par2
-647,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg376_2209011900par2_tom4,15,60/37",1662139740,nwg376,220902,2209011900par2
-648,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg376_2209011900par2_tom4,15,60/38",1662139822,nwg376,220902,2209011900par2
-649,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg338_2209020830par2_tom4,15,60/38",1662142452,nwg338,220902,2209020830par2
-650,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg240_2209020830par2_tom4,15,60/38",1662142653,nwg240,220902,2209020830par2
-651,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg338_2209020830par2_tom4,15,60/39",1662143111,nwg338,220902,2209020830par2
-652,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg338_2209020830par2_tom4,15,60/40",1662143263,nwg338,220902,2209020830par2
-653,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg338_2209020830par2_tom4,15,60/41",1662143392,nwg338,220902,2209020830par2
-654,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg376_2209020830par2_tom4,15,60/41",1662143728,nwg376,220902,2209020830par2
-655,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg376_2209020830par2_tom4,15,60/42",1662143752,nwg376,220902,2209020830par2
-656,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg376_2209020830par2_tom4,15,60/43",1662143805,nwg376,220902,2209020830par2
-657,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg338_2209020830par2_tom4,15,60/43",1662143923,nwg338,220902,2209020830par2
-658,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg338_2209020830par2_tom4,15,60/44",1662143984,nwg338,220902,2209020830par2
-659,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220902_nwg376_2209020830par2_tom4,15,60/44",1662144071,nwg376,220902,2209020830par2
-660,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220907_nwg496_tom4,15,60/00",1662542928,nwg496,220907,wt
-661,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220907_nwg496_tom4,15,60/01",1662543894,nwg496,220907,wt
-662,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220907_nwg496_tom4,15,60/02",1662544960,nwg496,220907,wt
-663,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220907_nwg496_tom4,15,60/03",1662545029,nwg496,220907,wt
-664,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220907_nwg496_tom4,15,60/04",1662545240,nwg496,220907,wt
-665,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220907_nwg496_tom4,15,60/05",1662545908,nwg496,220907,wt
-666,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220907_nwg496_tom4,15,60/06",1662546008,nwg496,220907,wt
-667,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220907_nwg496_tom4,15,60/07",1662546125,nwg496,220907,wt
-668,"/Users/blandt/Desktop/PaperData//Imaging/PAR-2 NEBD/220907_nwg496_tom4,15,60/08",1662546326,nwg496,220907,wt
+0,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200129_lp637_wt_tom4,15,60/15,30_",1580292350,lp637,200129,wt
+1,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200129_lp637_wt_tom4,15,60/15,30_1",1580292382,lp637,200129,wt
+2,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200129_lp637_wt_tom4,15,60/15,30_2",1580292449,lp637,200129,wt
+3,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200129_lp637_wt_tom4,15,60/15,60_",1580292501,lp637,200129,wt
+4,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200129_lp637_wt_tom4,15,60/15,60_1",1580292520,lp637,200129,wt
+5,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200129_lp637_wt_tom4,15,60/15,60_2",1580292634,lp637,200129,wt
+6,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200129_lp637_wt_tom4,15,60/15,60_3",1580292710,lp637,200129,wt
+7,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200129_lp637_wt_tom4,15,60/15,60_4",1580292794,lp637,200129,wt
+8,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200129_lp637_wt_tom4,15,60/15,60_5",1580292871,lp637,200129,wt
+9,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200129_nwg246_wt_tom4,15,60/00",1580295502,nwg246,200129,wt
+10,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200129_nwg246_wt_tom4,15,60/01",1580295577,nwg246,200129,wt
+11,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200129_nwg246_wt_tom4,15,60/02",1580295679,nwg246,200129,wt
+12,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200129_n2_wt_tom4,15,60/00",1580296235,n2,200129,wt
+13,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200129_n2_wt_tom4,15,60/01",1580296463,n2,200129,wt
+14,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200129_n2_wt_tom4,15,60/02",1580296536,n2,200129,wt
+15,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200129_n2_wt_tom4,15,60/03",1580296662,n2,200129,wt
+16,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200129_n2_wt_tom4,15,60/04",1580296747,n2,200129,wt
+17,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_lp637_2001301800par2_tom4,15,60/00",1580465014,lp637,200131,2001301800par2
+18,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_lp637_2001301800par2_tom4,15,60/01",1580465112,lp637,200131,2001301800par2
+19,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_lp637_2001301800par2_tom4,15,60/02",1580465526,lp637,200131,2001301800par2
+20,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_lp637_2001301800par2_tom4,15,60/03",1580465615,lp637,200131,2001301800par2
+21,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_lp637_2001301800par2_tom4,15,60/04",1580465704,lp637,200131,2001301800par2
+22,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg240_2001301800par2_tom4,15,60/04",1580466071,nwg240,200131,2001301800par2
+23,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg240_2001301800par2_tom4,15,60/06",1580466278,nwg240,200131,2001301800par2
+24,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg201_2001301800par2_tom4,15,60/06",1580466806,nwg201,200131,2001301800par2
+25,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg201_2001301800par2_tom4,15,60/07",1580466933,nwg201,200131,2001301800par2
+26,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg201_2001301800par2_tom4,15,60/08",1580467263,nwg201,200131,2001301800par2
+27,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg201_2001301800par2_tom4,15,60/09",1580467394,nwg201,200131,2001301800par2
+28,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg201_2001301800par2_tom4,15,60/10",1580467481,nwg201,200131,2001301800par2
+29,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg201_2001301800par2_tom4,15,60/11",1580467559,nwg201,200131,2001301800par2
+30,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg246_2001301800par2_tom4,15,60/11",1580467889,nwg246,200131,2001301800par2
+31,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg246_2001301800par2_tom4,15,60/12",1580467957,nwg246,200131,2001301800par2
+32,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg246_2001301800par2_tom4,15,60/13",1580468038,nwg246,200131,2001301800par2
+33,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg246_2001301800par2_tom4,15,60/14",1580468171,nwg246,200131,2001301800par2
+34,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg246_2001301800par2_tom4,15,60/15",1580468248,nwg246,200131,2001301800par2
+35,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg246_2001301800par2_tom4,15,60/16",1580468375,nwg246,200131,2001301800par2
+36,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg246_2001301800par2_tom4,15,60/17",1580468567,nwg246,200131,2001301800par2
+37,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg246_2001301800par2_tom4,15,60/18",1580468791,nwg246,200131,2001301800par2
+38,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg201_wt_tom4,15,60/18",1580469608,nwg201,200131,wt
+39,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg201_wt_tom4,15,60/19",1580469705,nwg201,200131,wt
+40,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg201_wt_tom4,15,60/20",1580469806,nwg201,200131,wt
+41,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg201_wt_tom4,15,60/21",1580469929,nwg201,200131,wt
+42,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg201_wt_tom4,15,60/22",1580470040,nwg201,200131,wt
+43,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg246_wt_tom4,15,60/22",1580471040,nwg246,200131,wt
+44,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg246_wt_tom4,15,60/23",1580471142,nwg246,200131,wt
+45,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg246_wt_tom4,15,60/25",1580471468,nwg246,200131,wt
+46,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_lp637_2001310930par2_tom4,15,60/30",1580477460,lp637,200131,2001310930par2
+47,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_lp637_2001310930par2_tom4,15,60/32",1580477805,lp637,200131,2001310930par2
+48,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_lp637_2001310930par2_tom4,15,60/33",1580477895,lp637,200131,2001310930par2
+49,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_lp637_2001310930par2_tom4,15,60/34",1580478174,lp637,200131,2001310930par2
+50,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg201_2001310930par2_tom4,15,60/34",1580478374,nwg201,200131,2001310930par2
+51,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg201_2001310930par2_tom4,15,60/35",1580478458,nwg201,200131,2001310930par2
+52,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg201_2001310930par2_tom4,15,60/36",1580478555,nwg201,200131,2001310930par2
+53,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg201_2001310930par2_tom4,15,60/37",1580478641,nwg201,200131,2001310930par2
+54,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg201_2001310930par2_tom4,15,60/38",1580478817,nwg201,200131,2001310930par2
+55,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg201_2001310930par2_tom4,15,60/39",1580478938,nwg201,200131,2001310930par2
+56,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg246_2001310930par2_tom4,15,60/39",1580479283,nwg246,200131,2001310930par2
+57,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg246_2001310930par2_tom4,15,60/40",1580479354,nwg246,200131,2001310930par2
+58,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg246_2001310930par2_tom4,15,60/41",1580479504,nwg246,200131,2001310930par2
+59,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg246_2001310930par2_tom4,15,60/42",1580479596,nwg246,200131,2001310930par2
+60,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg246_2001310930par2_tom4,15,60/43",1580479778,nwg246,200131,2001310930par2
+61,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg246_2001310930par2_tom4,15,60/44",1580479887,nwg246,200131,2001310930par2
+62,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg240_2001310930par2_tom4,15,60/44",1580480520,nwg240,200131,2001310930par2
+63,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg240_2001310930par2_tom4,15,60/45",1580481331,nwg240,200131,2001310930par2
+64,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg240_2001310930par2_tom4,15,60/46",1580481412,nwg240,200131,2001310930par2
+65,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_lp637_2001310930par2_tom4,15,60/46",1580483608,lp637,200131,2001310930par2
+66,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_lp637_2001310930par2_tom4,15,60/47",1580483779,lp637,200131,2001310930par2
+67,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_lp637_2001310930par2_tom4,15,60/48",1580483848,lp637,200131,2001310930par2
+68,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg201_2001310930par2_tom4,15,60/48",1580484345,nwg201,200131,2001310930par2
+69,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg201_2001310930par2_tom4,15,60/50",1580484742,nwg201,200131,2001310930par2
+70,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg246_2001310930par2_tom4,15,60/50",1580485115,nwg246,200131,2001310930par2
+71,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg246_2001310930par2_tom4,15,60/51",1580485218,nwg246,200131,2001310930par2
+72,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg246_2001310930par2_tom4,15,60/52",1580485305,nwg246,200131,2001310930par2
+73,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg246_2001310930par2_tom4,15,60/53",1580485383,nwg246,200131,2001310930par2
+74,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg246_2001310930par2_tom4,15,60/54",1580485470,nwg246,200131,2001310930par2
+75,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg246_2001310930par2_tom4,15,60/55",1580485575,nwg246,200131,2001310930par2
+76,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg201_2001310930par2_tom4,15,60/55",1580486326,nwg201,200131,2001310930par2
+77,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg201_2001310930par2_tom4,15,60/56",1580486636,nwg201,200131,2001310930par2
+78,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg201_2001310930par2_tom4,15,60/57",1580486733,nwg201,200131,2001310930par2
+79,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_lp637_2001310930par2_tom4,15,60/58",1580491158,lp637,200131,2001310930par2
+80,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_lp637_2001310930par2_tom4,15,60/59",1580491224,lp637,200131,2001310930par2
+81,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_lp637_2001310930par2_tom4,15,60/60",1580491306,lp637,200131,2001310930par2
+82,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_lp637_2001310930par2_tom4,15,60/61",1580491323,lp637,200131,2001310930par2
+83,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_lp637_2001310930par2_tom4,15,60/62",1580491386,lp637,200131,2001310930par2
+84,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_lp637_2001310930par2_tom4,15,60/64",1580491849,lp637,200131,2001310930par2
+85,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg201_2001310930par2_tom4,15,60/64",1580491992,nwg201,200131,2001310930par2
+86,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg201_2001310930par2_tom4,15,60/65",1580492056,nwg201,200131,2001310930par2
+87,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg201_2001310930par2_tom4,15,60/66",1580492432,nwg201,200131,2001310930par2
+88,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg201_2001310930par2_tom4,15,60/67",1580492524,nwg201,200131,2001310930par2
+89,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg201_2001310930par2_tom4,15,60/68",1580492689,nwg201,200131,2001310930par2
+90,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg246_2001310930par2_tom4,15,60/69",1580493034,nwg246,200131,2001310930par2
+91,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg246_2001310930par2_tom4,15,60/70",1580493148,nwg246,200131,2001310930par2
+92,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg246_2001310930par2_tom4,15,60/71",1580493339,nwg246,200131,2001310930par2
+93,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg246_2001310930par2_tom4,15,60/72",1580493708,nwg246,200131,2001310930par2
+94,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg246_2001310930par2_tom4,15,60/73",1580493790,nwg246,200131,2001310930par2
+95,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_lp637_2001310930par2_tom4,15,60/73",1580497904,lp637,200131,2001310930par2
+96,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_lp637_2001310930par2_tom4,15,60/74",1580498051,lp637,200131,2001310930par2
+97,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_lp637_2001310930par2_tom4,15,60/75",1580498161,lp637,200131,2001310930par2
+98,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_lp637_2001310930par2_tom4,15,60/76",1580498233,lp637,200131,2001310930par2
+99,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_lp637_2001310930par2_tom4,15,60/77",1580498355,lp637,200131,2001310930par2
+100,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_lp637_2001310930par2_tom4,15,60/78",1580498426,lp637,200131,2001310930par2
+101,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg201_2001310930par2_tom4,15,60/78",1580498803,nwg201,200131,2001310930par2
+102,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg201_2001310930par2_tom4,15,60/79",1580498907,nwg201,200131,2001310930par2
+103,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg201_2001310930par2_tom4,15,60/80",1580499013,nwg201,200131,2001310930par2
+104,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg201_2001310930par2_tom4,15,60/81",1580499117,nwg201,200131,2001310930par2
+105,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg201_2001310930par2_tom4,15,60/82",1580499371,nwg201,200131,2001310930par2
+106,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/200131_nwg246_2001310930par2_tom4,15,60/82",1580499518,nwg246,200131,2001310930par2
+107,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/210409_n2_tom4,15,60/00",1617988266,n2,210409,wt
+108,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/210409_n2_tom4,15,60/01",1617988362,n2,210409,wt
+109,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/210409_n2_tom4,15,60/02",1617988428,n2,210409,wt
+110,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/210409_n2_tom4,15,60/03",1617988545,n2,210409,wt
+111,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/210409_n2_tom4,15,60/04",1617988607,n2,210409,wt
+112,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/210409_n2_tom4,15,60/05",1617988681,n2,210409,wt
+113,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/210428_nwg338_tom4,15,60/00",1619612647,nwg338,210428,wt
+114,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/210428_nwg338_tom4,15,60/01",1619613124,nwg338,210428,wt
+115,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/210428_nwg338_tom4,15,60/02",1619613192,nwg338,210428,wt
+116,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/210428_nwg338_tom4,15,60/03",1619613298,nwg338,210428,wt
+117,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/210428_nwg338_tom4,15,60/04",1619613498,nwg338,210428,wt
+118,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/210428_nwg338_tom4,15,60/05",1619614190,nwg338,210428,wt
+119,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/210428_nwg240_tom4,15,60/05",1619614395,nwg240,210428,wt
+120,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/210428_nwg240_tom4,15,60/06",1619614611,nwg240,210428,wt
+121,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/210428_nwg240_tom4,15,60/07",1619614724,nwg240,210428,wt
+122,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/210428_nwg240_tom4,15,60/08",1619614822,nwg240,210428,wt
+123,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/210428_nwg240_tom4,15,60/09",1619615013,nwg240,210428,wt
+124,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/210428_lp637_tom4,15,60/13",1619616508,lp637,210428,wt
+125,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/210428_lp637_tom4,15,60/16",1619616861,lp637,210428,wt
+126,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/210428_n2_tom4,15,60/16",1619617250,n2,210428,wt
+127,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/210428_n2_tom4,15,60/17",1619617330,n2,210428,wt
+128,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/210428_n2_tom4,15,60/18",1619617370,n2,210428,wt
+129,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/210428_n2_tom4,15,60/19",1619617679,n2,210428,wt
+130,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/210521_nwg351_tom4,15,60/00",1621592001,nwg351,210521,wt
+131,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/210521_nwg351_tom4,15,60/01",1621592113,nwg351,210521,wt
+132,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/210521_nwg351_tom4,15,60/02",1621592209,nwg351,210521,wt
+133,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/210521_nwg351_tom4,15,60/03",1621592332,nwg351,210521,wt
+134,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/210521_nwg351_tom4,15,60/04",1621592572,nwg351,210521,wt
+135,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/210722_nwg376_tom4,15,60/00",1626959137,nwg376,210722,wt
+136,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/210722_nwg376_tom4,15,60/03",1626959682,nwg376,210722,wt
+137,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/210722_nwg376_tom4,15,60/04",1626962343,nwg376,210722,wt
+138,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/210722_nwg376_tom4,15,60/05",1626962588,nwg376,210722,wt
+139,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/210722_nwg377_tom4,15,60/01",1626964098,nwg377,210722,wt
+140,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/210722_nwg377_tom4,15,60/02",1626964696,nwg377,210722,wt
+141,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/210722_lp637_tom4,15,60/00",1626965652,lp637,210722,wt
+142,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/210722_lp637_tom4,15,60/01",1626965890,lp637,210722,wt
+143,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/210722_lp637_tom4,15,60/02",1626966127,lp637,210722,wt
+144,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/210722_n2_tom4,15,60/00",1626966835,n2,210722,wt
+145,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/210722_n2_tom4,15,60/01",1626966955,n2,210722,wt
+146,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/210722_n2_tom4,15,60/02",1626967298,n2,210722,wt
+147,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/210816_nwg381_tom4,15,60/02",1629104596,nwg381,210816,wt
+148,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/210816_nwg381_tom4,15,60/03",1629105144,nwg381,210816,wt
+149,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/210816_nwg381_tom4,15,60/04",1629105744,nwg381,210816,wt
+150,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/210917_nwg400_tom4,15,60/00",1631869475,nwg400,210917,wt
+151,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/210917_nwg400_tom4,15,60/02",1631869797,nwg400,210917,wt
+152,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/210917_nwg400_tom4,15,60/03",1631869867,nwg400,210917,wt
+153,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/210930_nwg407_tom4,15,60/00",1632993829,nwg407,210930,wt
+154,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/210930_nwg407_tom4,15,60/01",1632993990,nwg407,210930,wt
+155,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/210930_nwg408_tom4,15,60/01",1632999064,nwg408,210930,wt
+156,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211106_nwg325_tom4,15,60/00",1636207243,lp637,211106,wt
+157,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211106_nwg325_tom4,15,60/01",1636207369,lp637,211106,wt
+158,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211106_nwg325_tom4,15,60/02",1636207547,lp637,211106,wt
+159,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211106_nwg325_tom4,15,60/03",1636207830,lp637,211106,wt
+160,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211106_nwg325_tom4,15,60/04",1636207917,lp637,211106,wt
+161,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211106_nwg240_tom4,15,60/00",1636208466,nwg240,211106,wt
+162,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211106_nwg240_tom4,15,60/01",1636208584,nwg240,211106,wt
+163,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211106_nwg240_tom4,15,60/02",1636209010,nwg240,211106,wt
+164,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211106_nwg240_tom4,15,60/03",1636209092,nwg240,211106,wt
+165,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211106_nwg240_tom4,15,60/04",1636209293,nwg240,211106,wt
+166,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211106_nwg338_tom4,15,60/00",1636209729,nwg338,211106,wt
+167,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211106_nwg338_tom4,15,60/01",1636209807,nwg338,211106,wt
+168,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211106_nwg338_tom4,15,60/02",1636209863,nwg338,211106,wt
+169,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211106_nwg338_tom4,15,60/03",1636210034,nwg338,211106,wt
+170,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211106_nwg338_tom4,15,60/04",1636210136,nwg338,211106,wt
+171,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211106_nwg400_tom4,15,60/00",1636210635,nwg400,211106,wt
+172,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211106_nwg400_tom4,15,60/01",1636210841,nwg400,211106,wt
+173,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211106_nwg400_tom4,15,60/02",1636210900,nwg400,211106,wt
+174,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211106_nwg400_tom4,15,60/03",1636211058,nwg400,211106,wt
+175,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211106_nwg400_tom4,15,60/04",1636211352,nwg400,211106,wt
+176,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211106_nwg351_tom4,15,60/00",1636211821,nwg351,211106,wt
+177,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211106_nwg351_tom4,15,60/01",1636212103,nwg351,211106,wt
+178,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211106_nwg351_tom4,15,60/02",1636212779,nwg351,211106,wt
+179,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211106_nwg351_tom4,15,60/03",1636212839,nwg351,211106,wt
+180,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211106_nwg351_tom4,15,60/04",1636213213,nwg351,211106,wt
+181,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211106_nwg407_tom4,15,60/00",1636213329,nwg407,211106,wt
+182,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211106_nwg407_tom4,15,60/01",1636214602,nwg407,211106,wt
+183,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211106_nwg407_tom4,15,60/02",1636214652,nwg407,211106,wt
+184,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211106_nwg407_tom4,15,60/03",1636214978,nwg407,211106,wt
+185,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211106_nwg407_tom4,15,60/04",1636215145,nwg407,211106,wt
+186,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211106_nwg325bal_tom4,15,60/00",1636216440,nwg325bal,211106,wt
+187,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211106_nwg325bal_tom4,15,60/01",1636216527,nwg325bal,211106,wt
+188,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211106_nwg325bal_tom4,15,60/02",1636217133,nwg325bal,211106,wt
+189,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211106_nwg325bal_tom4,15,60/03",1636217193,nwg325bal,211106,wt
+190,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211106_nwg325bal_tom4,15,60/04",1636217336,nwg325bal,211106,wt
+191,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211112_nwg325_tom4,15,60/00",1636724878,lp637,211112,wt
+192,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211112_nwg325_tom4,15,60/01",1636725257,lp637,211112,wt
+193,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211112_nwg325_tom4,15,60/02",1636725467,lp637,211112,wt
+194,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211112_nwg338_tom4,15,60/00",1636725912,nwg338,211112,wt
+195,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211112_nwg338_tom4,15,60/01",1636726002,nwg338,211112,wt
+196,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211112_nwg338_tom4,15,60/02",1636726192,nwg338,211112,wt
+197,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211112_nwg338_tom4,15,60/03",1636726440,nwg338,211112,wt
+198,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211112_nwg400_tom4,15,60/00",1636727165,nwg400,211112,wt
+199,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211112_nwg400_tom4,15,60/01",1636727593,nwg400,211112,wt
+200,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211112_nwg400_tom4,15,60/03",1636728279,nwg400,211112,wt
+201,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211112_nwg400_tom4,15,60/04",1636728556,nwg400,211112,wt
+202,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211112_nwg351_tom4,15,60/00",1636730335,nwg351,211112,wt
+203,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211112_nwg351_tom4,15,60/01",1636730705,nwg351,211112,wt
+204,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211112_nwg351_tom4,15,60/02",1636730931,nwg351,211112,wt
+205,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211112_nwg351_tom4,15,60/03",1636731065,nwg351,211112,wt
+206,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211112_nwg351_tom4,15,60/04",1636731237,nwg351,211112,wt
+207,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211112_nwg407_tom4,15,60/00",1636731700,nwg407,211112,wt
+208,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211112_nwg407_tom4,15,60/01",1636731760,nwg407,211112,wt
+209,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211112_nwg407_tom4,15,60/02",1636731944,nwg407,211112,wt
+210,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211112_nwg407_tom4,15,60/03",1636732009,nwg407,211112,wt
+211,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211112_nwg407_tom4,15,60/04",1636732082,nwg407,211112,wt
+212,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211112_nwg407_tom4,15,60/05",1636732223,nwg407,211112,wt
+213,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211112_nwg240_tom4,15,60/00",1636733338,nwg240,211112,wt
+214,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211112_nwg240_tom4,15,60/01",1636733417,nwg240,211112,wt
+215,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211112_nwg240_tom4,15,60/02",1636733482,nwg240,211112,wt
+216,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211112_nwg325bal_tom4,15,60/03",1636734164,nwg325bal,211112,wt
+217,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211112_nwg325bal_tom4,15,60/04",1636734321,nwg325bal,211112,wt
+218,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211112_nwg325bal_tom4,15,60/05",1636734403,nwg325bal,211112,wt
+219,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211112_nwg325bal_tom4,15,60/06",1636734428,nwg325bal,211112,wt
+220,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211112_nwg325bal_tom4,15,60/07",1636734504,nwg325bal,211112,wt
+221,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211112_nwg325bal_tom4,15,60/08",1636734568,nwg325bal,211112,wt
+222,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211113_nwg201_11121830par2rnai_tom4,15,60/00",1636804632,nwg201,211113,11121830par2rnai
+223,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211113_nwg201_11121830par2rnai_tom4,15,60/01",1636804741,nwg201,211113,11121830par2rnai
+224,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211113_nwg201_11121830par2rnai_tom4,15,60/02",1636805193,nwg201,211113,11121830par2rnai
+225,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211113_nwg201_11121830par2rnai_tom4,15,60/03",1636805282,nwg201,211113,11121830par2rnai
+226,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211113_nwg201_11121830par2rnai_tom4,15,60/04",1636806918,nwg201,211113,11121830par2rnai
+227,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211113_nwg201_11121830par2rnai_tom4,15,60/05",1636807401,nwg201,211113,11121830par2rnai
+228,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211113_nwg201_wt_tom4,15,60/00",1636809615,nwg201,211113,wt
+229,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211113_nwg201_wt_tom4,15,60/01",1636809765,nwg201,211113,wt
+230,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211113_nwg201_wt_tom4,15,60/02",1636809832,nwg201,211113,wt
+231,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211113_nwg201_wt_tom4,15,60/03",1636810267,nwg201,211113,wt
+232,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211113_nwg201_wt_tom4,15,60/04",1636810424,nwg201,211113,wt
+233,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211113_nwg369_wt_tom4,15,60/00",1636811186,nwg369,211113,wt
+234,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211113_nwg369_wt_tom4,15,60/01",1636811521,nwg369,211113,wt
+235,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211113_nwg369_wt_tom4,15,60/02",1636812328,nwg369,211113,wt
+236,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211117_nwg201_11161900par2_tom4,15,60/00",1637136572,nwg201,211117,11161900par2
+237,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211117_nwg201_11161900par2_tom4,15,60/01",1637136903,nwg201,211117,11161900par2
+238,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211117_nwg201_11161900par2_tom4,15,60/02",1637137048,nwg201,211117,11161900par2
+239,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211117_nwg201_11161900par2_tom4,15,60/03",1637137150,nwg201,211117,11161900par2
+240,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211117_nwg201_11161900par2_tom4,15,60/04",1637137232,nwg201,211117,11161900par2
+241,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211117_nwg369_11161900par2_tom4,15,60/00",1637137572,nwg369,211117,11161900par2
+242,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211117_nwg201_wt_tom4,15,60/00",1637146971,nwg201,211117,wt
+243,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211117_nwg201_wt_tom4,15,60/01",1637147275,nwg201,211117,wt
+244,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211117_nwg369_wt_tom4,15,60/00",1637147895,nwg369,211117,wt
+245,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211117_nwg369_wt_tom4,15,60/01",1637148255,nwg369,211117,wt
+246,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211117_nwg369_wt_tom4,15,60/02",1637148797,nwg369,211117,wt
+247,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211117_nwg369_wt_tom4,15,60/03",1637149063,nwg369,211117,wt
+248,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211117_nwg201_11170730par2_tom4,15,60/00",1637155323,nwg201,211117,11170730par2
+249,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211117_nwg201_11170730par2_tom4,15,60/01",1637155529,nwg201,211117,11170730par2
+250,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211117_nwg201_11170730par2_tom4,15,60/02",1637155904,nwg201,211117,11170730par2
+251,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211117_nwg201_11170730par2_tom4,15,60/03",1637156255,nwg201,211117,11170730par2
+252,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211117_nwg201_11170730par2_tom4,15,60/04",1637156424,nwg201,211117,11170730par2
+253,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211117_nwg201_11170730par2_tom4,15,60/05",1637156493,nwg201,211117,11170730par2
+254,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211117_nwg201_11170730par2_tom4,15,60/06",1637156566,nwg201,211117,11170730par2
+255,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211117_nwg201_11170730par2_tom4,15,60/07",1637156634,nwg201,211117,11170730par2
+256,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211117_nwg369_11170730par2_tom4,15,60/00",1637157095,nwg369,211117,11170730par2
+257,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211117_nwg369_11170730par2_tom4,15,60/01",1637157300,nwg369,211117,11170730par2
+258,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211117_nwg369_11170730par2_tom4,15,60/02",1637157382,nwg369,211117,11170730par2
+259,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211117_nwg369_11170730par2_tom4,15,60/03",1637157881,nwg369,211117,11170730par2
+260,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211117_nwg369_11170730par2_tom4,15,60/04",1637162547,nwg369,211117,11170730par2
+261,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211117_nwg369_11170730par2_tom4,15,60/05",1637162632,nwg369,211117,11170730par2
+262,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211117_nwg369_11170730par2_tom4,15,60/06",1637162683,nwg369,211117,11170730par2
+263,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211117_nwg369_11170730par2_tom4,15,60/07",1637162755,nwg369,211117,11170730par2
+264,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211117_nwg369_11170730par2_tom4,15,60/08",1637162970,nwg369,211117,11170730par2
+265,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211117_nwg369_11170730par2_tom4,15,60/09",1637163036,nwg369,211117,11170730par2
+266,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211117_nwg201_11170730par2_tom4,15,60/08",1637164001,nwg201,211117,11170730par2
+267,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211117_nwg201_11170730par2_tom4,15,60/09",1637164536,nwg201,211117,11170730par2
+268,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211117_nwg201_11170730par2_tom4,15,60/10",1637168615,nwg201,211117,11170730par2
+269,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211117_nwg201_11170730par2_tom4,15,60/11",1637168692,nwg201,211117,11170730par2
+270,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211117_nwg201_11170730par2_tom4,15,60/12",1637168756,nwg201,211117,11170730par2
+271,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211117_nwg201_11170730par2_tom4,15,60/13",1637169050,nwg201,211117,11170730par2
+272,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211117_nwg369_11170730par2_tom4,15,60/10",1637169364,nwg369,211117,11170730par2
+273,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211117_nwg369_11170730par2_tom4,15,60/11",1637169682,nwg369,211117,11170730par2
+274,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211117_nwg369_11170730par2_tom4,15,60/12",1637170230,nwg369,211117,11170730par2
+275,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211118_nwg325_11171800par2_tom4,15,60/00",1637230637,lp637,211118,11171800par2
+276,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211118_nwg325_11171800par2_tom4,15,60/01",1637230700,lp637,211118,11171800par2
+277,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211118_nwg325_11171800par2_tom4,15,60/02",1637230724,lp637,211118,11171800par2
+278,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211118_nwg325_11171800par2_tom4,15,60/03",1637230814,lp637,211118,11171800par2
+279,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211118_nwg325_11171800par2_tom4,15,60/04",1637231476,lp637,211118,11171800par2
+280,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211118_nwg325_wt_tom4,15,60/00",1637235755,lp637,211118,wt
+281,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211118_nwg325_wt_tom4,15,60/01",1637235819,lp637,211118,wt
+282,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211118_nwg325_11180930par2_tom4,15,60/01",1637246228,lp637,211118,11180930par2
+283,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211118_nwg325_11180930par2_tom4,15,60/02",1637246347,lp637,211118,11180930par2
+284,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211118_nwg325_11180930par2_tom4,15,60/03",1637246490,lp637,211118,11180930par2
+285,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211118_nwg325_11180930par2_tom4,15,60/04",1637249456,lp637,211118,11180930par2
+286,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211118_nwg325_11180930par2_tom4,15,60/05",1637249756,lp637,211118,11180930par2
+287,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211118_nwg325_11180930par2_tom4,15,60/06",1637249840,lp637,211118,11180930par2
+288,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211118_nwg325_11180930par2_tom4,15,60/07",1637250002,lp637,211118,11180930par2
+289,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211118_nwg325_11180930par2_tom4,15,60/08",1637256563,lp637,211118,11180930par2
+290,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211118_nwg325_11180930par2_tom4,15,60/09",1637256715,lp637,211118,11180930par2
+291,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211118_nwg325_11180930par2_tom4,15,60/10",1637256964,lp637,211118,11180930par2
+292,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211118_nwg325_11180930par2_tom4,15,60/11",1637257032,lp637,211118,11180930par2
+293,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211118_nwg325_11180930par2_tom4,15,60/12",1637257496,lp637,211118,11180930par2
+294,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211118_nwg325_11180930par2_tom4,15,60/13",1637257662,lp637,211118,11180930par2
+295,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211118_nwg325_11180930par2_tom4,15,60/14",1637257730,lp637,211118,11180930par2
+296,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211118_nwg325_11180930par2_tom4,15,60/15",1637258032,lp637,211118,11180930par2
+297,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211118_nwg325_11180930par2_tom4,15,60/16",1637258124,lp637,211118,11180930par2
+298,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211208_nwg437_tom4,15,60/00",1638961879,nwg437,211208,wt
+299,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211209_nwg437_tom4,15,60/00",1639042823,nwg437,211209,wt
+300,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211209_nwg437_tom4,15,60/01",1639043290,nwg437,211209,wt
+301,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211209_nwg437_tom4,15,60/02",1639043808,nwg437,211209,wt
+302,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211209_nwg437_tom4,15,60/03",1639044750,nwg437,211209,wt
+303,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211209_nwg437_tom4,15,60/04",1639045098,nwg437,211209,wt
+304,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211209_nwg437_tom4,15,60/05",1639045146,nwg437,211209,wt
+305,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/211209_nwg437_tom4,15,60/06",1639045896,nwg437,211209,wt
+306,/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220307_nwg456/KK571-QxNWG0398_1,1646659926,nwg456,220307,wt
+307,/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220307_nwg456/KK571-QxNWG0398_2,1646660860,nwg456,220307,wt
+308,/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220307_nwg456/KK571-QxNWG0398_7,1646662614,nwg456,220307,wt
+309,/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220307_nwg456/KK571-QxNWG0398_8,1646662688,nwg456,220307,wt
+310,/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220307_nwg456/KK571-QxNWG0398_10,1646663926,nwg456,220307,wt
+311,/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220307_nwg456/KK571-QxNWG0398_11,1646663986,nwg456,220307,wt
+312,/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220307_nwg456/KK571-QxNWG0398_12,1646664204,nwg456,220307,wt
+313,/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220307_n2/N2_,1646667200,n2,220307,wt
+314,/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220307_n2/N2_2,1646668576,n2,220307,wt
+315,/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220307_n2/N2_3,1646668732,n2,220307,wt
+316,/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220307_n2/N2_6,1646669810,n2,220307,wt
+317,/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220307_n2/N2_7,1646669958,n2,220307,wt
+318,/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220307_n2/N2_8,1646670076,n2,220307,wt
+319,/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220307_n2/N2_9,1646670766,n2,220307,wt
+320,/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220307_n2/N2_10,1646670806,n2,220307,wt
+321,/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220307_nwg481/00,1646672328,nwg481,220307,wt
+322,/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220307_nwg481/01,1646672362,nwg481,220307,wt
+323,/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220307_nwg481/02,1646672430,nwg481,220307,wt
+324,/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220307_nwg481/05,1646672542,nwg481,220307,wt
+325,/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220307_nwg481/06,1646672864,nwg481,220307,wt
+326,/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220307_nwg481/07,1646673670,nwg481,220307,wt
+327,/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220307_nwg481/08,1646673704,nwg481,220307,wt
+328,/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220307_nwg481/09,1646673764,nwg481,220307,wt
+329,/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220307_nwg481/10,1646673814,nwg481,220307,wt
+330,/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220307_nwg481/11,1646673848,nwg481,220307,wt
+331,/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220307_nwg481/13,1646673946,nwg481,220307,wt
+332,/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220307_nwg482/3.7 Alt P2 Dimer_,1646674612,nwg482,220307,wt
+333,/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220307_nwg482/3.7 Alt P2 Dimer_1,1646674686,nwg482,220307,wt
+334,/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220307_nwg482/3.7 Alt P2 Dimer_2,1646674874,nwg482,220307,wt
+335,/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220307_nwg482/3.7 Alt P2 Dimer_3,1646674966,nwg482,220307,wt
+336,/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220307_nwg482/3.7 Alt P2 Dimer_5,1646675984,nwg482,220307,wt
+337,/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220307_nwg482/3.7 Alt P2 Dimer_6,1646676758,nwg482,220307,wt
+338,/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220307_nwg482/3.7 Alt P2 Dimer_7,1646676850,nwg482,220307,wt
+339,/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220307_nwg482/3.7 Alt P2 Dimer_8,1646676874,nwg482,220307,wt
+340,/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220307_nwg482/3.7 Alt P2 Dimer_9,1646677818,nwg482,220307,wt
+341,/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220307_nwg482/3.7 Alt P2 Dimer_10,1646677912,nwg482,220307,wt
+342,/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220307_nwg482/3.7 Alt P2 Dimer_11,1646677938,nwg482,220307,wt
+343,/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220307_nwg482/3.7 Alt P2 Dimer_12,1646677962,nwg482,220307,wt
+344,/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220307_nwg482/3.7 Alt P2 Dimer_13,1646677976,nwg482,220307,wt
+345,/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220309_nwg465/GCN4 dimer 7.1_s241a_2,1646838930,nwg465,220309,wt
+346,/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220309_nwg465/GCN4 dimer 7.1_s241a_3,1646838996,nwg465,220309,wt
+347,/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220309_nwg465/GCN4 dimer 7.1_s241a_4,1646839060,nwg465,220309,wt
+348,/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220309_nwg465/GCN4 dimer 7.1_s241a_5,1646839292,nwg465,220309,wt
+349,/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220309_nwg465/GCN4 dimer 7.1_s241a_9,1646840648,nwg465,220309,wt
+350,/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220309_nwg465/GCN4 dimer 7.1_s241a_10,1646840670,nwg465,220309,wt
+351,/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220309_nwg465/GCN4 dimer 7.1_s241a_11,1646840692,nwg465,220309,wt
+352,/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220309_nwg465/GCN4 dimer 7.1_s241a_13,1646842690,nwg465,220309,wt
+353,/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220309_n2/N2_,1646843696,n2,220309,wt
+354,/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220309_n2/N2_1,1646844270,n2,220309,wt
+355,/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220309_n2/N2_2,1646844388,n2,220309,wt
+356,/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220309_n2/N2_3,1646844898,n2,220309,wt
+357,/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220309_n2/N2_4,1646844926,n2,220309,wt
+358,/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220309_n2/N2_5,1646844958,n2,220309,wt
+359,/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220309_n2/N2_6,1646845058,n2,220309,wt
+360,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220805_n2_tom4,15,60/00",1659692272,n2,220805,wt
+361,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220805_n2_tom4,15,60/01",1659692338,n2,220805,wt
+362,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220805_n2_tom4,15,60/02",1659692468,n2,220805,wt
+363,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220805_nwg376_tom4,15,60/00",1659692852,nwg376,220805,wt
+364,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220805_nwg489_tom4,15,60/00",1659693501,nwg489,220805,wt
+365,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220805_nwg489_tom4,15,60/01",1659693843,nwg489,220805,wt
+366,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220805_nwg489_tom4,15,60/02",1659694165,nwg489,220805,wt
+367,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220805_nwg489_tom4,15,60/03",1659694501,nwg489,220805,wt
+368,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220805_lp637_tom4,15,60/00",1659695815,lp637,220805,wt
+369,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220805_lp637_tom4,15,60/01",1659696123,lp637,220805,wt
+370,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220805_n2_tom4,15,60/04",1659701426,n2,220805,wt
+371,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220805_n2_tom4,15,60/03",1659701536,n2,220805,wt
+372,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220805_lp637_tom4,15,60/02",1659702010,lp637,220805,wt
+373,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220805_lp637_tom4,15,60/03",1659702431,lp637,220805,wt
+374,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220805_lp637_tom4,15,60/04",1659702579,lp637,220805,wt
+375,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220805_lp637_tom4,15,60/05",1659702640,lp637,220805,wt
+376,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220805_lp637_tom4,15,60/06",1659703232,lp637,220805,wt
+377,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220805_nwg489_tom4,15,60/04",1659703723,nwg489,220805,wt
+378,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220805_nwg489_tom4,15,60/05",1659704003,nwg489,220805,wt
+379,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220805_nwg489_tom4,15,60/06",1659704107,nwg489,220805,wt
+380,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220805_nwg489_tom4,15,60/07",1659704422,nwg489,220805,wt
+381,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220805_nwg489_tom4,15,60/08",1659704706,nwg489,220805,wt
+382,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220805_nwg489_tom4,15,60/09",1659705047,nwg489,220805,wt
+383,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220805_nwg376_tom4,15,60/01",1659706197,nwg376,220805,wt
+384,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220805_nwg376_tom4,15,60/02",1659706290,nwg376,220805,wt
+385,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220805_nwg376_tom4,15,60/03",1659706373,nwg376,220805,wt
+386,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220805_nwg376_tom4,15,60/04",1659706839,nwg376,220805,wt
+387,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220823_n2_tom4,15,60/00",1661257972,n2,220823,wt
+388,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220823_n2_tom4,15,60/01",1661258046,n2,220823,wt
+389,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220823_n2_tom4,15,60/02",1661258147,n2,220823,wt
+390,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220823_n2_tom4,15,60/03",1661258401,n2,220823,wt
+391,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220823_nwg338_tom4,15,60/03",1661258538,nwg338,220823,wt
+392,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220823_nwg338_tom4,15,60/04",1661258718,nwg338,220823,wt
+393,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220823_nwg338_tom4,15,60/05",1661258965,nwg338,220823,wt
+394,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220823_nwg338_tom4,15,60/06",1661259125,nwg338,220823,wt
+395,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220823_lp637_tom4,15,60/06",1661259794,lp637,220823,wt
+396,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220823_lp637_tom4,15,60/07",1661259869,lp637,220823,wt
+397,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220823_lp637_tom4,15,60/08",1661260262,lp637,220823,wt
+398,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220823_lp637_tom4,15,60/09",1661260423,lp637,220823,wt
+399,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220823_lp637_tom4,15,60/10",1661260543,lp637,220823,wt
+400,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220823_nwg482_tom4,15,60/10",1661261126,nwg482,220823,wt
+401,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220823_nwg482_tom4,15,60/11",1661261374,nwg482,220823,wt
+402,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220823_nwg482_tom4,15,60/12",1661261462,nwg482,220823,wt
+403,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220823_nwg376_tom4,15,60/12",1661261980,nwg376,220823,wt
+404,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220823_nwg376_tom4,15,60/13",1661262373,nwg376,220823,wt
+405,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220823_nwg437_tom4,15,60/13",1661262571,nwg437,220823,wt
+406,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220823_nwg201_tom4,15,60/13",1661263219,nwg201,220823,wt
+407,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220823_nwg201_tom4,15,60/14",1661263290,nwg201,220823,wt
+408,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220823_nwg201_tom4,15,60/15",1661263661,nwg201,220823,wt
+409,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220823_nwg201_tom4,15,60/16",1661263796,nwg201,220823,wt
+410,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220823_nwg369_tom4,15,60/16",1661264390,nwg369,220823,wt
+411,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220823_nwg369_tom4,15,60/17",1661264635,nwg369,220823,wt
+412,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220823_nwg369_tom4,15,60/18",1661264695,nwg369,220823,wt
+413,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220823_nwg369_tom4,15,60/19",1661264791,nwg369,220823,wt
+414,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220823_nwg369_tom4,15,60/20",1661264989,nwg369,220823,wt
+415,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220823_nwg369_tom4,15,60/21",1661265203,nwg369,220823,wt
+416,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220823_nwg246_tom4,15,60/21",1661265565,nwg246,220823,wt
+417,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220823_nwg246_tom4,15,60/22",1661266106,nwg246,220823,wt
+418,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220823_nwg482_tom4,15,60/22",1661267004,nwg482,220823,wt
+419,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220823_nwg482_tom4,15,60/23",1661267125,nwg482,220823,wt
+420,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220823_nwg338_tom4,15,60/23",1661267502,nwg338,220823,wt
+421,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220823_nwg338_tom4,15,60/24",1661267550,nwg338,220823,wt
+422,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220823_nwg338_tom4,15,60/25",1661267862,nwg338,220823,wt
+423,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220823_nwg338_tom4,15,60/26",1661267955,nwg338,220823,wt
+424,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220823_nwg376_tom4,15,60/26",1661268645,nwg376,220823,wt
+425,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220823_nwg376_tom4,15,60/27",1661268814,nwg376,220823,wt
+426,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220823_nwg376_tom4,15,60/28",1661269196,nwg376,220823,wt
+427,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220823_nwg201_tom4,15,60/28",1661269403,nwg201,220823,wt
+428,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220823_nwg201_tom4,15,60/29",1661269517,nwg201,220823,wt
+429,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220823_nwg369_tom4,15,60/29",1661270127,nwg369,220823,wt
+430,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220823_nwg369_tom4,15,60/31",1661270810,nwg369,220823,wt
+431,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220823_nwg338_tom4,15,60/31",1661271156,nwg338,220823,wt
+432,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220823_nwg338_tom4,15,60/32",1661271589,nwg338,220823,wt
+433,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220823_nwg338_tom4,15,60/33",1661271947,nwg338,220823,wt
+434,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220823_nwg240_tom4,15,60/33",1661272601,nwg240,220823,wt
+435,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220823_nwg240_tom4,15,60/35",1661273142,nwg240,220823,wt
+436,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220823_nwg398_tom4,15,60/35",1661273266,nwg398,220823,wt
+437,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220823_nwg398_tom4,15,60/36",1661273446,nwg398,220823,wt
+438,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220823_nwg240_tom4,15,60/36",1661273972,nwg240,220823,wt
+439,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220823_nwg240_tom4,15,60/37",1661274153,nwg240,220823,wt
+440,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220823_nwg240_tom4,15,60/38",1661274323,nwg240,220823,wt
+441,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220824_n2_tom4,15,60/00",1661344527,n2,220824,wt
+442,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220824_n2_tom4,15,60/01",1661344600,n2,220824,wt
+443,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220824_n2_tom4,15,60/02",1661345205,n2,220824,wt
+444,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220824_nwg240_tom4,15,60/23",1661345808,nwg240,220824,wt
+445,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220824_nwg240_tom4,15,60/24",1661346264,nwg240,220824,wt
+446,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220824_nwg240_tom4,15,60/25",1661346572,nwg240,220824,wt
+447,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220824_nwg240_tom4,15,60/26",1661347062,nwg240,220824,wt
+448,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220824_nwg398_tom4,15,60/26",1661347186,nwg398,220824,wt
+449,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220824_nwg398_tom4,15,60/27",1661347761,nwg398,220824,wt
+450,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220824_nwg398_tom4,15,60/28",1661347880,nwg398,220824,wt
+451,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220824_nwg398_tom4,15,60/29",1661348028,nwg398,220824,wt
+452,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220824_nwg398_tom4,15,60/30",1661348489,nwg398,220824,wt
+453,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220824_nwg398_tom4,15,60/31",1661349110,nwg398,220824,wt
+454,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220824_nwg201_tom4,15,60/31",1661349574,nwg201,220824,wt
+455,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220824_nwg201_tom4,15,60/32",1661349749,nwg201,220824,wt
+456,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220824_nwg201_tom4,15,60/33",1661349930,nwg201,220824,wt
+457,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220824_nwg246_tom4,15,60/33",1661350521,nwg246,220824,wt
+458,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220824_nwg246_tom4,15,60/34",1661350790,nwg246,220824,wt
+459,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220824_nwg246_tom4,15,60/35",1661351533,nwg246,220824,wt
+460,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220824_nwg246_tom4,15,60/36",1661351896,nwg246,220824,wt
+461,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220824_nwg246_tom4,15,60/37",1661352301,nwg246,220824,wt
+462,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220824_nwg246_tom4,15,60/38",1661352658,nwg246,220824,wt
+463,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220824_nwg246_tom4,15,60/39",1661352997,nwg246,220824,wt
+464,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220824_nwg437_tom4,15,60/39",1661353386,nwg437,220824,wt
+465,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220824_nwg437_tom4,15,60/40",1661353448,nwg437,220824,wt
+466,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220824_nwg437_tom4,15,60/41",1661353823,nwg437,220824,wt
+467,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220824_nwg437_tom4,15,60/42",1661354260,nwg437,220824,wt
+468,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220824_nwg456_tom4,15,60/42",1661355220,nwg456,220824,wt
+469,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220824_nwg456_tom4,15,60/43",1661355384,nwg456,220824,wt
+470,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220824_nwg456_tom4,15,60/44",1661355927,nwg456,220824,wt
+471,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220824_nwg456_tom4,15,60/45",1661356421,nwg456,220824,wt
+472,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220824_nwg456_tom4,15,60/46",1661356595,nwg456,220824,wt
+473,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220824_nwg456_tom4,15,60/47",1661356880,nwg456,220824,wt
+474,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220824_nwg437_tom4,15,60/47",1661357813,nwg437,220824,wt
+475,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220824_nwg437_tom4,15,60/48",1661357886,nwg437,220824,wt
+476,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220824_nwg437_tom4,15,60/49",1661357989,nwg437,220824,wt
+477,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220824_nwg437_tom4,15,60/50",1661358327,nwg437,220824,wt
+478,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220824_nwg456_tom4,15,60/50",1661359632,nwg456,220824,wt
+479,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220825_n2_tom4,15,60/00",1661416158,n2,220825,wt
+480,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220825_n2_tom4,15,60/01",1661416609,n2,220825,wt
+481,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220825_nwg495_tom4,15,60/05",1661417125,nwg495,220825,wt
+482,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220825_nwg495_tom4,15,60/06",1661417223,nwg495,220825,wt
+483,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220825_nwg495_tom4,15,60/07",1661417709,nwg495,220825,wt
+484,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220825_nwg495_tom4,15,60/08",1661417984,nwg495,220825,wt
+485,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220825_nwg495_tom4,15,60/09",1661418467,nwg495,220825,wt
+486,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220825_nwg495_tom4,15,60/10",1661418786,nwg495,220825,wt
+487,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220825_nwg495_tom4,15,60/11",1661418861,nwg495,220825,wt
+488,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220825_nwg497_tom4,15,60/11",1661419605,nwg497,220825,wt
+489,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220825_nwg497_tom4,15,60/12",1661419677,nwg497,220825,wt
+490,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220825_nwg497_tom4,15,60/13",1661420099,nwg497,220825,wt
+491,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220825_nwg495_tom4,15,60/13",1661420182,nwg495,220825,wt
+492,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220825_nwg495_tom4,15,60/14",1661420349,nwg495,220825,wt
+493,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220825_nwg495_tom4,15,60/15",1661420565,nwg495,220825,wt
+494,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_lp637_2208251830par2_tom4,15,60/00",1661498747,lp637,220826,2208251830par2
+495,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_lp637_2208251830par2_tom4,15,60/01",1661499238,lp637,220826,2208251830par2
+496,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_lp637_2208251830par2_tom4,15,60/02",1661499420,lp637,220826,2208251830par2
+497,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg201_2208251830par2_tom4,15,60/02",1661500001,nwg201,220826,2208251830par2
+498,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg201_2208251830par2_tom4,15,60/03",1661500175,nwg201,220826,2208251830par2
+499,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg246_2208251830par2_tom4,15,60/03",1661500654,nwg246,220826,2208251830par2
+500,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg246_2208251830par2_tom4,15,60/04",1661500724,nwg246,220826,2208251830par2
+501,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg246_2208251830par2_tom4,15,60/05",1661500782,nwg246,220826,2208251830par2
+502,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg201_2208251830par2_tom4,15,60/05",1661500879,nwg201,220826,2208251830par2
+503,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg369_2208251830par2_tom4,15,60/06",1661501573,nwg369,220826,2208251830par2
+504,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg369_2208251830par2_tom4,15,60/07",1661501776,nwg369,220826,2208251830par2
+505,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg437_2208251830par2_tom4,15,60/07",1661502091,nwg437,220826,2208251830par2
+506,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg437_2208251830par2_tom4,15,60/08",1661502519,nwg437,220826,2208251830par2
+507,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg437_2208251830par2_tom4,15,60/09",1661502755,nwg437,220826,2208251830par2
+508,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg437_2208251830par2_tom4,15,60/10",1661502850,nwg437,220826,2208251830par2
+509,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg437_2208251830par2_tom4,15,60/11",1661503225,nwg437,220826,2208251830par2
+510,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_lp637_2208251830par2_tom4,15,60/11",1661503954,lp637,220826,2208251830par2
+511,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_lp637_2208251830par2_tom4,15,60/12",1661504006,lp637,220826,2208251830par2
+512,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_lp637_2208251830par2_tom4,15,60/13",1661504106,lp637,220826,2208251830par2
+513,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_lp637_2208251830par2_tom4,15,60/14",1661504564,lp637,220826,2208251830par2
+514,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg201_2208251830par2_tom4,15,60/14",1661504839,nwg201,220826,2208251830par2
+515,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg201_2208251830par2_tom4,15,60/15",1661505019,nwg201,220826,2208251830par2
+516,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg246_2208251830par2_tom4,15,60/15",1661505337,nwg246,220826,2208251830par2
+517,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg369_2208251830par2_tom4,15,60/15",1661505728,nwg369,220826,2208251830par2
+518,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg369_2208251830par2_tom4,15,60/16",1661505829,nwg369,220826,2208251830par2
+519,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg437_2208251830par2_tom4,15,60/16",1661506308,nwg437,220826,2208251830par2
+520,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg369_2208251830par2_tom4,15,60/17",1661506400,nwg369,220826,2208251830par2
+521,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg437_2208251830par2_tom4,15,60/17",1661506575,nwg437,220826,2208251830par2
+522,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg437_2208251830par2_tom4,15,60/18",1661506744,nwg437,220826,2208251830par2
+523,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg437_2208251830par2_tom4,15,60/19",1661506866,nwg437,220826,2208251830par2
+524,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg201_2208251830par2_tom4,15,60/19",1661507745,nwg201,220826,2208251830par2
+525,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg201_2208251830par2_tom4,15,60/20",1661508010,nwg201,220826,2208251830par2
+526,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg201_2208251830par2_tom4,15,60/21",1661508183,nwg201,220826,2208251830par2
+527,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg201_2208251830par2_tom4,15,60/22",1661508730,nwg201,220826,2208251830par2
+528,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg369_2208251830par2_tom4,15,60/22",1661510530,nwg369,220826,2208251830par2
+529,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg369_2208251830par2_tom4,15,60/23",1661510603,nwg369,220826,2208251830par2
+530,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_lp637_2208251830par2_tom4,15,60/23",1661511014,lp637,220826,2208251830par2
+531,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_lp637_2208251830par2_tom4,15,60/24",1661511539,lp637,220826,2208251830par2
+532,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_lp637_2208251830par2_tom4,15,60/25",1661511680,lp637,220826,2208251830par2
+533,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg456_tom4,15,60/35",1661517523,nwg456,220826,wt
+534,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg456_tom4,15,60/36",1661517704,nwg456,220826,wt
+535,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg456_tom4,15,60/37",1661517881,nwg456,220826,wt
+536,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg465_2208241100pkc3_tom4,15,60/37",1661518189,nwg465,220826,2208241100pkc3
+537,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg465_2208241100pkc3_tom4,15,60/38",1661518273,nwg465,220826,2208241100pkc3
+538,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg465_2208241100pkc3_tom4,15,60/39",1661518447,nwg465,220826,2208241100pkc3
+539,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg465_2208241100pkc3_tom4,15,60/40",1661518686,nwg465,220826,2208241100pkc3
+540,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg465_2208241100pkc3_tom4,15,60/41",1661519039,nwg465,220826,2208241100pkc3
+541,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg465_2208241100pkc3_tom4,15,60/42",1661519110,nwg465,220826,2208241100pkc3
+542,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg465_2208241100pkc3_tom4,15,60/43",1661519292,nwg465,220826,2208241100pkc3
+543,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_lp637_2208260800par2_tom4,15,60/43",1661519589,lp637,220826,2208260800par2
+544,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_lp637_2208260800par2_tom4,15,60/44",1661519687,lp637,220826,2208260800par2
+545,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_lp637_2208260800par2_tom4,15,60/45",1661519983,lp637,220826,2208260800par2
+546,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_lp637_2208260800par2_tom4,15,60/00",1661520177,lp637,220826,2208260800par2
+547,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_lp637_2208260800par2_tom4,15,60/01",1661520448,lp637,220826,2208260800par2
+548,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_lp637_2208260800par2_tom4,15,60/02",1661520649,lp637,220826,2208260800par2
+549,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg201_2208260800par2_tom4,15,60/02",1661521263,nwg201,220826,2208260800par2
+550,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg201_2208260800par2_tom4,15,60/03",1661521506,nwg201,220826,2208260800par2
+551,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg201_2208260800par2_tom4,15,60/04",1661521690,nwg201,220826,2208260800par2
+552,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg201_2208260800par2_tom4,15,60/05",1661521784,nwg201,220826,2208260800par2
+553,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg201_2208260800par2_tom4,15,60/06",1661521906,nwg201,220826,2208260800par2
+554,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg201_2208260800par2_tom4,15,60/07",1661521981,nwg201,220826,2208260800par2
+555,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg201_2208260800par2_tom4,15,60/08",1661522127,nwg201,220826,2208260800par2
+556,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg246_2208260800par2_tom4,15,60/08",1661522454,nwg246,220826,2208260800par2
+557,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg246_2208260800par2_tom4,15,60/09",1661522508,nwg246,220826,2208260800par2
+558,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg246_2208260800par2_tom4,15,60/10",1661523063,nwg246,220826,2208260800par2
+559,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg246_2208260800par2_tom4,15,60/11",1661523570,nwg246,220826,2208260800par2
+560,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg246_2208260800par2_tom4,15,60/12",1661523702,nwg246,220826,2208260800par2
+561,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg246_2208260800par2_tom4,15,60/13",1661523947,nwg246,220826,2208260800par2
+562,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg437_2208260800par2_tom4,15,60/13",1661524742,nwg437,220826,2208260800par2
+563,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg369_2208260800par2_tom4,15,60/14",1661525004,nwg369,220826,2208260800par2
+564,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg437_2208260800par2_tom4,15,60/14",1661525175,nwg437,220826,2208260800par2
+565,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg437_2208260800par2_tom4,15,60/15",1661529224,nwg437,220826,2208260800par2
+566,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg437_2208260800par2_tom4,15,60/16",1661529453,nwg437,220826,2208260800par2
+567,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg369_2208260800par2_tom4,15,60/17",1661529880,nwg369,220826,2208260800par2
+568,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg369_2208260800par2_tom4,15,60/18",1661530140,nwg369,220826,2208260800par2
+569,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg369_2208260800par2_tom4,15,60/19",1661530275,nwg369,220826,2208260800par2
+570,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg369_2208260800par2_tom4,15,60/20",1661530460,nwg369,220826,2208260800par2
+571,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg369_2208260800par2_tom4,15,60/22",1661531098,nwg369,220826,2208260800par2
+572,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_lp637_2208260800par2_tom4,15,60/22",1661531232,lp637,220826,2208260800par2
+573,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_lp637_2208260800par2_tom4,15,60/23",1661531578,lp637,220826,2208260800par2
+574,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_lp637_2208260800par2_tom4,15,60/24",1661531878,lp637,220826,2208260800par2
+575,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_lp637_2208260800par2_tom4,15,60/25",1661531939,lp637,220826,2208260800par2
+576,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_lp637_2208260800par2_tom4,15,60/26",1661532062,lp637,220826,2208260800par2
+577,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_lp637_2208260800par2_tom4,15,60/27",1661532142,lp637,220826,2208260800par2
+578,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg201_2208260800par2_tom4,15,60/27",1661532632,nwg201,220826,2208260800par2
+579,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg201_2208260800par2_tom4,15,60/28",1661532902,nwg201,220826,2208260800par2
+580,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg201_2208260800par2_tom4,15,60/29",1661533279,nwg201,220826,2208260800par2
+581,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg201_2208260800par2_tom4,15,60/30",1661533444,nwg201,220826,2208260800par2
+582,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg201_2208260800par2_tom4,15,60/31",1661533660,nwg201,220826,2208260800par2
+583,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg246_2208260800par2_tom4,15,60/31",1661533985,nwg246,220826,2208260800par2
+584,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg246_2208260800par2_tom4,15,60/32",1661534608,nwg246,220826,2208260800par2
+585,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg246_2208260800par2_tom4,15,60/33",1661535100,nwg246,220826,2208260800par2
+586,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg369_2208260800par2_tom4,15,60/33",1661535288,nwg369,220826,2208260800par2
+587,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg369_2208260800par2_tom4,15,60/34",1661535405,nwg369,220826,2208260800par2
+588,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg437_2208260800par2_tom4,15,60/34",1661535805,nwg437,220826,2208260800par2
+589,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg437_2208260800par2_tom4,15,60/35",1661535954,nwg437,220826,2208260800par2
+590,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg374_2208241800pkc3_tom4,15,60/35",1661537050,nwg374,220826,2208241800pkc3
+591,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg374_2208241800pkc3_tom4,15,60/36",1661537103,nwg374,220826,2208241800pkc3
+592,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg374_2208241800pkc3_tom4,15,60/37",1661537350,nwg374,220826,2208241800pkc3
+593,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg374_2208241800pkc3_tom4,15,60/38",1661537427,nwg374,220826,2208241800pkc3
+594,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg374_2208241800pkc3_tom4,15,60/42",1661537658,nwg374,220826,2208241800pkc3
+595,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg374_2208241800pkc3_tom4,15,60/43",1661537718,nwg374,220826,2208241800pkc3
+596,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220826_nwg374_2208241800pkc3_tom4,15,60/44",1661537779,nwg374,220826,2208241800pkc3
+597,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220829_nwg482_tom4,15,60/25",1661853201,nwg482,220829,wt
+598,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220829_nwg482_tom4,15,60/26",1661853515,nwg482,220829,wt
+599,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220829_nwg482_tom4,15,60/27",1661853692,nwg482,220829,wt
+600,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220829_nwg482_tom4,15,60/28",1661854659,nwg482,220829,wt
+601,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg240_2209011900par2_tom4,15,60/00",1662106822,nwg240,220902,2209011900par2
+602,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg240_2209011900par2_tom4,15,60/01",1662107557,nwg240,220902,2209011900par2
+603,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg240_2209011900par2_tom4,15,60/02",1662107944,nwg240,220902,2209011900par2
+604,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg240_2209011900par2_tom4,15,60/03",1662108170,nwg240,220902,2209011900par2
+605,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg338_2209011900par2_tom4,15,60/03",1662109418,nwg338,220902,2209011900par2
+606,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg338_2209011900par2_tom4,15,60/04",1662109725,nwg338,220902,2209011900par2
+607,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg338_2209011900par2_tom4,15,60/05",1662109850,nwg338,220902,2209011900par2
+608,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg338_2209011900par2_tom4,15,60/06",1662109973,nwg338,220902,2209011900par2
+609,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg338_2209011900par2_tom4,15,60/07",1662110180,nwg338,220902,2209011900par2
+610,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg338_2209011900par2_tom4,15,60/08",1662110274,nwg338,220902,2209011900par2
+611,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg338_2209011900par2_tom4,15,60/09",1662110523,nwg338,220902,2209011900par2
+612,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg376_2209011900par2_tom4,15,60/09",1662111058,nwg376,220902,2209011900par2
+613,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg376_2209011900par2_tom4,15,60/10",1662111185,nwg376,220902,2209011900par2
+614,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg376_2209011900par2_tom4,15,60/11",1662111583,nwg376,220902,2209011900par2
+615,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg376_2209011900par2_tom4,15,60/12",1662111681,nwg376,220902,2209011900par2
+616,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg376_2209011900par2_tom4,15,60/13",1662112198,nwg376,220902,2209011900par2
+617,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg376_2209011900par2_tom4,15,60/14",1662112272,nwg376,220902,2209011900par2
+618,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg376_2209011900par2_tom4,15,60/15",1662112440,nwg376,220902,2209011900par2
+619,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_n2_tom4,15,60/16",1662125532,n2,220902,wt
+620,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_n2_tom4,15,60/17",1662125924,n2,220902,wt
+621,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_n2_tom4,15,60/18",1662125988,n2,220902,wt
+622,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg240_2209020830par2_tom4,15,60/18",1662126857,nwg240,220902,2209020830par2
+623,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg240_2209020830par2_tom4,15,60/19",1662127395,nwg240,220902,2209020830par2
+624,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg240_2209020830par2_tom4,15,60/20",1662127461,nwg240,220902,2209020830par2
+625,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg240_2209020830par2_tom4,15,60/21",1662127962,nwg240,220902,2209020830par2
+626,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg338_2209020830par2_tom4,15,60/21",1662128363,nwg338,220902,2209020830par2
+627,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg338_2209020830par2_tom4,15,60/22",1662128584,nwg338,220902,2209020830par2
+628,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg338_2209020830par2_tom4,15,60/23",1662129044,nwg338,220902,2209020830par2
+629,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg338_2209020830par2_tom4,15,60/24",1662129182,nwg338,220902,2209020830par2
+630,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg338_2209020830par2_tom4,15,60/25",1662129330,nwg338,220902,2209020830par2
+631,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg376_2209020830par2_tom4,15,60/25",1662130448,nwg376,220902,2209020830par2
+632,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg376_2209020830par2_tom4,15,60/26",1662130530,nwg376,220902,2209020830par2
+633,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg376_2209020830par2_tom4,15,60/27",1662131061,nwg376,220902,2209020830par2
+634,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg376_2209020830par2_tom4,15,60/28",1662131442,nwg376,220902,2209020830par2
+635,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg240_2209020830par2_tom4,15,60/28",1662134487,nwg240,220902,2209020830par2
+636,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg240_2209020830par2_tom4,15,60/29",1662134843,nwg240,220902,2209020830par2
+637,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg338_2209020830par2_tom4,15,60/29",1662135495,nwg338,220902,2209020830par2
+638,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg338_2209020830par2_tom4,15,60/30",1662135931,nwg338,220902,2209020830par2
+639,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg376_2209020830par2_tom4,15,60/32",1662136758,nwg376,220902,2209020830par2
+640,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg376_2209020830par2_tom4,15,60/33",1662136830,nwg376,220902,2209020830par2
+641,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg376_2209020830par2_tom4,15,60/34",1662137118,nwg376,220902,2209020830par2
+642,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg240_2209011900par2_tom4,15,60/34",1662138361,nwg240,220902,2209011900par2
+643,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg338_2209011900par2_tom4,15,60/34",1662138631,nwg338,220902,2209011900par2
+644,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg338_2209011900par2_tom4,15,60/35",1662139178,nwg338,220902,2209011900par2
+645,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg338_2209011900par2_tom4,15,60/36",1662139382,nwg338,220902,2209011900par2
+646,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg376_2209011900par2_tom4,15,60/36",1662139673,nwg376,220902,2209011900par2
+647,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg376_2209011900par2_tom4,15,60/37",1662139740,nwg376,220902,2209011900par2
+648,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg376_2209011900par2_tom4,15,60/38",1662139822,nwg376,220902,2209011900par2
+649,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg338_2209020830par2_tom4,15,60/38",1662142452,nwg338,220902,2209020830par2
+650,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg240_2209020830par2_tom4,15,60/38",1662142653,nwg240,220902,2209020830par2
+651,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg338_2209020830par2_tom4,15,60/39",1662143111,nwg338,220902,2209020830par2
+652,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg338_2209020830par2_tom4,15,60/40",1662143263,nwg338,220902,2209020830par2
+653,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg338_2209020830par2_tom4,15,60/41",1662143392,nwg338,220902,2209020830par2
+654,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg376_2209020830par2_tom4,15,60/41",1662143728,nwg376,220902,2209020830par2
+655,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg376_2209020830par2_tom4,15,60/42",1662143752,nwg376,220902,2209020830par2
+656,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg376_2209020830par2_tom4,15,60/43",1662143805,nwg376,220902,2209020830par2
+657,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg338_2209020830par2_tom4,15,60/43",1662143923,nwg338,220902,2209020830par2
+658,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg338_2209020830par2_tom4,15,60/44",1662143984,nwg338,220902,2209020830par2
+659,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220902_nwg376_2209020830par2_tom4,15,60/44",1662144071,nwg376,220902,2209020830par2
+660,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220907_nwg496_tom4,15,60/00",1662542928,nwg496,220907,wt
+661,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220907_nwg496_tom4,15,60/01",1662543894,nwg496,220907,wt
+662,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220907_nwg496_tom4,15,60/02",1662544960,nwg496,220907,wt
+663,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220907_nwg496_tom4,15,60/03",1662545029,nwg496,220907,wt
+664,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220907_nwg496_tom4,15,60/04",1662545240,nwg496,220907,wt
+665,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220907_nwg496_tom4,15,60/05",1662545908,nwg496,220907,wt
+666,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220907_nwg496_tom4,15,60/06",1662546008,nwg496,220907,wt
+667,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220907_nwg496_tom4,15,60/07",1662546125,nwg496,220907,wt
+668,"/Users/blandt/Desktop/PaperData//Imaging/par2_nebd/220907_nwg496_tom4,15,60/08",1662546326,nwg496,220907,wt
