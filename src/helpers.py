@@ -6,6 +6,8 @@ import random
 
 np.random.seed(12345)
 
+# Absolute path to the raw data
+# In not available, set to None
 raw_data_path = "/Users/blandt/Desktop/PaperData/"
 
 """

@@ -5,13 +5,9 @@
 Complete analysis code for the paper `"Optimized dimerization of the PAR-2 RING domain drives cooperative and selective membrane recruitment for robust feedback-driven cell polarization" (Bland et al., 2023)`
 
 
-## Data availability
-
-The entire dataset will be made publicly available 
-
 ## Code structure
 
-Notebooks used to perform the analysis in the paper and generate all the figure panels are found in _scripts_.
+Notebooks used to perform the analysis in the paper and generate most of the figure panels are found in _scripts_.
 This is split into two sections:
 
 - __Run__: notebooks used to perform quantification on raw images, and save results in the _data_ folder (e.g. _ph_quantify.ipynb_ outputs the data file _ph_quantification.csv_). Running these scripts requires access to the raw data repository (i.e. image files). 
@@ -71,7 +67,25 @@ Figure S9: [A-D][a6824]\
 [Table S2][a4134]\
 [Table S4][a1912]
 
-Core code is found in _src_ as well as two additional git repositories: [par-segmentation](https://github.com/tsmbland/par-segmentation) and [discco](https://github.com/tsmbland/discco)
+Core code is found in _src_. Also relies heavily on the [par-segmentation](https://github.com/tsmbland/par-segmentation) and [discco](https://github.com/tsmbland/discco) packages.
+
+## Data availability
+
+The entire dataset will be made publicly available. 
+
+The vast majority of the data is image data, found in the __Imaging__ folder. This is organised into a series of folders representing different experiments, and subfolders representing experimental conditions (worm strain, date, RNAi, acquisition settings). Data for individual embryos are further separated into folders. Within each embryo folder you will find:
+- Raw images (one for each channel including DIC)
+- An autofluorescence-corrected image (_af_corrected.tif_), generated from the raw images using [SAIBR](https://github.com/goehringlab/saibr_python)
+- A preliminary manual ROI (_ROI_manual.txt_)
+- An optimised ROI (_ROI_fit.txt_) generated using the [par-segmentation](https://github.com/tsmbland/par-segmentation) package
+- An nd file containing metadata
+
+Also includes the following datasets:
+- __AlphaFold__: a PDB file for the PAR-2 RING domain dimer
+- __Sequence alignments__: FASTA and Jalview files for the RING domain sequence alignments
+- __SEC MALS__: Raw SEC MALS data for the PAR-2 RING domain
+
+If you decide to download the raw data, you must specify _raw_data_path_ in _src/helpers.py_
 
 ## Installation
 
