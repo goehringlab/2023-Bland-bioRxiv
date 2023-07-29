@@ -10,7 +10,7 @@ Complete analysis code for the paper `"Optimized dimerization of the PAR-2 RING 
 Notebooks used to perform the analysis in the paper and generate most of the figure panels are found in _scripts_.
 This is split into two sections:
 
-- __Run__: notebooks used to perform quantification on raw images, and save results in the _data_ folder (e.g. _ph_quantify.ipynb_ outputs the data file _ph_quantification.csv_). Running these scripts requires access to the raw data repository (i.e. image files). 
+- __Run__: notebooks used to perform quantification on raw images, and save results in the _data_ folder (e.g. _ph_quantify.ipynb_ outputs the data file _ph_quantification.csv_). Running these scripts requires access to the raw data repository (i.e. image files, see below). 
 - __Analysis__: notebooks used to perform downstream analysis on the quantification results from above and generate figure panels (which are saved in a series of '_Figs_' folders). Most figures can be created without access to the raw data repository, but some do require access to raw data (e.g. panels displaying specific images). Also includes SEC-MALS analysis and modelling.
 
 Notebooks for creating specific figure panels:
@@ -83,7 +83,7 @@ The vast majority of the data is image data, found in the __Imaging__ folder. Th
 Also includes the following datasets:
 - __AlphaFold__: a PDB file for the PAR-2 RING domain dimer
 - __Sequence alignments__: FASTA and Jalview files for the RING domain sequence alignments
-- __SEC MALS__: Raw SEC MALS data for the PAR-2 RING domain
+- __SEC MALS__: Raw SEC-MALS data for the PAR-2 RING domain
 
 If you decide to download the raw data, you must specify _raw_data_path_ in _src/helpers.py_
 

@@ -21,7 +21,7 @@ file_list = file_list1 + file_list2
 # Start timer
 start_time = time.time()
 
-# Execute notebooks and output
+# Execute notebooks and save output
 num_notebooks = len(file_list)
 for i, f in enumerate(file_list):
     run_path = os.path.dirname(f)
