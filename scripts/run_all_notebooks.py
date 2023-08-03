@@ -16,7 +16,7 @@ file_list2 = []
 for p in direcslist("Analysis"):
     file_list2.extend(glob.glob(p + "/*.ipynb"))
 file_list2 = sorted(file_list2)
-file_list = file_list1# + file_list2
+file_list = file_list1 + file_list2
 
 # Start timer
 start_time = time.time()
