@@ -19,7 +19,7 @@ else:
     raw_data_path = None
 
 # If using Conda, will need to set manually (otherwise comment out)
-# raw_data_path = '/Users/blandt/Desktop/PaperData'
+# raw_data_path = '/Users/blandt/Desktop/PaperData/'
 
 
 """
