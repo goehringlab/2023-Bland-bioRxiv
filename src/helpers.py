@@ -13,7 +13,7 @@ Path to the raw data
 """
 
 # If using Docker, will set automatically
-if os.path.exists(os.path.abspath(__file__) + '../../RawData'):
+if os.path.exists(os.path.abspath(__file__) + '/../../RawData'):
     raw_data_path = '../../RawData'
 else:
     raw_data_path = None

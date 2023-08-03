@@ -94,19 +94,27 @@ If you decide to download the raw data, you must specify _raw_data_path_ in _src
 
 &#8291;1. Make sure [Docker](https://www.docker.com/products/docker-desktop/) is installed and open on your machine 
 
-&#8291;2. Download and run the Docker container
+&#8291;2. Download and run the Docker container (~4GB)
 
 If you don't have the raw data, run:
 
-    docker run -it -p 8888:8888 tsmbland/par2-paper
+    docker run -it --rm -p 8888:8888 tsmbland/par2-paper
 
 If you have the raw data, run:
 
-    docker run -it -p 8888:8888 -v /absolute/path/to/data/folder:/RawData tsmbland/par2-paper
+    docker run -it --rm -p 8888:8888 -v /path/to/data:/RawData tsmbland/par2-paper
+
+specifying the path to the raw data folder
 
 &#8291;3. Open Jupyter
 
     jupyter notebook --ip 0.0.0.0 --no-browser --allow-root Bland-et-al-2023/scripts
+
+This will print a couple of URLs at the bottom for you to copy and paste into your browser to open up Jupyter (please try both)
+
+&#8291;4. When finished, delete the Docker image
+
+    docker image rm tsmbland/par2-paper
 
 #### Method 2 (Conda)
 
