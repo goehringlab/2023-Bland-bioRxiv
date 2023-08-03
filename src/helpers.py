@@ -3,12 +3,24 @@ from matplotlib.ticker import FuncFormatter
 import matplotlib.colors as mc
 import colorsys
 import random
+import os
 
 np.random.seed(12345)
 
-# Absolute path to the raw data
-# If not available, set to None
-raw_data_path = "/Users/blandt/Desktop/PaperData/"
+""" 
+Path to the raw data
+
+"""
+
+# If using Docker, will set automatically
+if os.path.exists(os.path.abspath(__file__) + '../../RawData'):
+    raw_data_path = '../../RawData'
+else:
+    raw_data_path = None
+
+# If using Conda, will need to set manually (otherwise comment out)
+# raw_data_path = '/Users/blandt/Desktop/PaperData'
+
 
 """
 Plotting

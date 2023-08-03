@@ -90,7 +90,25 @@ If you decide to download the raw data, you must specify _raw_data_path_ in _src
 
 ## Installation
 
-To install on your local machine, run the following:
+#### Method 1 (Docker)
+
+&#8291;1. Make sure [Docker](https://www.docker.com/products/docker-desktop/) is installed and open on your machine 
+
+&#8291;2. Download and run the Docker container
+
+If you don't have the raw data, run:
+
+    docker run -it -p 8888:8888 tsmbland/par2-paper
+
+If you have the raw data, run:
+
+    docker run -it -p 8888:8888 -v /absolute/path/to/data/folder:/RawData tsmbland/par2-paper
+
+&#8291;3. Open Jupyter
+
+    jupyter notebook --ip 0.0.0.0 --no-browser --allow-root Bland-et-al-2023/scripts
+
+#### Method 2 (Conda)
 
 &#8291;1. Clone the repository:
 
