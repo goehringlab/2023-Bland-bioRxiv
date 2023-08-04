@@ -21,7 +21,7 @@ dependencies:
   - pip
   - pip:
       - opencv-python==4.2.0.34
-      - discco==0.2.5
+      - discco==0.2.6
       - par-segmentation==0.1.8
       - saibr==0.1.4
       - matplotlib-polyroi==0.1.3
