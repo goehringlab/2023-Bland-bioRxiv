@@ -1,6 +1,7 @@
 ## Optimized dimerization of the PAR-2 RING domain drives cooperative and selective membrane recruitment for robust feedback-driven cell polarization 
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
+[![run with docker](https://img.shields.io/badge/run%20with-docker-0db7ed?logo=docker)](https://www.docker.com/)
 [![run with conda](http://img.shields.io/badge/run%20with-conda-3EB049?logo=anaconda)](https://docs.conda.io/en/latest/)
 
 Complete analysis code for the paper `"Optimized dimerization of the PAR-2 RING domain drives cooperative and selective membrane recruitment for robust feedback-driven cell polarization" (Bland et al., 2023)`
@@ -94,7 +95,7 @@ If you decide to download the raw data, you must specify _raw_data_path_ in _src
 
 &#8291;1. Make sure [Docker](https://www.docker.com/products/docker-desktop/) is installed and open on your machine 
 
-&#8291;2. Download and run the Docker container (~4GB)
+&#8291;2. Download and run the Docker container (~2GB)
 
 If you don't have the raw data, run:
 
