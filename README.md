@@ -77,8 +77,8 @@ The entire dataset will be made publicly available.
 
 The vast majority of the data is image data, found in the __Imaging__ folder. This is organised into a series of folders representing different experiments, and subfolders representing experimental conditions (worm strain, date, RNAi, acquisition settings). Data for individual embryos are further separated into folders. Within each embryo folder you will find:
 - Raw images (one for each channel including DIC)
-- An autofluorescence-corrected image (_af_corrected.tif_), generated from the raw images using [SAIBR](https://github.com/goehringlab/saibr_python)
-- A preliminary manual ROI (_ROI_manual.txt_)
+- An autofluorescence-corrected image (_af_corrected.tif_), generated from the raw images using [SAIBR](https://github.com/goehringlab/saibr_fiji_plugin)
+- A preliminary manual ROI (_ROI_manual.txt_) generated using the [matplotlib-polyroi](https://github.com/tsmbland/matplotlib-polyroi) package
 - An optimised ROI (_ROI_fit.txt_) generated using the [par-segmentation](https://github.com/tsmbland/par-segmentation) package
 - An nd file containing metadata
 
