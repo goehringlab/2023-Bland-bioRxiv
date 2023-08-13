@@ -4,7 +4,7 @@
 [![run with docker](https://img.shields.io/badge/run%20with-docker-0db7ed?logo=docker)](https://www.docker.com/)
 [![run with conda](http://img.shields.io/badge/run%20with-conda-3EB049?logo=anaconda)](https://docs.conda.io/en/latest/)
 
-Complete analysis code for the paper `"Optimized dimerization of the PAR-2 RING domain drives cooperative and selective membrane recruitment for robust feedback-driven cell polarization" (Bland et al., 2023)`
+Complete analysis code for the paper `"Optimized dimerization of the PAR-2 RING domain drives cooperative and selective membrane recruitment for robust feedback-driven cell polarization" (Bland et al., 2023)` [BioRxiv link](https://www.biorxiv.org/content/10.1101/2023.08.10.552581v1)
 
 
 ## Code structure
@@ -105,7 +105,7 @@ If you have the raw data, run:
 
     docker run -it --rm -p 8888:8888 -v /path/to/data:/RawData tsmbland/par2-paper
 
-specifying the path to the raw data folder
+replacing /path/to/data with the path to the raw data folder on your system
 
 &#8291;3. Open Jupyter
 
