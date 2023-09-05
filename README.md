@@ -73,7 +73,7 @@ Core code is found in _src_. Also relies heavily on the [par-segmentation](https
 
 ## Data availability
 
-The entire dataset will be made publicly available. 
+The entire dataset will be made publicly available (~7.5 GB). 
 
 The vast majority of the data is image data, found in the __Imaging__ folder. This is organised into a series of folders representing different experiments, and subfolders representing experimental conditions (worm strain, date, RNAi, acquisition settings). Data for individual embryos are further separated into folders. Within each embryo folder you will find:
 - Raw images (one for each channel including DIC)
@@ -87,15 +87,14 @@ Also includes the following datasets:
 - __Sequence alignments__: FASTA and Jalview files for the RING domain sequence alignments
 - __SEC MALS__: Raw SEC-MALS data for the PAR-2 RING domain
 
-If you decide to download the raw data, you must specify _raw_data_path_ in _src/helpers.py_
 
 ## Installation
 
-#### Method 1 (Docker)
+### Method 1 (Docker)
 
 &#8291;1. Make sure [Docker](https://www.docker.com/products/docker-desktop/) is installed and open on your machine 
 
-&#8291;2. Download and run the Docker container (~2GB)
+&#8291;2. Download and run the Docker container (~2 GB)
 
 If you don't have the raw data, run:
 
@@ -107,17 +106,17 @@ If you have the raw data, run:
 
 replacing /path/to/data with the path to the raw data folder on your system
 
-&#8291;3. Open Jupyter
+&#8291;3. Open Jupyter:
 
     jupyter notebook --ip 0.0.0.0 --no-browser --allow-root Bland-et-al-2023/scripts
 
 This will print a couple of URLs at the bottom for you to copy and paste into your browser to open up Jupyter (please try both)
 
-&#8291;4. When finished, delete the Docker image
+&#8291;4. When finished, delete the Docker image:
 
     docker image rm tsmbland/par2-paper
 
-#### Method 2 (Conda)
+### Method 2 (Conda)
 
 &#8291;1. Clone the repository:
 
@@ -131,6 +130,12 @@ This will print a couple of URLs at the bottom for you to copy and paste into yo
 &#8291;3. Activate conda environment:
 
     conda activate par2_paper
+
+&#8291;4. If you decide to download the raw data, you must specify _raw_data_path_ in _src/helpers.py_
+
+&#8291;5. Open Jupyter:
+
+    jupyter notebook
 
 ## License
 
