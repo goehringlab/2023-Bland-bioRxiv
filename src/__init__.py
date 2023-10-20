@@ -24,6 +24,6 @@ from .helpers import (
     fold,
 )
 
-from. dimer_model_fit import EnergiesConfidenceIntervalPaired
-from .stats import bootstrap
-from.dataplot import dataplot
+from .dimer_model_fit import EnergiesConfidenceIntervalPaired
+from .stats import bootstrap, bootstrap_effect_size_pd
+from .dataplot import dataplot
