@@ -25,4 +25,5 @@ from .helpers import (
 )
 
 from. dimer_model_fit import EnergiesConfidenceIntervalPaired
-
+from .stats import bootstrap
+from.dataplot import dataplot
