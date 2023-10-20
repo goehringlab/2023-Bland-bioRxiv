@@ -3,7 +3,7 @@ from typing import List, Callable
 import pandas as pd
 
 
-def bootstrap(data: List[np.array], func: Callable, niter: int = 1000) -> np.array:
+def bootstrap(data: List[np.array], func: Callable, niter: int = 1000) -> list:
     """
 
     Basic function for doing bootstrap analysis
@@ -19,7 +19,7 @@ def bootstrap(data: List[np.array], func: Callable, niter: int = 1000) -> np.arr
     """
 
     # Results containter
-    output = np.zeros(niter)
+    output = []
 
     # ninter bootstraps
     for i in range(niter):
@@ -30,7 +30,7 @@ def bootstrap(data: List[np.array], func: Callable, niter: int = 1000) -> np.arr
             _data.append(d_sample)
 
         # Perform function on _data to calculate output
-        output[i] = func(_data)
+        output.append(func(_data))
 
     return output
 
@@ -59,6 +59,10 @@ def bootstrap_effect_size_pd(
     data_b = data[data[x] == b][y].to_numpy()
 
     # Perform bootstrap analysis
-    return bootstrap(
-        data=[data_a, data_b], func=lambda x: np.mean(x[1]) - np.mean(x[0]), niter=niter
+    return np.array(
+        bootstrap(
+            data=[data_a, data_b],
+            func=lambda x: np.mean(x[1]) - np.mean(x[0]),
+            niter=niter,
+        )
     )
