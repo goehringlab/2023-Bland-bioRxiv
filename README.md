@@ -69,7 +69,7 @@ Figure S9: [A-D][a6824]\
 [Table S2][a4134]\
 [Table S4][a1912]
 
-Core code is found in _src_. Also relies heavily on the [par-segmentation](https://github.com/tsmbland/par-segmentation) and [discco](https://github.com/tsmbland/discco) packages.
+Core code is found in _src_. Also relies heavily on the [par-segmentation](https://github.com/goehringlab/par-segmentation) and [discco](https://github.com/tsmbland/discco) packages.
 
 ## Data availability
 
@@ -79,7 +79,7 @@ The vast majority of the data is image data, found in the __Imaging__ folder. Th
 - Raw images (one for each channel including DIC)
 - An autofluorescence-corrected image (_af_corrected.tif_), generated from the raw images using [SAIBR](https://github.com/goehringlab/saibr_fiji_plugin)
 - A preliminary manual ROI (_ROI_manual.txt_) generated using the [matplotlib-polyroi](https://github.com/tsmbland/matplotlib-polyroi) package
-- An optimised ROI (_ROI_fit.txt_) generated using the [par-segmentation](https://github.com/tsmbland/par-segmentation) package
+- An optimised ROI (_ROI_fit.txt_) generated using the [par-segmentation](https://github.com/goehringlab/par-segmentation) package
 - An nd file containing metadata
 
 Also includes the following datasets:
@@ -98,30 +98,30 @@ Also includes the following datasets:
 
 If you don't have the raw data, run:
 
-    docker run -it --rm -p 8888:8888 tsmbland/par2-paper
+    docker run -it --rm -p 8888:8888 ghcr.io/goehringlab/2023-bland-par2:latest
 
 If you have the raw data, run:
 
-    docker run -it --rm -p 8888:8888 -v /path/to/data:/RawData tsmbland/par2-paper
+    docker run -it --rm -p 8888:8888 -v /path/to/data:/RawData ghcr.io/goehringlab/2023-bland-par2:latest
 
 replacing /path/to/data with the path to the raw data folder on your system
 
 &#8291;3. Open Jupyter:
 
-    jupyter notebook --ip 0.0.0.0 --no-browser --allow-root Bland-et-al-2023
+    jupyter notebook --ip 0.0.0.0 --no-browser --allow-root 2023-Bland-par2
 
 This will print a couple of URLs at the bottom for you to copy and paste into your browser to open up Jupyter (please try both)
 
 &#8291;4. When finished, delete the Docker image:
 
-    docker image rm tsmbland/par2-paper
+    docker image rm ghcr.io/goehringlab/2023-bland-par2:latest
 
 ### Method 2 (Conda)
 
 &#8291;1. Clone the repository:
 
-    git clone --depth 1 https://github.com/tsmbland/Bland-et-al-2023.git
-    cd Bland-et-al-2023
+    git clone --depth 1 https://github.com/goehringlab/2023-Bland-par2.git
+    cd 2023-Bland-par2
 
 &#8291;2. Create conda environment:
 

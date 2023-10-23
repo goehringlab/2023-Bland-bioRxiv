@@ -17,4 +17,4 @@ RUN echo "source activate $(head -1 /tmp/environment.yml | cut -d' ' -f2)" > ~/.
 ENV PATH /opt/conda/envs/$(head -1 /tmp/environment.yml | cut -d' ' -f2)/bin:$PATH
 
 # Download code
-RUN git clone --depth 1 https://github.com/tsmbland/Bland-et-al-2023.git
+RUN git clone --depth 1 https://github.com/goehringlab/2023-Bland-par2.git
