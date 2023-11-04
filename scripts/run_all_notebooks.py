@@ -44,4 +44,7 @@ for i, f in enumerate(file_list):
 
 # Time elapsed
 elapsed_time = time.time() - start_time
-print('Finished! (%s minutes, %s seconds)' % (int(elapsed_time // 60), int(elapsed_time % 60)))
+print(
+    "Finished! (%s minutes, %s seconds)"
+    % (int(elapsed_time // 60), int(elapsed_time % 60))
+)
