@@ -101,7 +101,7 @@ def dataplot(
 def lighten(color, amount=1.8):
     try:
         c = mc.cnames[color]
-    except:
+    except:  # noqa
         c = color
     c = colorsys.rgb_to_hls(*mc.to_rgb(c))
     return colorsys.hls_to_rgb(c[0], max(0, min(1, amount * c[1])), c[2])

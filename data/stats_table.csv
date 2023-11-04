@@ -1,0 +1,4 @@
+Figure,Panel,Sample A,Sample B,Comparison,Measure,Units,Effect size,95% CI (lower),95% CI (upper),Key
+1,E,PAR-2(WT); par-3(wt),PAR-2(WT); par-3(it71),B-A,Posterior M:C ratio,,-9.257822263905757,-10.34105674136662,-8.168619976779,bPBbMV2LIL
+1,E,PAR-2(C56S); par-3(wt),PAR-2(C56S); par-3(it71),B-A,Posterior M:C ratio,,0.6337950368368852,0.2489113643339955,1.0517329356129497,HS6YU5pQ5U
+2,I,PAR-2(L109R); par-3(wt),PAR-2(L109R); par-3(it71),B-A,Posterior M:C ratio,,-0.09995977162717447,-0.595958145676619,0.3940184398192099,Gnxh2lFfC3

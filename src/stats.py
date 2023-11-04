@@ -1,6 +1,7 @@
 import numpy as np
 from typing import List, Callable
 import pandas as pd
+import os
 
 
 def bootstrap(data: List[np.array], func: Callable, niter: int = 1000) -> list:
@@ -66,3 +67,64 @@ def bootstrap_effect_size_pd(
             niter=niter,
         )
     )
+
+
+def add_stats_table_row(
+    figure: str,
+    panel: str,
+    sample_a: str,
+    sample_b: str,
+    measure: str, 
+    comparisons: np.array,
+    key: str,
+    units: str = "",
+    comparison: str = "B-A",
+    df_path: str = "../../../data/stats_table.csv",
+):
+    """_summary_
+
+    Args:
+        figure (str): _description_
+        panel (str): _description_
+        sample_a (str): _description_
+        sample_b (str): _description_
+        measure (str): _description_
+        units (str): _description_
+        comparisons (np.array): _description_
+        comparison (str, optional): _description_. Defaults to "B-A".
+        df_path (str, optional): _description_. Defaults to "../../../data/stats_table.csv".
+    """
+
+    # Import existing stats table
+    if os.path.exists(df_path):
+        df = pd.read_csv(df_path)
+    else:
+        df = pd.DataFrame()
+
+    # Delete row if row already exists
+    if not len(df.index[df['Key'] == key].tolist()) == 0:
+        df = df.drop(df.index[df['Key'] == key].tolist()[0])
+
+    # Create row
+    row = {
+        "Figure": figure,
+        "Panel": panel,
+        "Sample A": sample_a,
+        "Sample B": sample_b,
+        "Comparison": comparison,
+        'Measure': measure, 
+        'Units': units,
+        "Effect size": np.mean(comparisons),
+        "95% CI (lower)": np.percentile(comparisons, 2.5),
+        "95% CI (upper)": np.percentile(comparisons, 97.5),
+        'Key': key
+    }
+
+    # Add row to dataframe
+    df = pd.concat([df, pd.DataFrame(row, index=[0])], axis=0, ignore_index=True)
+
+    # Order dataframe
+    df = df.sort_values(by=["Figure", "Panel"])
+
+    # Save dataframe
+    df.to_csv(df_path, index=False)
