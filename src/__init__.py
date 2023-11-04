@@ -15,6 +15,7 @@ from par_segmentation import (
 )
 from discco import ImageQuant2
 from .helpers import (
+    dataplot,
     raw_data_path,
     lighten,
     fake_log,
@@ -26,4 +27,3 @@ from .helpers import (
 
 from .dimer_model_fit import EnergiesConfidenceIntervalPaired
 from .stats import bootstrap, bootstrap_effect_size_pd
-from .dataplot import dataplot
