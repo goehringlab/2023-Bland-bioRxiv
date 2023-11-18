@@ -1,3 +1,5 @@
+# PYDEVD_DISABLE_FILE_VALIDATION=1 python run_all_notebooks.py
+
 import sys
 
 sys.path.append("..")

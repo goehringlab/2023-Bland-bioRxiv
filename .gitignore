@@ -7,3 +7,8 @@ scripts/Other/
 .idea/
 /scripts/Tidy.ipynb
 Figs
+*.pyc
+.ruff_cache
+requirements.txt
+pyproject.toml
+src/__pycache__/

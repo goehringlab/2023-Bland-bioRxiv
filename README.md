@@ -108,7 +108,7 @@ replacing /path/to/data with the path to the raw data folder on your system
 
 &#8291;3. Open Jupyter:
 
-    jupyter notebook --ip 0.0.0.0 --no-browser --allow-root 2023-Bland-par2
+    jupyter notebook --ip 0.0.0.0 --no-browser --allow-root
 
 This will print a couple of URLs at the bottom for you to copy and paste into your browser to open up Jupyter (please try both)
 

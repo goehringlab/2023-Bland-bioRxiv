@@ -142,7 +142,7 @@ class EnergiesConfidenceIntervalUnpaired:
         # Run
         self.run()
 
-    def run(self, n_bootstrap=1000, n_x=100, interval=95):
+    def run(self, n_bootstrap=10000, n_x=100, interval=95):
         self.res_x = np.linspace(0, max(self.cyts), n_x)
 
         # Analysing full dataset
@@ -194,7 +194,7 @@ class EnergiesConfidenceIntervalUnpaired:
         params = popt
         return params
 
-    def bootstrap_fitting(self, cyts, mems, n=1000):
+    def bootstrap_fitting(self, cyts, mems, n=10000):
         params = np.zeros([n, 2])
         for i in range(n):
             inds = np.random.choice(range(len(cyts)), len(cyts))
@@ -267,7 +267,7 @@ class EnergiesConfidenceIntervalPaired:
         # Run
         self.run()
 
-    def run(self, n_bootstrap=1000, n_x=100, interval=95):
+    def run(self, n_bootstrap=10000, n_x=100, interval=95):
         # Analysing full dataset
         popt_full = self.single_fit([self.cyts, self.l109r], self.mems)
         self.res_x = [
@@ -385,7 +385,7 @@ class EnergiesConfidenceIntervalPaired:
         params = popt
         return params
 
-    def bootstrap_fitting(self, cyts_l109r, mems, n=1000):
+    def bootstrap_fitting(self, cyts_l109r, mems, n=10000):
         cyts, l109r = cyts_l109r
         if not self.fit_D:
             params = np.zeros([n, 3])

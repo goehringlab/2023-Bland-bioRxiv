@@ -1,4 +1,4 @@
-from par_segmentation import (
+from par_segmentation import (  # noqa
     ImageQuant,
     interp_1d_array,
     load_image,
@@ -7,14 +7,12 @@ from par_segmentation import (
     direcslist,
     straighten,
     bounded_mean_2d,
-    erf,
     error_func,
     gaus,
-    def_roi,
     dosage,
 )
-from discco import ImageQuant2
-from .helpers import (
+from discco import ImageQuant2  # noqa
+from .helpers import (  # noqa
     dataplot,
     raw_data_path,
     lighten,
@@ -25,5 +23,5 @@ from .helpers import (
     fold,
 )
 
-from .dimer_model_fit import EnergiesConfidenceIntervalPaired
-from .stats import bootstrap, bootstrap_effect_size_pd
+from .dimer_model_fit import EnergiesConfidenceIntervalPaired  # noqa
+from .stats import bootstrap, bootstrap_effect_size_pd, add_stats_table_row  # noqa
