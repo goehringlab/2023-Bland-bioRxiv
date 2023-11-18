@@ -1,4 +1,24 @@
-Figure,Panel,Sample A,Sample B,Comparison,Measure,Units,Effect size,95% CI (lower),95% CI (upper),Key
-1,E,PAR-2(WT); par-3(wt),PAR-2(WT); par-3(it71),B-A,Posterior M:C ratio,,-9.257822263905757,-10.34105674136662,-8.168619976779,bPBbMV2LIL
-1,E,PAR-2(C56S); par-3(wt),PAR-2(C56S); par-3(it71),B-A,Posterior M:C ratio,,0.6337950368368852,0.2489113643339955,1.0517329356129497,HS6YU5pQ5U
-2,I,PAR-2(L109R); par-3(wt),PAR-2(L109R); par-3(it71),B-A,Posterior M:C ratio,,-0.09995977162717447,-0.595958145676619,0.3940184398192099,Gnxh2lFfC3
+Figure,Panel,Sample A,Sample B,Measure,Effect size (B-A),95% CI (lower),95% CI (upper),Key
+1,E,PAR-2(WT); par-3(wt),PAR-2(WT); par-3(it71),Posterior M:C ratio,-9.25,-10.3,-8.16,bPBbMV2LIL
+1,E,PAR-2(C56S); par-3(wt),PAR-2(C56S); par-3(it71),Posterior M:C ratio,0.632,0.234,1.03,HS6YU5pQ5U
+1,G,PAR-2(WT),PAR-2(C56S),Cooperativity,-0.519,-0.69,-0.331,EoNvB1UKsp
+2,I,PAR-2(L109R); par-3(wt),PAR-2(L109R); par-3(it71),Posterior M:C ratio,-0.095,-0.572,0.385,Gnxh2lFfC3
+2,J,PAR-2(WT),PAR-2(L109R),Cooperativity,-0.474,-0.626,-0.303,8cNzrmowUR
+2,K,PAR-2(WT); control,PAR-2(WT); nop-1 RNAi,2 cell asymmetry,0.00377,-0.0117,0.0184,uWOeuWhzPs
+2,K,PAR-2(C56S); control,PAR-2(C56S); nop-1 RNAi,2 cell asymmetry,-0.0545,-0.0715,-0.0378,Lp9BssXFEN
+2,K,PAR-2(L109R); control,PAR-2(L109R); nop-1 RNAi,2 cell asymmetry,-0.0477,-0.0684,-0.0266,fWOJtiHbrF
+5,F,PAR-2(WT); par-3(wt),PAR-2(GCN4); par-3(wt),Fraction at PM,-0.166,-0.186,-0.144,aawszPTkQW
+5,F,PAR-2(WT); par-3(it71),PAR-2(GCN4); par-3(it71),Fraction at PM,-0.0424,-0.0617,-0.0233,OBtlrdzVwU
+5,F,PAR-2(WT); par-3(wt),PAR-2(WT); par-3(it71),Fraction at PM,0.0428,0.0258,0.0597,C4TqtEDU45
+5,F,PAR-2(GCN4); par-3(wt),PAR-2(GCN4); par-3(it71),Fraction at PM,0.166,0.143,0.189,4wa8Jog9aS
+5,H,PAR-2(WT),PAR-2(GCN4),Fraction at posterior PM,-0.24,-0.259,-0.22,3Cu4RWlApP
+5,H,PAR-2(PRBH),"PAR-2(GCN4,PRBH)",Fraction at posterior PM,0.165,0.147,0.182,24RVkaAmKz
+5,H,PAR-2(WT),PAR-2(PRBH),Fraction at posterior PM,-0.357,-0.373,-0.34,AqG0zqQGky
+5,H,PAR-2(GCN4),"PAR-2(GCN4,PRBH)",Fraction at posterior PM,0.0479,0.0281,0.0684,YeEWf0t8dF
+S2,D,PAR-2(WT); par-3(wt),PAR-2(C56S); par-3(wt),Cooperativity,-0.476,-0.732,-0.109,fjwQPEmbv7
+S2,D,PAR-2(WT); par-3(wt),PAR-2(L109R); par-3(wt),Cooperativity,-0.54,-0.766,-0.264,rV1Pgo39TS
+S2,H,PAR-2(WT); par-3(it71),PAR-2(C56S); par-3(it71),Cooperativity,-0.214,-0.434,0.0302,QAXlo1N17N
+S2,H,PAR-2(WT); par-3(it71),PAR-2(L109R); par-3(it71),Cooperativity,-0.279,-0.477,-0.0616,mzzAUPa4Rl
+S4,B,PAR-2(WT),PAR-2(L50R),Posterior M:C ratio,-11.9,-12.7,-11.0,AdvyF5RinK
+S4,B,PAR-2(C56S),"PAR-2(C56S,L109R)",Posterior M:C ratio,-0.0213,-0.457,0.393,wQhVJSlKeD
+S4,B,PAR-2(L109R),"PAR-2(L50R,L109R)",Posterior M:C ratio,-0.176,-0.666,0.302,j4t0Gvbi0v

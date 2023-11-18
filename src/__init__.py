@@ -7,10 +7,8 @@ from par_segmentation import (  # noqa
     direcslist,
     straighten,
     bounded_mean_2d,
-    erf,
     error_func,
     gaus,
-    def_roi,
     dosage,
 )
 from discco import ImageQuant2  # noqa

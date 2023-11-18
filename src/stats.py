@@ -4,7 +4,7 @@ import pandas as pd
 import os
 
 
-def bootstrap(data: List[np.array], func: Callable, niter: int = 1000) -> list:
+def bootstrap(data: List[np.array], func: Callable, niter: int = 10000) -> list:
     """
 
     Basic function for doing bootstrap analysis
@@ -37,7 +37,7 @@ def bootstrap(data: List[np.array], func: Callable, niter: int = 1000) -> list:
 
 
 def bootstrap_effect_size_pd(
-    data: pd.DataFrame, x: str, y: str, a: str, b: str, niter: int = 1000
+    data: pd.DataFrame, x: str, y: str, a: str, b: str, niter: int = 10000
 ) -> np.array:
     """
 
@@ -77,8 +77,6 @@ def add_stats_table_row(
     measure: str, 
     comparisons: np.array,
     key: str,
-    units: str = "",
-    comparison: str = "B-A",
     df_path: str = "../../../data/stats_table.csv",
 ):
     """_summary_
@@ -111,12 +109,10 @@ def add_stats_table_row(
         "Panel": panel,
         "Sample A": sample_a,
         "Sample B": sample_b,
-        "Comparison": comparison,
         'Measure': measure, 
-        'Units': units,
-        "Effect size": np.mean(comparisons),
-        "95% CI (lower)": np.percentile(comparisons, 2.5),
-        "95% CI (upper)": np.percentile(comparisons, 97.5),
+        "Effect size (B-A)": '{:.3g}'.format(np.mean(comparisons)),
+        "95% CI (lower)": '{:.3g}'.format(np.percentile(comparisons, 2.5)),
+        "95% CI (upper)": '{:.3g}'.format(np.percentile(comparisons, 97.5)),
         'Key': key
     }
 

@@ -1,0 +1,8 @@
+scripts/Illustrator/
+scripts/PDFs/
+scripts/PNGs/
+scripts/Other/
+.ipynb_checkpoints
+.DS_Store
+/scripts/Tidy.ipynb
+Figs
