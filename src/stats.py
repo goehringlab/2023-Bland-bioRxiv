@@ -1,19 +1,19 @@
-import numpy as np
-from typing import List, Callable
-import pandas as pd
 import os
+from typing import Callable, List
+
+import numpy as np
+import pandas as pd
 
 
 def bootstrap(data: List[np.array], func: Callable, niter: int = 10000) -> list:
     """
-
-    Basic function for doing bootstrap analysis
+    Basic function for doing bootstrap analysis.
 
     Args:
         data (List[np.array]): data, list of numpy arrays
         func (Callable): will perform this function on the data to calculate output
             e.g. lambda x: np.mean(x[1]) - np.mean(x[0])
-        niter (int, optional): number of bootstrap samples. Defaults to 1000.
+        niter (int, optional): number of bootstrap samples. Defaults to 10000.
 
     Returns:
         np.array: ninter bootstrap values
@@ -40,8 +40,7 @@ def bootstrap_effect_size_pd(
     data: pd.DataFrame, x: str, y: str, a: str, b: str, niter: int = 10000
 ) -> np.array:
     """
-
-    Bootstrapping on data in a pandas dataframe to find the effect size of an intervention
+    Bootstrapping on data in a pandas dataframe to find the effect size of an intervention.
 
     Args:
         data (pd.Dataframe): pandas dataframe containing data
@@ -74,7 +73,7 @@ def add_stats_table_row(
     panel: str,
     sample_a: str,
     sample_b: str,
-    measure: str, 
+    measure: str,
     comparisons: np.array,
     key: str,
     df_path: str = "../../../data/stats_table.csv",
@@ -100,8 +99,8 @@ def add_stats_table_row(
         df = pd.DataFrame()
 
     # Delete row if row already exists
-    if not len(df.index[df['Key'] == key].tolist()) == 0:
-        df = df.drop(df.index[df['Key'] == key].tolist()[0])
+    if not len(df.index[df["Key"] == key].tolist()) == 0:
+        df = df.drop(df.index[df["Key"] == key].tolist()[0])
 
     # Create row
     row = {
@@ -109,11 +108,11 @@ def add_stats_table_row(
         "Panel": panel,
         "Sample A": sample_a,
         "Sample B": sample_b,
-        'Measure': measure, 
-        "Effect size (B-A)": '{:.3g}'.format(np.mean(comparisons)),
-        "95% CI (lower)": '{:.3g}'.format(np.percentile(comparisons, 2.5)),
-        "95% CI (upper)": '{:.3g}'.format(np.percentile(comparisons, 97.5)),
-        'Key': key
+        "Measure": measure,
+        "Effect size (B-A)": "{:.3g}".format(np.mean(comparisons)),
+        "95% CI (lower)": "{:.3g}".format(np.percentile(comparisons, 2.5)),
+        "95% CI (upper)": "{:.3g}".format(np.percentile(comparisons, 97.5)),
+        "Key": key,
     }
 
     # Add row to dataframe

@@ -9,6 +9,7 @@ scripts/Other/
 Figs
 *.pyc
 .ruff_cache
-requirements.txt
-pyproject.toml
 src/__pycache__/
+.venv
+*.egg-info
+raw_data

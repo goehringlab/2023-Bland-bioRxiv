@@ -1,10 +1,11 @@
-import numpy as np
-from matplotlib.ticker import FuncFormatter
-import matplotlib.colors as mc
 import colorsys
-import random
 import os
+import random
+
+import matplotlib.colors as mc
+import numpy as np
 import seaborn as sns
+from matplotlib.ticker import FuncFormatter
 
 np.random.seed(12345)
 
@@ -13,14 +14,10 @@ Path to the raw data
 
 """
 
-# If using Docker, will set automatically
-if os.path.exists("/RawData"):
-    raw_data_path = "/RawData/"
+if os.path.exists(os.path.dirname(os.path.abspath(__file__)) + "/../raw_data/"):
+    raw_data_path = os.path.dirname(os.path.abspath(__file__)) + "/../raw_data/"
 else:
     raw_data_path = None
-
-# If using Conda, will need to set manually (otherwise comment out)
-# raw_data_path = '/Users/blandt/Desktop/PaperData/'
 
 
 """

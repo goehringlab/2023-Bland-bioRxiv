@@ -1,0 +1,50 @@
+[build-system]
+requires = ["setuptools"]
+
+[tool.setuptools]
+packages = ["src"]
+
+[project]
+name = "src"
+readme = "README.md"
+version = "0.0.0"
+license = {file = "LICENSE"}
+authors = [
+    { name = "Tom Bland" },
+]
+dependencies = [
+  "numpy",
+  "matplotlib",
+  "ipywidgets",
+  "ipympl",
+  "jupyter",
+  "scipy",
+  "pandas",
+  "seaborn==0.11.0",
+  "jax",
+  "optax",
+  "tensorflow",
+  "scikit-image",
+  "tqdm",
+  "sympy",
+  "opencv-python",
+  "opencv-contrib-python-headless",
+  "discco==0.2.7",
+  "par-segmentation==0.1.12",
+  "saibr==0.1.6",
+  "matplotlib-polyroi==0.1.7",
+  "nbformat",
+  "nbconvert",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pre-commit",
+    "black[jupyter]",
+    "pip-tools",
+    "ruff",
+]
+
+[tool.ruff]
+extend-include = ["*.ipynb"]
+select = ["E", "F", "I"] 

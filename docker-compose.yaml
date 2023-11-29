@@ -1,0 +1,14 @@
+version: '3'
+services:
+  app:
+    build:
+      context: .
+    volumes:
+      - ./src:/app/src
+      - ./scripts:/app/scripts
+      - ./data:/app/data
+      - /Users/blandt/Desktop/PaperData:/app/raw_data
+    stdin_open: true
+    tty: true
+    ports:
+      - 8888:8888
