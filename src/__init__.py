@@ -13,6 +13,7 @@ from par_segmentation import (  # noqa
 )
 from discco import ImageQuant2  # noqa
 from .helpers import (  # noqa
+    nb_setup,
     dataplot,
     raw_data_path,
     lighten,

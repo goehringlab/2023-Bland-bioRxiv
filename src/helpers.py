@@ -2,11 +2,13 @@ import colorsys
 import os
 import random
 
+import matplotlib as mpl
 import matplotlib.colors as mc
 import numpy as np
 import seaborn as sns
 from matplotlib.ticker import FuncFormatter
 
+random.seed(12345)
 np.random.seed(12345)
 
 """ 
@@ -18,6 +20,23 @@ if os.path.exists(os.path.dirname(os.path.abspath(__file__)) + "/../raw_data/"):
     raw_data_path = os.path.dirname(os.path.abspath(__file__)) + "/../raw_data/"
 else:
     raw_data_path = None
+
+
+"""
+Setup notebooks
+
+"""
+
+
+def nb_setup():
+    # Random seed
+    random.seed(12345)
+    np.random.seed(12345)
+
+    # Matplotib setup
+    mpl.rcParams["pdf.fonttype"] = 42
+    mpl.rcParams["ps.usedistiller"] = "xpdf"
+    mpl.rc("font", **{"family": "sans-serif", "sans-serif": ["Myriad Pro"]})
 
 
 """

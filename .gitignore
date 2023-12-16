@@ -13,3 +13,4 @@ src/__pycache__/
 .venv
 *.egg-info
 raw_data
+scripts/Exploratory/
