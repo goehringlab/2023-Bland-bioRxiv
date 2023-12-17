@@ -96,15 +96,17 @@ To ensure reproducibility, it is best to run the project in a Docker container. 
 
 &#8291;1. Make sure [Docker](https://www.docker.com/products/docker-desktop/) is installed and open on your machine 
 
-&#8291;2. Having downloaded the code and naviaged to the project directory, build the docker container
+&#8291;2. Download/clone the code and navigate to the project directory
+
+&#8291;3. Build the Docker container
 
     docker-compose build
 
-&#8291;3. Once the build has completed, run the docker container
+&#8291;4. Once the build has completed, run the docker container
 
     docker-compose run -p 8888:8888 app
 
-&#8291;4. Open Jupyter
+&#8291;5. Open Jupyter
 
     jupyter notebook --ip 0.0.0.0 --no-browser --allow-root
 
