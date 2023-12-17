@@ -2,7 +2,6 @@
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 [![run with docker](https://img.shields.io/badge/run%20with-docker-0db7ed?logo=docker)](https://www.docker.com/)
-[![run with conda](http://img.shields.io/badge/run%20with-conda-3EB049?logo=anaconda)](https://docs.conda.io/en/latest/)
 
 Complete analysis code for the paper `"Optimized dimerization of the PAR-2 RING domain drives cooperative and selective membrane recruitment for robust feedback-driven cell polarization" (Bland et al., 2023)` [BioRxiv link](https://www.biorxiv.org/content/10.1101/2023.08.10.552581v1)
 
@@ -59,15 +58,13 @@ Figure 2: [A][a3603], [B][a5616], [F-G][a9706], [H][a5498], [I][a1487], [J][a849
 Figure 3: [B-D][a5886], [F][a6801]\
 Figure 4: [A-B][a1834], [C][a6684], [D][a9397], [E][a4186]\
 Figure 5: [A][a8987], [C-D][a6824], [E-F][a5514], [G-H][a9246]\
-Figure S1: [A][a8752], [C-D][a2111], [F][a6427], [G][a9147]\
-Figure S2: [A-H][a8492]\
-Figure S4: [B][a7601]\
-Figure S6: [B-F][a6801]\
-Figure S7: [A-B][a5302]\
-Figure S8: [B-D][a9263]\
-Figure S9: [A-D][a6824]\
-[Table S2][a4134]\
-[Table S4][a1912]
+Figure EV1: [A-D][a8492], [E][a4134]\
+Figure EV3: [B-C][a5302]\
+Figure EV4: [B-D][a9263]\
+Figure EV5: [A][a8752], [C-D][a2111], [F][a6427], [G][a9147]\
+Figure S1: [D][a7601]\
+Figure S2: [B-F][a6801], [G][a1912]\
+Figure S3: [A-D][a6824]
 
 Core code is found in `src`. Also relies heavily on the [par-segmentation](https://github.com/goehringlab/par-segmentation) and [discco](https://github.com/tsmbland/discco) packages.
 
