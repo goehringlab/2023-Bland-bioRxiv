@@ -11,7 +11,7 @@ absl-py==2.0.0
     #   par-segmentation
     #   tensorboard
     #   tensorflow
-anyio==4.1.0
+anyio==4.2.0
     # via jupyter-server
 appnope==0.1.3
     # via ipykernel
@@ -31,7 +31,7 @@ attrs==23.1.0
     # via
     #   jsonschema
     #   referencing
-babel==2.13.1
+babel==2.14.0
     # via jupyterlab-server
 beautifulsoup4==4.12.2
     # via nbconvert
@@ -69,21 +69,21 @@ fastjsonschema==2.19.0
     # via nbformat
 flatbuffers==23.5.26
     # via tensorflow
-fonttools==4.45.1
+fonttools==4.46.0
     # via matplotlib
 fqdn==1.5.1
     # via jsonschema
 gast==0.5.4
     # via tensorflow
-google-auth==2.23.4
+google-auth==2.25.2
     # via
     #   google-auth-oauthlib
     #   tensorboard
-google-auth-oauthlib==1.1.0
+google-auth-oauthlib==1.2.0
     # via tensorboard
 google-pasta==0.2.0
     # via tensorflow
-grpcio==1.59.3
+grpcio==1.60.0
     # via
     #   tensorboard
     #   tensorflow
@@ -94,7 +94,7 @@ idna==3.6
     #   anyio
     #   jsonschema
     #   requests
-imageio==2.33.0
+imageio==2.33.1
     # via scikit-image
 ipykernel==6.27.1
     # via
@@ -123,13 +123,13 @@ ipywidgets==8.1.1
     #   src (pyproject.toml)
 isoduration==20.11.0
     # via jsonschema
-jax==0.4.20
+jax==0.4.23
     # via
     #   chex
     #   discco
     #   optax
     #   src (pyproject.toml)
-jaxlib==0.4.20
+jaxlib==0.4.23
     # via
     #   chex
     #   optax
@@ -154,7 +154,7 @@ jsonschema[format-nongpl]==4.20.0
     #   jupyter-events
     #   jupyterlab-server
     #   nbformat
-jsonschema-specifications==2023.11.1
+jsonschema-specifications==2023.11.2
     # via jsonschema
 jupyter==1.0.0
     # via
@@ -185,14 +185,14 @@ jupyter-events==0.9.0
     # via jupyter-server
 jupyter-lsp==2.2.1
     # via jupyterlab
-jupyter-server==2.11.1
+jupyter-server==2.12.1
     # via
     #   jupyter-lsp
     #   jupyterlab
     #   jupyterlab-server
     #   notebook
     #   notebook-shim
-jupyter-server-terminals==0.4.4
+jupyter-server-terminals==0.5.0
     # via jupyter-server
 jupyterlab==4.0.9
     # via notebook
@@ -247,7 +247,7 @@ mpmath==1.3.0
     # via sympy
 nbclient==0.9.0
     # via nbconvert
-nbconvert==7.11.0
+nbconvert==7.12.0
     # via
     #   jupyter
     #   jupyter-server
@@ -327,7 +327,7 @@ packaging==23.2
     #   qtpy
     #   scikit-image
     #   tensorflow
-pandas==2.1.3
+pandas==2.1.4
     # via
     #   discco
     #   par-segmentation
@@ -349,11 +349,11 @@ pillow==10.1.0
     #   ipympl
     #   matplotlib
     #   scikit-image
-platformdirs==4.0.0
+platformdirs==4.1.0
     # via jupyter-core
 prometheus-client==0.19.0
     # via jupyter-server
-prompt-toolkit==3.0.41
+prompt-toolkit==3.0.43
     # via
     #   ipython
     #   jupyter-console
@@ -397,7 +397,7 @@ pytz==2023.3.post1
     # via pandas
 pyyaml==6.0.1
     # via jupyter-events
-pyzmq==25.1.1
+pyzmq==25.1.2
     # via
     #   ipykernel
     #   jupyter-client
@@ -408,7 +408,7 @@ qtconsole==5.5.1
     # via jupyter
 qtpy==2.4.1
     # via qtconsole
-referencing==0.31.0
+referencing==0.32.0
     # via
     #   jsonschema
     #   jsonschema-specifications
@@ -428,7 +428,7 @@ rfc3986-validator==0.1.1
     # via
     #   jsonschema
     #   jupyter-events
-rpds-py==0.13.1
+rpds-py==0.13.2
     # via
     #   jsonschema
     #   referencing
@@ -490,7 +490,7 @@ tensorflow-estimator==2.15.0
     # via tensorflow
 tensorflow-io-gcs-filesystem==0.34.0
     # via tensorflow
-termcolor==2.3.0
+termcolor==2.4.0
     # via tensorflow
 terminado==0.18.0
     # via
@@ -498,13 +498,13 @@ terminado==0.18.0
     #   jupyter-server-terminals
 threadpoolctl==3.2.0
     # via scikit-learn
-tifffile==2023.9.26
+tifffile==2023.12.9
     # via scikit-image
 tinycss2==1.2.1
     # via nbconvert
 toolz==0.12.0
     # via chex
-tornado==6.3.3
+tornado==6.4
     # via
     #   ipykernel
     #   jupyter-client
@@ -537,7 +537,7 @@ traitlets==5.14.0
     #   qtconsole
 types-python-dateutil==2.8.19.14
     # via arrow
-typing-extensions==4.8.0
+typing-extensions==4.9.0
     # via
     #   chex
     #   tensorflow
@@ -555,7 +555,7 @@ webencodings==0.5.1
     # via
     #   bleach
     #   tinycss2
-websocket-client==1.6.4
+websocket-client==1.7.0
     # via jupyter-server
 werkzeug==3.0.1
     # via tensorboard

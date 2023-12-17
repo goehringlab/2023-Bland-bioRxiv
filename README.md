@@ -9,11 +9,11 @@ Complete analysis code for the paper `"Optimized dimerization of the PAR-2 RING 
 
 ## Code structure
 
-Notebooks used to perform the analysis in the paper and generate most of the figure panels are found in _scripts_.
+Notebooks used to perform the analysis in the paper and generate most of the figure panels are found in `scripts`.
 This is split into two sections:
 
-- __Run__: notebooks used to perform quantification on raw images, and save results in the _data_ folder (e.g. _ph_quantify.ipynb_ outputs the data file _ph_quantification.csv_). Running these scripts requires access to the raw data repository (i.e. image files, see below). 
-- __Analysis__: notebooks used to perform downstream analysis on the quantification results from above and generate figure panels (which are saved in a series of '_Figs_' folders). Most figures can be created without access to the raw data repository, but some do require access to raw data (e.g. panels displaying specific images). Also includes SEC-MALS analysis and modelling.
+- __`Run`__: notebooks used to perform quantification on raw images, and save results in the `data` folder (e.g. `ph_quantify.ipynb` outputs the data file `ph_quantification.csv`). Running these scripts requires access to the raw data repository (i.e. image files, see below). 
+- __`Analysis`__: notebooks used to perform downstream analysis on the quantification results from above and generate figure panels (which are saved in a series of `Figs` folders). Most figures can be created without access to the raw data repository, but some do require access to raw data (e.g. panels displaying specific images). Also includes SEC-MALS analysis and modelling.
 
 Notebooks for creating specific figure panels:
 
@@ -69,73 +69,48 @@ Figure S9: [A-D][a6824]\
 [Table S2][a4134]\
 [Table S4][a1912]
 
-Core code is found in _src_. Also relies heavily on the [par-segmentation](https://github.com/goehringlab/par-segmentation) and [discco](https://github.com/tsmbland/discco) packages.
+Core code is found in `src`. Also relies heavily on the [par-segmentation](https://github.com/goehringlab/par-segmentation) and [discco](https://github.com/tsmbland/discco) packages.
 
 ## Data availability
 
 The entire dataset will be made publicly available (~7.5 GB). 
 
-The vast majority of the data is image data, found in the __Imaging__ folder. This is organised into a series of folders representing different experiments, and subfolders representing experimental conditions (worm strain, date, RNAi, acquisition settings). Data for individual embryos are further separated into folders. Within each embryo folder you will find:
+The vast majority of the data is image data, found in the __`Imaging`__ folder. This is organised into a series of folders representing different experiments, and subfolders representing experimental conditions (worm strain, date, RNAi, acquisition settings). Data for individual embryos are further separated into folders. Within each embryo folder you will find:
 - Raw images (one for each channel including DIC)
-- An autofluorescence-corrected image (_af_corrected.tif_), generated from the raw images using [SAIBR](https://github.com/goehringlab/saibr_fiji_plugin)
-- A preliminary manual ROI (_ROI_manual.txt_) generated using the [matplotlib-polyroi](https://github.com/tsmbland/matplotlib-polyroi) package
-- An optimised ROI (_ROI_fit.txt_) generated using the [par-segmentation](https://github.com/goehringlab/par-segmentation) package
-- An nd file containing metadata
+- An autofluorescence-corrected image (`af_corrected.tif`), generated from the raw images using [SAIBR](https://github.com/goehringlab/saibr_fiji_plugin)
+- A preliminary manual ROI (`ROI_manual.txt`) generated using the [matplotlib-polyroi](https://github.com/tsmbland/matplotlib-polyroi) package
+- An optimised ROI (`ROI_fit.txt`) generated using the [par-segmentation](https://github.com/goehringlab/par-segmentation) package
+- An `nd` file containing metadata
 
 Also includes the following datasets:
-- __AlphaFold__: a PDB file for the PAR-2 RING domain dimer
-- __Sequence alignments__: FASTA and Jalview files for the RING domain sequence alignments
-- __SEC MALS__: Raw SEC-MALS data for the PAR-2 RING domain
+- __`AlphaFold`__: a PDB file for the PAR-2 RING domain dimer
+- __`Sequence alignments`__: FASTA and Jalview files for the RING domain sequence alignments
+- __`SEC MALS`__: Raw SEC-MALS data for the PAR-2 RING domain
 
 
 ## Installation
 
-### Method 1 (Docker)
+Package requirements are listed in `requirements.txt`
+
+To ensure reproducibility, it is best to run the project in a Docker container. To do this, perform the following steps:
 
 &#8291;1. Make sure [Docker](https://www.docker.com/products/docker-desktop/) is installed and open on your machine 
 
-&#8291;2. Download and run the Docker container (~2 GB)
+&#8291;2. Having downloaded the code and naviaged to the project directory, build the docker container
 
-If you don't have the raw data, run:
+    docker-compose build
 
-    docker run -it --rm -p 8888:8888 ghcr.io/goehringlab/2023-bland-par2:latest
+&#8291;3. Once the build has completed, run the docker container
 
-If you have the raw data, run:
+    docker-compose run -p 8888:8888 app
 
-    docker run -it --rm -p 8888:8888 -v /path/to/data:/RawData ghcr.io/goehringlab/2023-bland-par2:latest
-
-replacing /path/to/data with the path to the raw data folder on your system
-
-&#8291;3. Open Jupyter:
+&#8291;4. Open Jupyter
 
     jupyter notebook --ip 0.0.0.0 --no-browser --allow-root
 
-This will print a couple of URLs at the bottom for you to copy and paste into your browser to open up Jupyter (please try both)
+This will print a couple of URLs at the bottom of your terminal. Copy and paste the second of these into your browser to open up Jupyter.
 
-&#8291;4. When finished, delete the Docker image:
-
-    docker image rm ghcr.io/goehringlab/2023-bland-par2:latest
-
-### Method 2 (Conda)
-
-&#8291;1. Clone the repository:
-
-    git clone --depth 1 https://github.com/goehringlab/2023-Bland-par2.git
-    cd 2023-Bland-par2
-
-&#8291;2. Create conda environment:
-
-    conda env create -f environment.yml
-
-&#8291;3. Activate conda environment:
-
-    conda activate par2_paper
-
-&#8291;4. If you decide to download the raw data, you must specify _raw_data_path_ in _src/helpers.py_
-
-&#8291;5. Open Jupyter:
-
-    jupyter notebook
+NOTE: If you're using the raw data, you must either place it inside the project directory as a folder named `raw_data`, or change the path in `docker-compose.yaml` where indicated. Otherwise, you should delete this line.
 
 ## License
 

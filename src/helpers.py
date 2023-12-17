@@ -34,9 +34,15 @@ def nb_setup():
     np.random.seed(12345)
 
     # Matplotib setup
+    mpl.rcParams["figure.dpi"] = 150
     mpl.rcParams["pdf.fonttype"] = 42
+    mpl.rcParams['svg.fonttype'] = 'none'
     mpl.rcParams["ps.usedistiller"] = "xpdf"
-    mpl.rc("font", **{"family": "sans-serif", "sans-serif": ["Myriad Pro"]})
+    mpl.rc("font", **{"family": "sans-serif", "sans-serif": ["Arial"]})
+    mpl.rcParams['mathtext.fontset'] = 'custom'
+    mpl.rcParams['mathtext.rm'] = 'Arial'
+    mpl.rcParams['mathtext.it'] = 'Arial:italic'
+    mpl.rcParams['mathtext.bf'] = 'Arial:bold'
 
 
 """

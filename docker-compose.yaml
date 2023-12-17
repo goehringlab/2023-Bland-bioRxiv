@@ -7,7 +7,7 @@ services:
       - ./src:/app/src
       - ./scripts:/app/scripts
       - ./data:/app/data
-      - /Users/blandt/Desktop/PaperData:/app/raw_data
+      - ./raw_data:/app/raw_data  # Specify raw data path (i.e. /path/to/data:/app/raw_data), or delete this line
     stdin_open: true
     tty: true
     ports:
