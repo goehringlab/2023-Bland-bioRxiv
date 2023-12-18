@@ -58,14 +58,19 @@ def bootstrap_effect_size_pd(
     data_a = data[data[x] == a][y].to_numpy()
     data_b = data[data[x] == b][y].to_numpy()
 
+    # Calculate effect size
+    effect_size = np.mean(data_b) - np.mean(data_a)
+
     # Perform bootstrap analysis
-    return np.array(
+    probability_distribution = np.array(
         bootstrap(
             data=[data_a, data_b],
             func=lambda x: np.mean(x[1]) - np.mean(x[0]),
             niter=niter,
         )
     )
+
+    return effect_size, probability_distribution
 
 
 def add_stats_table_row(
@@ -74,7 +79,8 @@ def add_stats_table_row(
     sample_a: str,
     sample_b: str,
     measure: str,
-    comparisons: np.array,
+    effect_size: float,
+    probability_distribution: np.array,
     key: str,
     df_path: str = "../../../data/stats_table.csv",
 ):
@@ -109,9 +115,11 @@ def add_stats_table_row(
         "Sample A": sample_a,
         "Sample B": sample_b,
         "Measure": measure,
-        "Effect size (B-A)": "{:.3g}".format(np.mean(comparisons)),
-        "95% CI (lower)": "{:.3g}".format(np.percentile(comparisons, 2.5)),
-        "95% CI (upper)": "{:.3g}".format(np.percentile(comparisons, 97.5)),
+        "Effect size (B-A)": "{:.3g}".format(effect_size),
+        "95% CI (lower)": "{:.3g}".format(np.percentile(probability_distribution, 2.5)),
+        "95% CI (upper)": "{:.3g}".format(
+            np.percentile(probability_distribution, 97.5)
+        ),
         "Key": key,
     }
 

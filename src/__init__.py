@@ -1,3 +1,4 @@
+# Image analysis functions
 from par_segmentation import (  # noqa
     ImageQuant,
     interp_1d_array,
@@ -12,17 +13,27 @@ from par_segmentation import (  # noqa
     dosage,
 )
 from discco import ImageQuant2  # noqa
+
+# Helper functions
 from .helpers import (  # noqa
     nb_setup,
-    dataplot,
     raw_data_path,
+    fold,
+)
+
+# Plotting functions
+from .plottling import (  # noqa
+    dataplot,
     lighten,
     fake_log,
     minor_ticks,
     random_grouped_scatter,
     log_molar_to_micromolar,
-    fold,
 )
 
+# Model fitting functions
 from .dimer_model_fit import EnergiesConfidenceIntervalPaired  # noqa
+from .rundowns_regression import ExponentConfidenceInterval  # noqa
+
+# Statistics functions
 from .stats import bootstrap, bootstrap_effect_size_pd, add_stats_table_row  # noqa
