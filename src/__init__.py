@@ -11,6 +11,7 @@ from par_segmentation import (  # noqa
     error_func,
     gaus,
     dosage,
+    save_img,
 )
 from discco import ImageQuant2  # noqa
 

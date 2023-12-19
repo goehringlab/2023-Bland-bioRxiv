@@ -14,3 +14,4 @@ src/__pycache__/
 *.egg-info
 raw_data
 scripts/Exploratory/
+data/EMBO_Source_Data/

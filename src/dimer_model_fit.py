@@ -164,6 +164,7 @@ class EnergiesConfidenceIntervalPaired:
         self.mem_dim_upper = [None, None]
 
         # Run
+        self.p0_curve_fit, self.bounds_curve_fit = self.setup_curve_fit()
         self.run()
 
     def run(self, n_bootstrap=10000, n_x=100, interval=95):
@@ -266,17 +267,16 @@ class EnergiesConfidenceIntervalPaired:
                 all_mem_dim[j], 50 + (interval / 2), axis=0
             )
 
-    def single_fit(self, cyt_l109r, mem):
+    def setup_curve_fit(self):
         """
-        Fits the model to the data.
-
-        Args:
-            cyt_l109r (list): Cytoplasmic concentrations and L109R genotype
-            mem (np.array): Membrane concentrations
+        Sets up the initial guess and bounds for the curve fitting process.
 
         Returns:
-            params (np.array): The parameters of the fitted model.
+            list: The initial guess for the parameters.
+            list: The lower and upper bounds for the parameters.
+
         """
+
         # Small value used to set bounds for fixed parameters
         epsilon = 0.00000001
 
@@ -300,15 +300,29 @@ class EnergiesConfidenceIntervalPaired:
             bounds[1].append(np.inf)
             p0.append(0)
 
-        # Use curve_fit to fit the model to the data
-        popt, pcov = curve_fit(
-            self.model, np.array(cyt_l109r), mem, maxfev=10000000, p0=p0, bounds=bounds
+        return p0, bounds
+
+    def single_fit(self, cyt_l109r, mem):
+        """
+        Fits the model to the data.
+
+        Args:
+            cyt_l109r (list): Cytoplasmic concentrations and L109R genotype
+            mem (np.array): Membrane concentrations
+
+        Returns:
+            params (np.array): The parameters of the fitted model.
+        """
+
+        popt, _ = curve_fit(
+            self.model,
+            np.array(cyt_l109r),
+            mem,
+            maxfev=10000000,
+            p0=self.p0_curve_fit,
+            bounds=self.bounds_curve_fit,
         )
-
-        # Extract the fitted parameters
-        params = popt
-
-        return params
+        return popt
 
     def bootstrap_fitting(self, cyts_l109r, mems, n=10000):
         """
@@ -355,117 +369,4 @@ class EnergiesConfidenceIntervalPaired:
             params[i, :] = self.single_fit([_cyts, _l109r], _mems)
 
         # Return the parameters for each bootstrap sample
-        return params
-
-
-class EnergiesConfidenceIntervalUnpaired:
-    """A class used to calculate the confidence interval of energy levels in an unpaired system.
-
-    LEGACY - not used in the final analysis.
-
-    """
-
-    def __init__(self, df, whole_embryo=False, log=False, fix_ka=False, p0=(15, 5)):
-        # Input
-        self.log = log
-        if self.log:
-            self.cyts = np.log10(df.Cyt.to_numpy())
-        else:
-            self.cyts = df.Cyt.to_numpy()
-        if not whole_embryo:
-            if self.log:
-                self.mems = np.log10(df.Mem_post.to_numpy())
-            else:
-                self.mems = df.Mem_post.to_numpy()
-        else:
-            if self.log:
-                self.mems = np.log10(df.Mem_tot.to_numpy())
-            else:
-                self.mems = df.Mem_tot.to_numpy()
-        self.unipol = df.UniPol.tolist()
-
-        # Model
-        if self.log:
-            self.model = model_unpaired_log
-        else:
-            self.model = model_unpaired
-        self.fix_ka = fix_ka
-        self.p0 = p0
-
-        # Output
-        self.res_x = None
-        self.res_y = None
-        self.ka_full = None
-        self.km_full = None
-        self.kas = None
-        self.kms = None
-        self.all_fits_lower = None
-        self.all_fits_upper = None
-        self.cyt_dim = None
-        self.mem_dim = None
-        self.cyt_dim_lower = None
-        self.cyt_dim_upper = None
-        self.mem_dim_lower = None
-        self.mem_dim_upper = None
-
-        # Run
-        self.run()
-
-    def run(self, n_bootstrap=10000, n_x=100, interval=95):
-        self.res_x = np.linspace(0, max(self.cyts), n_x)
-
-        # Analysing full dataset
-        popt_full = self.single_fit(self.cyts, self.mems)
-        self.res_y = self.model(self.res_x, *popt_full)
-        self.ka_full = popt_full[0]
-        self.km_full = popt_full[1]
-        if self.log:
-            self.cyt_dim = 100 * dimer_fraction(10**self.res_x, self.ka_full)
-            self.mem_dim = 100 * dimer_fraction(10**self.res_y, self.ka_full)
-        else:
-            self.cyt_dim = 100 * dimer_fraction(self.res_x, self.ka_full)
-            self.mem_dim = 100 * dimer_fraction(self.res_y, self.ka_full)
-
-        # Bootstrapping
-        params = self.bootstrap_fitting(self.cyts, self.mems)
-        self.kas = params[:, 0]
-        self.kms = params[:, 1]
-
-        # Confidence interval
-        all_fits = np.zeros([n_bootstrap, n_x])
-        all_cyt_dim = np.zeros([n_bootstrap, n_x])
-        all_mem_dim = np.zeros([n_bootstrap, n_x])
-        for i, p in enumerate(params):
-            all_fits[i, :] = self.model(self.res_x, *p)
-            if self.log:
-                all_cyt_dim[i, :] = 100 * dimer_fraction(10**self.res_x, p[0])
-                all_mem_dim[i, :] = 100 * dimer_fraction(10**self.res_y, p[0])
-            else:
-                all_cyt_dim[i, :] = 100 * dimer_fraction(self.res_x, p[0])
-                all_mem_dim[i, :] = 100 * dimer_fraction(self.res_y, p[0])
-        self.all_fits_lower = np.percentile(all_fits, (100 - interval) / 2, axis=0)
-        self.all_fits_upper = np.percentile(all_fits, 50 + (interval / 2), axis=0)
-        self.cyt_dim_lower = np.percentile(all_cyt_dim, (100 - interval) / 2, axis=0)
-        self.cyt_dim_upper = np.percentile(all_cyt_dim, 50 + (interval / 2), axis=0)
-        self.mem_dim_lower = np.percentile(all_mem_dim, (100 - interval) / 2, axis=0)
-        self.mem_dim_upper = np.percentile(all_mem_dim, 50 + (interval / 2), axis=0)
-
-    def single_fit(self, cyt, mem):
-        bounds = [[-np.inf, -np.inf], [np.inf, np.inf]]
-        epsilon = 0.00000001
-        if self.fix_ka:
-            bounds[0][0], bounds[1][0] = self.p0[0] - epsilon, self.p0[0] + epsilon
-        p0 = self.p0
-
-        popt, pcov = curve_fit(
-            self.model, cyt, mem, maxfev=1000000, p0=p0, bounds=bounds
-        )
-        params = popt
-        return params
-
-    def bootstrap_fitting(self, cyts, mems, n=10000):
-        params = np.zeros([n, 2])
-        for i in range(n):
-            inds = np.random.choice(range(len(cyts)), len(cyts))
-            params[i, :] = self.single_fit(cyts[inds], mems[inds])
         return params
