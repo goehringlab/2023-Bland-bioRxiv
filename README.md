@@ -54,7 +54,7 @@ Notebooks for creating specific figure panels:
 
 
 Figure 1: [D-E][a1487], [F][a0226], [G][a8492]\
-Figure 2: [A][a3603], [B][a5616], [F-G][a9706], [H][a5498], [I][a1487], [J][a8492], [K][a3572], [L][a3255]\
+Figure 2: [A][a3603], [B-C][a5616], [F-G][a9706], [H][a5498], [I][a1487], [J][a8492], [K][a3572], [L][a3255]\
 Figure 3: [B-D][a5886], [F][a6801]\
 Figure 4: [A-B][a1834], [C][a6684], [D][a9397], [E][a4186]\
 Figure 5: [A][a8987], [C-D][a6824], [E-F][a5514], [G-H][a9246]\

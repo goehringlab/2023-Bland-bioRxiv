@@ -50,13 +50,15 @@ def bootstrap_effect_size_pd(
         b (str): category b of x
         niter (int): number of bootstrap samples
 
-    Returns:
-        np.array: bootstrap values of effect size (difference between means)
     """
 
     # Extract data from dataframe
     data_a = data[data[x] == a][y].to_numpy()
     data_b = data[data[x] == b][y].to_numpy()
+
+    # Sample size
+    sample_size_a = len(data_a)
+    sample_size_b = len(data_b)
 
     # Calculate effect size
     effect_size = np.mean(data_b) - np.mean(data_a)
@@ -70,7 +72,7 @@ def bootstrap_effect_size_pd(
         )
     )
 
-    return effect_size, probability_distribution
+    return effect_size, probability_distribution, (sample_size_a, sample_size_b)
 
 
 def add_stats_table_row(
@@ -80,24 +82,11 @@ def add_stats_table_row(
     sample_b: str,
     measure: str,
     effect_size: float,
+    sample_size: tuple,
     probability_distribution: np.array,
     key: str,
     df_path: str = "../../../data/stats_table.csv",
 ):
-    """_summary_
-
-    Args:
-        figure (str): _description_
-        panel (str): _description_
-        sample_a (str): _description_
-        sample_b (str): _description_
-        measure (str): _description_
-        units (str): _description_
-        comparisons (np.array): _description_
-        comparison (str, optional): _description_. Defaults to "B-A".
-        df_path (str, optional): _description_. Defaults to "../../../data/stats_table.csv".
-    """
-
     # Import existing stats table
     if os.path.exists(df_path):
         df = pd.read_csv(df_path)
@@ -105,7 +94,7 @@ def add_stats_table_row(
         df = pd.DataFrame()
 
     # Delete row if row already exists
-    if not len(df.index[df["Key"] == key].tolist()) == 0:
+    if "Key" in df.columns and not len(df.index[df["Key"] == key].tolist()) == 0:
         df = df.drop(df.index[df["Key"] == key].tolist()[0])
 
     # Create row
@@ -115,6 +104,8 @@ def add_stats_table_row(
         "Sample A": sample_a,
         "Sample B": sample_b,
         "Measure": measure,
+        "Sample size A": sample_size[0],
+        "Sample size B": sample_size[1],
         "Effect size (B-A)": "{:.3g}".format(effect_size),
         "95% CI (lower)": "{:.3g}".format(np.percentile(probability_distribution, 2.5)),
         "95% CI (upper)": "{:.3g}".format(
@@ -125,6 +116,10 @@ def add_stats_table_row(
 
     # Add row to dataframe
     df = pd.concat([df, pd.DataFrame(row, index=[0])], axis=0, ignore_index=True)
+
+    # Format columns
+    df["Sample size A"] = df["Sample size A"].astype(int)
+    df["Sample size B"] = df["Sample size B"].astype(int)
 
     # Order dataframe
     df = df.sort_values(by=["Figure", "Panel"])
