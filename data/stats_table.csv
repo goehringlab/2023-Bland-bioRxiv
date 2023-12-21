@@ -15,10 +15,11 @@ Figure,Panel,Sample A,Sample B,Measure,Sample size A,Sample size B,Effect size (
 5,H,PAR-2(PRBH),"PAR-2(GCN4,PRBH)",Fraction at posterior PM (mean),10,10,0.165,0.147,0.182,24RVkaAmKz
 5,H,PAR-2(WT),PAR-2(PRBH),Fraction at posterior PM (mean),36,10,-0.357,-0.373,-0.34,AqG0zqQGky
 5,H,PAR-2(GCN4),"PAR-2(GCN4,PRBH)",Fraction at posterior PM (mean),14,10,0.0479,0.0281,0.0684,YeEWf0t8dF
-EV1,B,PAR-2(WT); par-3(wt),PAR-2(C56S); par-3(wt),Cooperativity,103,39,-0.497,-0.723,-0.126,fjwQPEmbv7
-EV1,B,PAR-2(WT); par-3(wt),PAR-2(L109R); par-3(wt),Cooperativity,103,49,-0.56,-0.765,-0.254,rV1Pgo39TS
-EV1,D,PAR-2(WT); par-3(it71),PAR-2(C56S); par-3(it71),Cooperativity,94,54,-0.215,-0.435,0.0306,QAXlo1N17N
-EV1,D,PAR-2(WT); par-3(it71),PAR-2(L109R); par-3(it71),Cooperativity,94,44,-0.28,-0.476,-0.0619,mzzAUPa4Rl
-S1,D,PAR-2(WT),PAR-2(L50R),Posterior M:C ratio (mean),36,12,-11.9,-12.7,-11,AdvyF5RinK
+EV1,A,PAR-2(WT),PAR-2(S241A); pkc-3 RNAi,Posterior M:C ratio (mean),36,7,-11.6,-12.7,-10.5,csM3BYhk4n
+EV1,D,PAR-2(WT); par-3(wt),PAR-2(C56S); par-3(wt),Cooperativity,103,39,-0.497,-0.723,-0.126,fjwQPEmbv7
+EV1,D,PAR-2(WT); par-3(wt),PAR-2(L109R); par-3(wt),Cooperativity,103,49,-0.56,-0.765,-0.254,rV1Pgo39TS
+EV1,F,PAR-2(WT); par-3(it71),PAR-2(C56S); par-3(it71),Cooperativity,94,54,-0.215,-0.435,0.0306,QAXlo1N17N
+EV1,F,PAR-2(WT); par-3(it71),PAR-2(L109R); par-3(it71),Cooperativity,94,44,-0.28,-0.476,-0.0619,mzzAUPa4Rl
+S1,D,PAR-2(WT),PAR-2(L50R),Posterior M:C ratio (mean),36,12,-11.9,-12.7,-11.0,AdvyF5RinK
 S1,D,PAR-2(C56S),"PAR-2(C56S,L109R)",Posterior M:C ratio (mean),22,13,-0.023,-0.457,0.393,wQhVJSlKeD
 S1,D,PAR-2(L109R),"PAR-2(L50R,L109R)",Posterior M:C ratio (mean),26,15,-0.178,-0.666,0.302,j4t0Gvbi0v
