@@ -87,7 +87,7 @@ Also includes the following datasets:
 
 ## Installation
 
-Package requirements are listed in `requirements.txt` (or `requirements-windows.txt` if using a Windows OS).
+This project requires Python 3.11.6. Package requirements are listed in `requirements.txt` (or `requirements-windows.txt` if using a Windows OS).
 
 To ensure reproducibility, it is best to run the project in a Docker container. To do this, perform the following steps:
 

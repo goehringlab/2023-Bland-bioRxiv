@@ -196,7 +196,7 @@ class EnergiesConfidenceIntervalPaired:
                     self.res_x[i],
                     np.ones(len(self.res_x[i])) if i else np.zeros(len(self.res_x[i])),
                 ],
-                *popt_full
+                *popt_full,
             )
             for i in range(2)
         ]
@@ -238,7 +238,7 @@ class EnergiesConfidenceIntervalPaired:
                         if j
                         else np.zeros(len(self.res_x[j])),
                     ],
-                    *p
+                    *p,
                 )
                 all_cyt_dim[j][i, :] = 100 * dimer_fraction(
                     10 ** self.res_x[j] if self.log else self.res_x[j], p[j]
