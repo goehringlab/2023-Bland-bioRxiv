@@ -87,7 +87,7 @@ Also includes the following datasets:
 
 ## Installation
 
-This project requires Python 3.11.6. Package requirements are listed in `requirements.txt` (or `requirements-windows.txt` if using a Windows OS).
+This project requires Python 3.11.6. Package requirements are listed in `requirements.txt` (or `requirements-windows.txt` if using Windows).
 
 To ensure reproducibility, it is best to run the project in a Docker container. To do this, perform the following steps:
 
@@ -95,7 +95,7 @@ To ensure reproducibility, it is best to run the project in a Docker container. 
 
 &#8291;2. Download/clone the code and navigate to the project directory
 
-&#8291;3. Build the Docker container
+&#8291;3. Build the Docker image (~ 5 GB)
 
     docker-compose build
 
@@ -109,7 +109,12 @@ To ensure reproducibility, it is best to run the project in a Docker container. 
 
 This will print a couple of URLs at the bottom of your terminal. Copy and paste the second of these into your browser to open up Jupyter.
 
-NOTE: If you're using the raw data, you must either place it inside the project directory as a folder named `raw_data`, or change the path in `docker-compose.yaml` where indicated. Otherwise, you should delete this line.
+Notes:
+
+- If cloning the repository from GitHub, use the `--depth 1` option to save disk space (75 MB vs 2.5 GB). i.e. `git clone --depth 1 https://github.com/goehringlab/2023-Bland-par2.git`
+- If you're using the raw data, you must either place it inside the project directory as a folder named `raw_data`, or change the path in `docker-compose.yaml` where indicated. Otherwise, you should delete this line.
+- To delete the docker image once you've finished, run `docker image rm -f 2023-bland-par2-app`
+
 
 ## License
 
