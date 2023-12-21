@@ -87,7 +87,7 @@ Also includes the following datasets:
 
 ## Installation
 
-Package requirements are listed in `requirements.txt`
+Package requirements are listed in `requirements.txt` (or `requirements-windows.txt` if using a Windows OS).
 
 To ensure reproducibility, it is best to run the project in a Docker container. To do this, perform the following steps:
 
