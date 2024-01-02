@@ -99,7 +99,7 @@ To ensure reproducibility, it is best to run the project in a Docker container. 
 
     docker-compose build
 
-&#8291;4. Once the build has completed, run the docker container
+&#8291;4. Once the build has completed, run the Docker container
 
     docker-compose run -p 8888:8888 app
 
@@ -107,13 +107,13 @@ To ensure reproducibility, it is best to run the project in a Docker container. 
 
     jupyter notebook --ip 0.0.0.0 --no-browser --allow-root
 
-This will print a couple of URLs at the bottom of your terminal. Copy and paste the second of these into your browser to open up Jupyter.
+This will print a couple of URLs at the bottom of your terminal. Copy and paste the second of these into your web browser to open up Jupyter.
 
 Notes:
 
 - If cloning the repository from GitHub, use the `--depth 1` option to save disk space (75 MB vs 2.5 GB). i.e. `git clone --depth 1 https://github.com/goehringlab/2023-Bland-par2.git`
 - If you're using the raw data, you must either place it inside the project directory as a folder named `raw_data`, or change the path in `docker-compose.yaml` where indicated. Otherwise, you should delete this line.
-- To delete the docker image once you've finished, run `docker image rm -f 2023-bland-par2-app`
+- To delete the Docker image once you've finished, run `docker image rm -f 2023-bland-par2-app`
 
 
 ## License
