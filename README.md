@@ -25,13 +25,13 @@ Notebooks for creating specific figure panels:
 [a5514]: scripts/Analysis/GCN4/Par3Mut.ipynb
 [a1834]: scripts/Analysis/GCN4/Par2GCN4.ipynb
 [a9246]: scripts/Analysis/GCN4/PRBH.ipynb
-[a9263]: scripts/Analysis/meiosis/Figures.ipynb
+[a9263]: scripts/Analysis/Meiosis/Figures.ipynb
 [a9397]: scripts/Analysis/Mlc4/SAIBR.ipynb
 [a4186]: scripts/Analysis/Mlc4/Quantification.ipynb
 [a5886]: scripts/Analysis/ModelNonlinearity/Figs.ipynb
 [a3255]: scripts/Analysis/Nop1/Lethality.ipynb
 [a3572]: scripts/Analysis/Nop1/2cellAsymmetry.ipynb
-[a9147]: scripts/Analysis/optogenetics/Optogenetics.ipynb
+[a9147]: scripts/Analysis/Optogenetics/Optogenetics.ipynb
 [a0226]: scripts/Analysis/PhRundown/FigsLogTransformed.ipynb
 [a1487]: scripts/Analysis/PolarisedVsUniform/Figures.ipynb
 [a2111]: scripts/Analysis/QuantificationCalibrationComparison/Figures.ipynb
