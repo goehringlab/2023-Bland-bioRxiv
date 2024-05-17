@@ -22,20 +22,16 @@ dependencies = [
   "scipy",
   "pandas",
   "seaborn==0.11.0",
-  "jax",
-  "optax",
-  "tensorflow",
   "scikit-image",
   "tqdm",
   "sympy",
   "opencv-python",
   "opencv-contrib-python-headless",
-  "discco==0.2.7",
-  "par-segmentation==0.1.12",
-  "saibr==0.1.6",
-  "matplotlib-polyroi==0.1.7",
   "nbformat",
   "nbconvert",
+  "saibr==0.1.6",
+  "matplotlib-polyroi==0.1.7",
+  "par-segmentation[jax]==0.1.14",
 ]
 
 [project.optional-dependencies]

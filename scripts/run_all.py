@@ -1,4 +1,4 @@
-# PYDEVD_DISABLE_FILE_VALIDATION=1 TF_CPP_MIN_LOG_LEVEL=3 python run_all.py
+# PYDEVD_DISABLE_FILE_VALIDATION=1 python run_all.py
 
 import glob
 import os

@@ -1,6 +1,5 @@
 # Image analysis functions
 from par_segmentation import (  # noqa
-    ImageQuant,
     interp_1d_array,
     load_image,
     rotated_embryo,
@@ -13,7 +12,7 @@ from par_segmentation import (  # noqa
     dosage,
     save_img,
 )
-from discco import ImageQuant2  # noqa
+from par_segmentation.model_flexi import ImageQuant2  # noqa
 
 # Helper functions
 from .helpers import (  # noqa

@@ -95,7 +95,7 @@ To ensure reproducibility, it is best to run the project in a Docker container. 
 
 &#8291;2. Download/clone the code and navigate to the project directory
 
-&#8291;3. Build the Docker image (~ 5 GB)
+&#8291;3. Build the Docker image (~ 3 GB)
 
     docker-compose build
 
