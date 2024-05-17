@@ -66,7 +66,7 @@ Figure S1: [D][a7601]\
 Figure S2: [B-F][a6801], [G][a1912]\
 Figure S3: [A-D][a6824]
 
-Core code is found in `src`. Also relies heavily on the [par-segmentation](https://github.com/goehringlab/par-segmentation) and [discco](https://github.com/tsmbland/discco) packages.
+Core code is found in `src`. Also relies heavily on the [par-segmentation](https://github.com/goehringlab/par-segmentation) package.
 
 ## Data availability
 
@@ -111,9 +111,9 @@ This will print a couple of URLs at the bottom of your terminal. Copy and paste 
 
 Notes:
 
-- If cloning the repository from GitHub, use the `--depth 1` option to save disk space (75 MB vs 2.5 GB). i.e. `git clone --depth 1 https://github.com/goehringlab/2023-Bland-par2.git`
+- If cloning the repository from GitHub, use the `--depth 1` option to save disk space (75 MB vs 2.5 GB). i.e. `git clone --depth 1 https://github.com/goehringlab/2024-Bland-EMBO.git`
 - If you're using the raw data, you must either place it inside the project directory as a folder named `raw_data`, or change the path in `docker-compose.yaml` where indicated. Otherwise, you should delete this line.
-- To delete the Docker image once you've finished, run `docker image rm -f 2023-bland-par2-app`
+- To delete the Docker image once you've finished, run `docker image rm -f 2024-bland-embo-app`
 
 
 ## License
