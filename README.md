@@ -58,7 +58,7 @@ Figure 2: [A][a3603], [B-C][a5616], [F-G][a9706], [H][a5498], [I][a1487], [J][a8
 Figure 3: [B-D][a5886], [F][a6801]\
 Figure 4: [A-B][a1834], [C][a6684], [D][a9397], [E][a4186]\
 Figure 5: [A][a8987], [C-D][a6824], [E-F][a5514], [G-H][a9246]\
-Figure EV1: [A][a9999], [B][a4134], [C-F][a8492] \
+Figure EV1: [A-B][a9999], [C-F][a8492] \
 Figure EV3: [B-C][a5302]\
 Figure EV4: [B-D][a9263]\
 Figure EV5: [A][a8752], [C-D][a2111], [F][a6427], [G][a9147]\
