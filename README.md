@@ -1,9 +1,9 @@
-## Optimized dimerization of the PAR-2 RING domain drives cooperative and selective membrane recruitment for robust feedback-driven cell polarization 
+## Optimized PAR-2 RING dimerization mediates cooperative and selective membrane binding for robust cell polarity 
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 [![run with docker](https://img.shields.io/badge/run%20with-docker-0db7ed?logo=docker)](https://www.docker.com/)
 
-Complete analysis code for the paper `"Optimized dimerization of the PAR-2 RING domain drives cooperative and selective membrane recruitment for robust feedback-driven cell polarization" (Bland et al., 2023)` [BioRxiv link](https://www.biorxiv.org/content/10.1101/2023.08.10.552581v1)
+Complete analysis code for the paper `"Optimized PAR-2 RING dimerization mediates cooperative and selective membrane binding for robust cell polarity" (Bland et al., 2024; EMBO Journal)`
 
 
 ## Code structure
@@ -25,13 +25,13 @@ Notebooks for creating specific figure panels:
 [a5514]: scripts/Analysis/GCN4/Par3Mut.ipynb
 [a1834]: scripts/Analysis/GCN4/Par2GCN4.ipynb
 [a9246]: scripts/Analysis/GCN4/PRBH.ipynb
-[a9263]: scripts/Analysis/meiosis/Figures.ipynb
+[a9263]: scripts/Analysis/Meiosis/Figures.ipynb
 [a9397]: scripts/Analysis/Mlc4/SAIBR.ipynb
 [a4186]: scripts/Analysis/Mlc4/Quantification.ipynb
 [a5886]: scripts/Analysis/ModelNonlinearity/Figs.ipynb
 [a3255]: scripts/Analysis/Nop1/Lethality.ipynb
 [a3572]: scripts/Analysis/Nop1/2cellAsymmetry.ipynb
-[a9147]: scripts/Analysis/optogenetics/Optogenetics.ipynb
+[a9147]: scripts/Analysis/Optogenetics/Optogenetics.ipynb
 [a0226]: scripts/Analysis/PhRundown/FigsLogTransformed.ipynb
 [a1487]: scripts/Analysis/PolarisedVsUniform/Figures.ipynb
 [a2111]: scripts/Analysis/QuantificationCalibrationComparison/Figures.ipynb
@@ -58,7 +58,7 @@ Figure 2: [A][a3603], [B-C][a5616], [F-G][a9706], [H][a5498], [I][a1487], [J][a8
 Figure 3: [B-D][a5886], [F][a6801]\
 Figure 4: [A-B][a1834], [C][a6684], [D][a9397], [E][a4186]\
 Figure 5: [A][a8987], [C-D][a6824], [E-F][a5514], [G-H][a9246]\
-Figure EV1: [A][a9999], [B][a4134], [C-F][a8492] \
+Figure EV1: [A-B][a9999], [C-F][a8492] \
 Figure EV3: [B-C][a5302]\
 Figure EV4: [B-D][a9263]\
 Figure EV5: [A][a8752], [C-D][a2111], [F][a6427], [G][a9147]\
