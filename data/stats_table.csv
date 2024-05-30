@@ -4,9 +4,9 @@ Figure,Panel,Sample A,Sample B,Measure,Sample size A,Sample size B,Effect size (
 1,G,PAR-2(WT),PAR-2(C56S),Cooperativity,197,93,-0.516,-0.69,-0.331,EoNvB1UKsp
 2,I,PAR-2(L109R); par-3(wt),PAR-2(L109R); par-3(it71),Posterior M:C ratio (mean),26,15,-0.0956,-0.572,0.385,Gnxh2lFfC3
 2,J,PAR-2(WT),PAR-2(L109R),Cooperativity,197,93,-0.474,-0.626,-0.303,8cNzrmowUR
-2,K,PAR-2(WT); control,PAR-2(WT); nop-1 RNAi,2 cell asymmetry (mean),10,5,0.00381,-0.0117,0.0184,uWOeuWhzPs
-2,K,PAR-2(C56S); control,PAR-2(C56S); nop-1 RNAi,2 cell asymmetry (mean),10,9,-0.0544,-0.0715,-0.0378,Lp9BssXFEN
-2,K,PAR-2(L109R); control,PAR-2(L109R); nop-1 RNAi,2 cell asymmetry (mean),7,7,-0.0478,-0.0684,-0.0266,fWOJtiHbrF
+2,K,PAR-2(WT); control,PAR-2(WT); nop-1 RNAi,2 cell asymmetry (mean),10,5,0.00381,-0.0116,0.0186,uWOeuWhzPs
+2,K,PAR-2(C56S); control,PAR-2(C56S); nop-1 RNAi,2 cell asymmetry (mean),10,9,-0.0544,-0.0717,-0.0376,Lp9BssXFEN
+2,K,PAR-2(L109R); control,PAR-2(L109R); nop-1 RNAi,2 cell asymmetry (mean),7,7,-0.0478,-0.0679,-0.0269,fWOJtiHbrF
 5,F,PAR-2(WT); par-3(wt),PAR-2(GCN4); par-3(wt),Fraction at PM (mean),36,14,-0.166,-0.186,-0.144,aawszPTkQW
 5,F,PAR-2(WT); par-3(it71),PAR-2(GCN4); par-3(it71),Fraction at PM (mean),21,17,-0.0424,-0.0617,-0.0233,OBtlrdzVwU
 5,F,PAR-2(WT); par-3(wt),PAR-2(WT); par-3(it71),Fraction at PM (mean),36,21,0.0431,0.0258,0.0597,C4TqtEDU45
