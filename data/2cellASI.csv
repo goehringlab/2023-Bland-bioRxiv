@@ -1,108 +1,108 @@
 ,Path,Line,Genotype,Condition,Two cell asymmetry
-0,"/Imaging/two_cell_asymmetry/stills/ctrl/220421_lp637_ctrl_tom4,15,60/02t",lp637,WT,ctrl,0.6137235526218915
-1,"/Imaging/two_cell_asymmetry/stills/ctrl/220421_lp637_ctrl_tom4,15,60/05t",lp637,WT,ctrl,0.5672108571961715
-2,"/Imaging/two_cell_asymmetry/stills/ctrl/220421_lp637_ctrl_tom4,15,60/06t",lp637,WT,ctrl,0.5728579287764286
-3,"/Imaging/two_cell_asymmetry/stills/ctrl/220421_lp637_ctrl_tom4,15,60/08t",lp637,WT,ctrl,0.5719751670943428
-4,"/Imaging/two_cell_asymmetry/stills/ctrl/220421_lp637_ctrl_tom4,15,60/09t",lp637,WT,ctrl,0.5831839782945923
-5,"/Imaging/two_cell_asymmetry/stills/ctrl/220421_nwg192_ctrl_tom4,15,60/02t",nwg192,R183-5A,ctrl,0.5800975753625588
-6,"/Imaging/two_cell_asymmetry/stills/ctrl/220421_nwg192_ctrl_tom4,15,60/05t",nwg192,R183-5A,ctrl,0.5813149753938207
-7,"/Imaging/two_cell_asymmetry/stills/ctrl/220421_nwg192_ctrl_tom4,15,60/07t",nwg192,R183-5A,ctrl,0.5794351436791075
-8,"/Imaging/two_cell_asymmetry/stills/ctrl/220423_nwg240_ctrl_tom4,15,60/02t",nwg240,C56S,ctrl,0.5363492305570001
-9,"/Imaging/two_cell_asymmetry/stills/ctrl/220423_nwg240_ctrl_tom4,15,60/06t",nwg240,C56S,ctrl,0.5660916395143979
-10,"/Imaging/two_cell_asymmetry/stills/ctrl/220423_nwg240_ctrl_tom4,15,60/07t",nwg240,C56S,ctrl,0.5668691204259175
-11,"/Imaging/two_cell_asymmetry/stills/ctrl/220423_nwg240_ctrl_tom4,15,60/09t",nwg240,C56S,ctrl,0.5792787656039413
-12,"/Imaging/two_cell_asymmetry/stills/ctrl/220423_nwg240_ctrl_tom4,15,60/10t",nwg240,C56S,ctrl,0.5533101284365177
-13,"/Imaging/two_cell_asymmetry/stills/ctrl/220423_nwg338_ctrl_tom4,15,60/02t",nwg338,L109R,ctrl,0.5848880550773249
-14,"/Imaging/two_cell_asymmetry/stills/ctrl/220423_nwg338_ctrl_tom4,15,60/03t",nwg338,L109R,ctrl,0.5662338818874563
-15,"/Imaging/two_cell_asymmetry/stills/ctrl/220423_nwg376_ctrl_tom4,15,60/00t",nwg376,GCN4,ctrl,0.6006338104062047
-16,"/Imaging/two_cell_asymmetry/stills/ctrl/220423_nwg376_ctrl_tom4,15,60/04t",nwg376,GCN4,ctrl,0.5699522653410936
-17,"/Imaging/two_cell_asymmetry/stills/ctrl/220423_nwg376_ctrl_tom4,15,60/05t",nwg376,GCN4,ctrl,0.5887291648003835
-18,"/Imaging/two_cell_asymmetry/stills/ctrl/220423_nwg398_ctrl_tom4,15,60/01t",nwg398,"L109R, GCN4",ctrl,0.5822570183487928
-19,"/Imaging/two_cell_asymmetry/stills/ctrl/220423_nwg398_ctrl_tom4,15,60/03t",nwg398,"L109R, GCN4",ctrl,0.5710280948608687
-20,"/Imaging/two_cell_asymmetry/stills/ctrl/220423_nwg398_ctrl_tom4,15,60/04t",nwg398,"L109R, GCN4",ctrl,0.5757816418605005
-21,"/Imaging/two_cell_asymmetry/stills/ctrl/220423_nwg398_ctrl_tom4,15,60/07t",nwg398,"L109R, GCN4",ctrl,0.5715519807189595
-22,"/Imaging/two_cell_asymmetry/stills/ctrl/220423_nwg398_ctrl_tom4,15,60/08t",nwg398,"L109R, GCN4",ctrl,0.5596643417934148
-23,"/Imaging/two_cell_asymmetry/stills/nop1/220421_lp637_36hrnop1_tom4,15,60/05t",lp637,WT,36hrnop1,0.5735847723898533
-24,"/Imaging/two_cell_asymmetry/stills/nop1/220421_lp637_36hrnop1_tom4,15,60/06t",lp637,WT,36hrnop1,0.5920632327302253
-25,"/Imaging/two_cell_asymmetry/stills/nop1/220421_nwg192_36hrnop1_tom4,15,60/00t",nwg192,R183-5A,36hrnop1,0.6010976140455176
-26,"/Imaging/two_cell_asymmetry/stills/nop1/220421_nwg192_36hrnop1_tom4,15,60/02t",nwg192,R183-5A,36hrnop1,0.5684783553101369
-27,"/Imaging/two_cell_asymmetry/stills/nop1/220421_nwg192_36hrnop1_tom4,15,60/03t",nwg192,R183-5A,36hrnop1,0.5661990816830231
-28,"/Imaging/two_cell_asymmetry/stills/nop1/220421_nwg192_36hrnop1_tom4,15,60/05t",nwg192,R183-5A,36hrnop1,0.5750403423689795
-29,"/Imaging/two_cell_asymmetry/stills/nop1/220421_nwg192_36hrnop1_tom4,15,60/07t",nwg192,R183-5A,36hrnop1,0.5782619197010681
-30,"/Imaging/two_cell_asymmetry/stills/nop1/220421_nwg192_36hrnop1_tom4,15,60/09t",nwg192,R183-5A,36hrnop1,0.5935156282596568
-31,"/Imaging/two_cell_asymmetry/stills/nop1/220421_nwg240_36hrnop1_tom4,15,60/01t",nwg240,C56S,36hrnop1,0.47869426101628776
-32,"/Imaging/two_cell_asymmetry/stills/nop1/220421_nwg240_36hrnop1_tom4,15,60/04t",nwg240,C56S,36hrnop1,0.5158748427294806
-33,"/Imaging/two_cell_asymmetry/stills/nop1/220421_nwg240_36hrnop1_tom4,15,60/06t",nwg240,C56S,36hrnop1,0.5044281085310834
-34,"/Imaging/two_cell_asymmetry/stills/nop1/220421_nwg338_36hrnop1_tom4,15,60/01t",nwg338,L109R,36hrnop1,0.509678267915331
-35,"/Imaging/two_cell_asymmetry/stills/nop1/220421_nwg338_36hrnop1_tom4,15,60/02t",nwg338,L109R,36hrnop1,0.5000139196500768
-36,"/Imaging/two_cell_asymmetry/stills/nop1/220421_nwg376_36hrnop1_tom4,15,60/00t",nwg376,GCN4,36hrnop1,0.589992532621194
-37,"/Imaging/two_cell_asymmetry/stills/nop1/220421_nwg376_36hrnop1_tom4,15,60/01t",nwg376,GCN4,36hrnop1,0.5834514144973204
-38,"/Imaging/two_cell_asymmetry/stills/nop1/220421_nwg376_36hrnop1_tom4,15,60/04t",nwg376,GCN4,36hrnop1,0.582763456199793
-39,"/Imaging/two_cell_asymmetry/stills/nop1/220421_nwg376_36hrnop1_tom4,15,60/07t",nwg376,GCN4,36hrnop1,0.6064782612259302
-40,"/Imaging/two_cell_asymmetry/stills/nop1/220421_nwg376_36hrnop1_tom4,15,60/08t",nwg376,GCN4,36hrnop1,0.6028203884539431
-41,"/Imaging/two_cell_asymmetry/stills/nop1/220421_nwg376_36hrnop1_tom4,15,60/10t",nwg376,GCN4,36hrnop1,0.5837142847872543
-42,"/Imaging/two_cell_asymmetry/stills/nop1/220421_nwg376_36hrnop1_tom4,15,60/11t",nwg376,GCN4,36hrnop1,0.6093416487804103
-43,"/Imaging/two_cell_asymmetry/stills/nop1/220421_nwg376_36hrnop1_tom4,15,60/12t",nwg376,GCN4,36hrnop1,0.5768767042384007
-44,"/Imaging/two_cell_asymmetry/stills/nop1/220421_nwg398_36hrnop1_tom4,15,60/02t",nwg398,"L109R, GCN4",36hrnop1,0.5720187819458122
-45,"/Imaging/two_cell_asymmetry/stills/nop1/220421_nwg398_36hrnop1_tom4,15,60/04t",nwg398,"L109R, GCN4",36hrnop1,0.5700024481946334
-46,"/Imaging/two_cell_asymmetry/stills/nop1/220421_nwg398_36hrnop1_tom4,15,60/05t",nwg398,"L109R, GCN4",36hrnop1,0.5471672061141406
-47,"/Imaging/two_cell_asymmetry/stills/nop1/220421_nwg398_36hrnop1_tom4,15,60/06t",nwg398,"L109R, GCN4",36hrnop1,0.5576997319730665
-48,"/Imaging/two_cell_asymmetry/stills/nop1/220421_nwg398_36hrnop1_tom4,15,60/10t",nwg398,"L109R, GCN4",36hrnop1,0.5569425372914562
-49,"/Imaging/two_cell_asymmetry/stills/nop1/220421_nwg398_36hrnop1_tom4,15,60/11t",nwg398,"L109R, GCN4",36hrnop1,0.5397098649826324
-50,"/Imaging/two_cell_asymmetry/movies/ctrl/220421_lp637_ctrl_tom4,15,60/00",lp637,WT,ctrl,0.5537995459072117
-51,"/Imaging/two_cell_asymmetry/movies/ctrl/220421_lp637_ctrl_tom4,15,60/01",lp637,WT,ctrl,0.5521279837117156
-52,"/Imaging/two_cell_asymmetry/movies/ctrl/220421_lp637_ctrl_tom4,15,60/03",lp637,WT,ctrl,0.5784691305618068
-53,"/Imaging/two_cell_asymmetry/movies/ctrl/220421_lp637_ctrl_tom4,15,60/04",lp637,WT,ctrl,0.5717605878487405
-54,"/Imaging/two_cell_asymmetry/movies/ctrl/220421_lp637_ctrl_tom4,15,60/10",lp637,WT,ctrl,0.5429327944508201
-55,"/Imaging/two_cell_asymmetry/movies/ctrl/220421_nwg192_ctrl_tom4,15,60/00",nwg192,R183-5A,ctrl,0.5763040181608369
-56,"/Imaging/two_cell_asymmetry/movies/ctrl/220421_nwg192_ctrl_tom4,15,60/01",nwg192,R183-5A,ctrl,0.5581049405208924
-57,"/Imaging/two_cell_asymmetry/movies/ctrl/220421_nwg192_ctrl_tom4,15,60/03",nwg192,R183-5A,ctrl,0.5938592912739735
-58,"/Imaging/two_cell_asymmetry/movies/ctrl/220421_nwg192_ctrl_tom4,15,60/04",nwg192,R183-5A,ctrl,0.5833272646740311
-59,"/Imaging/two_cell_asymmetry/movies/ctrl/220421_nwg192_ctrl_tom4,15,60/06",nwg192,R183-5A,ctrl,0.5661760657086349
-60,"/Imaging/two_cell_asymmetry/movies/ctrl/220423_nwg240_ctrl_tom4,15,60/00",nwg240,C56S,ctrl,0.5610188415351139
-61,"/Imaging/two_cell_asymmetry/movies/ctrl/220423_nwg240_ctrl_tom4,15,60/01",nwg240,C56S,ctrl,0.5365651175629373
-62,"/Imaging/two_cell_asymmetry/movies/ctrl/220423_nwg240_ctrl_tom4,15,60/04",nwg240,C56S,ctrl,0.5409810060983491
-63,"/Imaging/two_cell_asymmetry/movies/ctrl/220423_nwg240_ctrl_tom4,15,60/05",nwg240,C56S,ctrl,0.5662603182637038
-64,"/Imaging/two_cell_asymmetry/movies/ctrl/220423_nwg240_ctrl_tom4,15,60/08",nwg240,C56S,ctrl,0.55585494957651
-65,"/Imaging/two_cell_asymmetry/movies/ctrl/220423_nwg338_ctrl_tom4,15,60/01",nwg338,L109R,ctrl,0.5794788596018544
-66,"/Imaging/two_cell_asymmetry/movies/ctrl/220423_nwg338_ctrl_tom4,15,60/04",nwg338,L109R,ctrl,0.5622387012004132
-67,"/Imaging/two_cell_asymmetry/movies/ctrl/220423_nwg338_ctrl_tom4,15,60/06",nwg338,L109R,ctrl,0.5612002293048943
-68,"/Imaging/two_cell_asymmetry/movies/ctrl/220423_nwg338_ctrl_tom4,15,60/07",nwg338,L109R,ctrl,0.5723967759259339
-69,"/Imaging/two_cell_asymmetry/movies/ctrl/220423_nwg338_ctrl_tom4,15,60/08",nwg338,L109R,ctrl,0.5557907126258861
-70,"/Imaging/two_cell_asymmetry/movies/ctrl/220423_nwg376_ctrl_tom4,15,60/02",nwg376,GCN4,ctrl,0.5808191731693607
-71,"/Imaging/two_cell_asymmetry/movies/ctrl/220423_nwg376_ctrl_tom4,15,60/03",nwg376,GCN4,ctrl,0.5946149687361676
-72,"/Imaging/two_cell_asymmetry/movies/ctrl/220423_nwg376_ctrl_tom4,15,60/07",nwg376,GCN4,ctrl,0.56553205906398
-73,"/Imaging/two_cell_asymmetry/movies/ctrl/220423_nwg398_ctrl_tom4,15,60/00",nwg398,"L109R, GCN4",ctrl,0.5753190867016336
-74,"/Imaging/two_cell_asymmetry/movies/ctrl/220423_nwg398_ctrl_tom4,15,60/02",nwg398,"L109R, GCN4",ctrl,0.5814293619706801
-75,"/Imaging/two_cell_asymmetry/movies/ctrl/220423_nwg398_ctrl_tom4,15,60/05",nwg398,"L109R, GCN4",ctrl,0.5621250746572272
-76,"/Imaging/two_cell_asymmetry/movies/ctrl/220423_nwg398_ctrl_tom4,15,60/06",nwg398,"L109R, GCN4",ctrl,0.5317357180846993
-77,"/Imaging/two_cell_asymmetry/movies/ctrl/220423_nwg398_ctrl_tom4,15,60/09",nwg398,"L109R, GCN4",ctrl,0.588916956349366
-78,"/Imaging/two_cell_asymmetry/movies/nop1/220414_lp637_36hrnop1_tom4,15,60/02",lp637,WT,36hrnop1,0.5705157631663763
-79,"/Imaging/two_cell_asymmetry/movies/nop1/220414_lp637_36hrnop1_tom4,15,60/03",lp637,WT,36hrnop1,0.5573602854006254
-80,"/Imaging/two_cell_asymmetry/movies/nop1/220414_nwg192_36hrnop1_tom4,15,60/04",nwg192,R183-5A,36hrnop1,0.5748719520669978
-81,"/Imaging/two_cell_asymmetry/movies/nop1/220414_nwg240_36hrnop1_tom4,15,60/00",nwg240,C56S,36hrnop1,0.48984585938289726
-82,"/Imaging/two_cell_asymmetry/movies/nop1/220414_nwg240_36hrnop1_tom4,15,60/01",nwg240,C56S,36hrnop1,0.4927539810372316
-83,"/Imaging/two_cell_asymmetry/movies/nop1/220414_nwg240_36hrnop1_tom4,15,60/03",nwg240,C56S,36hrnop1,0.4597105968103498
-84,"/Imaging/two_cell_asymmetry/movies/nop1/220414_nwg338_36hrnop1_tom4,15,60/00",nwg338,L109R,36hrnop1,0.5511600397877341
-85,"/Imaging/two_cell_asymmetry/movies/nop1/220414_nwg338_36hrnop1_tom4,15,60/01",nwg338,L109R,36hrnop1,0.4851991384253222
-86,"/Imaging/two_cell_asymmetry/movies/nop1/220414_nwg338_36hrnop1_tom4,15,60/05",nwg338,L109R,36hrnop1,0.5480149813013144
-87,"/Imaging/two_cell_asymmetry/movies/nop1/220414_nwg338_36hrnop1_tom4,15,60/06",nwg338,L109R,36hrnop1,0.5025320031957848
-88,"/Imaging/two_cell_asymmetry/movies/nop1/220414_nwg376_36hrnop1_tom4,15,60/00",nwg376,GCN4,36hrnop1,0.5830269834721612
-89,"/Imaging/two_cell_asymmetry/movies/nop1/220414_nwg376_36hrnop1_tom4,15,60/01",nwg376,GCN4,36hrnop1,0.5620285147829809
-90,"/Imaging/two_cell_asymmetry/movies/nop1/220421_lp637_36hrnop1_tom4,15,60/04",lp637,WT,36hrnop1,0.5795623202768765
-91,"/Imaging/two_cell_asymmetry/movies/nop1/220421_nwg192_36hrnop1_tom4,15,60/01",nwg192,R183-5A,36hrnop1,0.593696170700021
-92,"/Imaging/two_cell_asymmetry/movies/nop1/220421_nwg192_36hrnop1_tom4,15,60/04",nwg192,R183-5A,36hrnop1,0.5688155538645112
-93,"/Imaging/two_cell_asymmetry/movies/nop1/220421_nwg192_36hrnop1_tom4,15,60/06",nwg192,R183-5A,36hrnop1,0.5481305393143635
-94,"/Imaging/two_cell_asymmetry/movies/nop1/220421_nwg192_36hrnop1_tom4,15,60/08",nwg192,R183-5A,36hrnop1,0.5675736590803109
-95,"/Imaging/two_cell_asymmetry/movies/nop1/220421_nwg240_36hrnop1_tom4,15,60/00",nwg240,C56S,36hrnop1,0.5358286921542904
-96,"/Imaging/two_cell_asymmetry/movies/nop1/220421_nwg240_36hrnop1_tom4,15,60/05",nwg240,C56S,36hrnop1,0.5236854803076711
-97,"/Imaging/two_cell_asymmetry/movies/nop1/220421_nwg240_36hrnop1_tom4,15,60/07",nwg240,C56S,36hrnop1,0.5158847366430243
-98,"/Imaging/two_cell_asymmetry/movies/nop1/220421_nwg338_36hrnop1_tom4,15,60/00",nwg338,L109R,36hrnop1,0.5513123025488359
-99,"/Imaging/two_cell_asymmetry/movies/nop1/220421_nwg376_36hrnop1_tom4,15,60/03",nwg376,GCN4,36hrnop1,0.5880153330119369
-100,"/Imaging/two_cell_asymmetry/movies/nop1/220421_nwg376_36hrnop1_tom4,15,60/05",nwg376,GCN4,36hrnop1,0.6162166474951588
-101,"/Imaging/two_cell_asymmetry/movies/nop1/220421_nwg376_36hrnop1_tom4,15,60/06",nwg376,GCN4,36hrnop1,0.6022386075311447
-102,"/Imaging/two_cell_asymmetry/movies/nop1/220421_nwg398_36hrnop1_tom4,15,60/01",nwg398,"L109R, GCN4",36hrnop1,0.5392210484790165
-103,"/Imaging/two_cell_asymmetry/movies/nop1/220421_nwg398_36hrnop1_tom4,15,60/03",nwg398,"L109R, GCN4",36hrnop1,0.5382238161566566
-104,"/Imaging/two_cell_asymmetry/movies/nop1/220421_nwg398_36hrnop1_tom4,15,60/07",nwg398,"L109R, GCN4",36hrnop1,0.569831084146597
-105,"/Imaging/two_cell_asymmetry/movies/nop1/220421_nwg398_36hrnop1_tom4,15,60/08",nwg398,"L109R, GCN4",36hrnop1,0.5301465848556046
-106,"/Imaging/two_cell_asymmetry/movies/nop1/220421_nwg398_36hrnop1_tom4,15,60/09",nwg398,"L109R, GCN4",36hrnop1,0.5889592056111119
+0,"/Imaging/two_cell_asymmetry/movies/ctrl/220421_lp637_ctrl_tom4,15,60/00",lp637,WT,ctrl,0.5537995459072117
+1,"/Imaging/two_cell_asymmetry/movies/ctrl/220421_lp637_ctrl_tom4,15,60/01",lp637,WT,ctrl,0.5521279837117156
+2,"/Imaging/two_cell_asymmetry/movies/ctrl/220421_lp637_ctrl_tom4,15,60/03",lp637,WT,ctrl,0.5784691305618068
+3,"/Imaging/two_cell_asymmetry/movies/ctrl/220421_lp637_ctrl_tom4,15,60/04",lp637,WT,ctrl,0.5717605878487405
+4,"/Imaging/two_cell_asymmetry/movies/ctrl/220421_lp637_ctrl_tom4,15,60/10",lp637,WT,ctrl,0.5429327944508201
+5,"/Imaging/two_cell_asymmetry/movies/ctrl/220421_nwg192_ctrl_tom4,15,60/00",nwg192,R183-5A,ctrl,0.5763040181608369
+6,"/Imaging/two_cell_asymmetry/movies/ctrl/220421_nwg192_ctrl_tom4,15,60/01",nwg192,R183-5A,ctrl,0.5581049405208924
+7,"/Imaging/two_cell_asymmetry/movies/ctrl/220421_nwg192_ctrl_tom4,15,60/03",nwg192,R183-5A,ctrl,0.5938592912739735
+8,"/Imaging/two_cell_asymmetry/movies/ctrl/220421_nwg192_ctrl_tom4,15,60/04",nwg192,R183-5A,ctrl,0.5833272646740311
+9,"/Imaging/two_cell_asymmetry/movies/ctrl/220421_nwg192_ctrl_tom4,15,60/06",nwg192,R183-5A,ctrl,0.5661760657086349
+10,"/Imaging/two_cell_asymmetry/movies/ctrl/220423_nwg240_ctrl_tom4,15,60/00",nwg240,C56S,ctrl,0.5610188415351139
+11,"/Imaging/two_cell_asymmetry/movies/ctrl/220423_nwg240_ctrl_tom4,15,60/01",nwg240,C56S,ctrl,0.5365651175629373
+12,"/Imaging/two_cell_asymmetry/movies/ctrl/220423_nwg240_ctrl_tom4,15,60/04",nwg240,C56S,ctrl,0.5409810060983491
+13,"/Imaging/two_cell_asymmetry/movies/ctrl/220423_nwg240_ctrl_tom4,15,60/05",nwg240,C56S,ctrl,0.5662603182637038
+14,"/Imaging/two_cell_asymmetry/movies/ctrl/220423_nwg240_ctrl_tom4,15,60/08",nwg240,C56S,ctrl,0.55585494957651
+15,"/Imaging/two_cell_asymmetry/movies/ctrl/220423_nwg338_ctrl_tom4,15,60/01",nwg338,L109R,ctrl,0.5794788596018544
+16,"/Imaging/two_cell_asymmetry/movies/ctrl/220423_nwg338_ctrl_tom4,15,60/04",nwg338,L109R,ctrl,0.5622387012004132
+17,"/Imaging/two_cell_asymmetry/movies/ctrl/220423_nwg338_ctrl_tom4,15,60/06",nwg338,L109R,ctrl,0.5612002293048943
+18,"/Imaging/two_cell_asymmetry/movies/ctrl/220423_nwg338_ctrl_tom4,15,60/07",nwg338,L109R,ctrl,0.5723967759259339
+19,"/Imaging/two_cell_asymmetry/movies/ctrl/220423_nwg338_ctrl_tom4,15,60/08",nwg338,L109R,ctrl,0.5557907126258861
+20,"/Imaging/two_cell_asymmetry/movies/ctrl/220423_nwg376_ctrl_tom4,15,60/02",nwg376,GCN4,ctrl,0.5808191731693607
+21,"/Imaging/two_cell_asymmetry/movies/ctrl/220423_nwg376_ctrl_tom4,15,60/03",nwg376,GCN4,ctrl,0.5946149687361676
+22,"/Imaging/two_cell_asymmetry/movies/ctrl/220423_nwg376_ctrl_tom4,15,60/07",nwg376,GCN4,ctrl,0.56553205906398
+23,"/Imaging/two_cell_asymmetry/movies/ctrl/220423_nwg398_ctrl_tom4,15,60/00",nwg398,"L109R, GCN4",ctrl,0.5753190867016336
+24,"/Imaging/two_cell_asymmetry/movies/ctrl/220423_nwg398_ctrl_tom4,15,60/02",nwg398,"L109R, GCN4",ctrl,0.5814293619706801
+25,"/Imaging/two_cell_asymmetry/movies/ctrl/220423_nwg398_ctrl_tom4,15,60/05",nwg398,"L109R, GCN4",ctrl,0.5621250746572272
+26,"/Imaging/two_cell_asymmetry/movies/ctrl/220423_nwg398_ctrl_tom4,15,60/06",nwg398,"L109R, GCN4",ctrl,0.5317357180846993
+27,"/Imaging/two_cell_asymmetry/movies/ctrl/220423_nwg398_ctrl_tom4,15,60/09",nwg398,"L109R, GCN4",ctrl,0.588916956349366
+28,"/Imaging/two_cell_asymmetry/movies/nop1/220414_lp637_36hrnop1_tom4,15,60/02",lp637,WT,36hrnop1,0.5705157631663763
+29,"/Imaging/two_cell_asymmetry/movies/nop1/220414_lp637_36hrnop1_tom4,15,60/03",lp637,WT,36hrnop1,0.5573602854006254
+30,"/Imaging/two_cell_asymmetry/movies/nop1/220414_nwg192_36hrnop1_tom4,15,60/04",nwg192,R183-5A,36hrnop1,0.5748719520669978
+31,"/Imaging/two_cell_asymmetry/movies/nop1/220414_nwg240_36hrnop1_tom4,15,60/00",nwg240,C56S,36hrnop1,0.48984585938289726
+32,"/Imaging/two_cell_asymmetry/movies/nop1/220414_nwg240_36hrnop1_tom4,15,60/01",nwg240,C56S,36hrnop1,0.4927539810372316
+33,"/Imaging/two_cell_asymmetry/movies/nop1/220414_nwg240_36hrnop1_tom4,15,60/03",nwg240,C56S,36hrnop1,0.4597105968103498
+34,"/Imaging/two_cell_asymmetry/movies/nop1/220414_nwg338_36hrnop1_tom4,15,60/00",nwg338,L109R,36hrnop1,0.5511600397877341
+35,"/Imaging/two_cell_asymmetry/movies/nop1/220414_nwg338_36hrnop1_tom4,15,60/01",nwg338,L109R,36hrnop1,0.4851991384253222
+36,"/Imaging/two_cell_asymmetry/movies/nop1/220414_nwg338_36hrnop1_tom4,15,60/05",nwg338,L109R,36hrnop1,0.5480149813013144
+37,"/Imaging/two_cell_asymmetry/movies/nop1/220414_nwg338_36hrnop1_tom4,15,60/06",nwg338,L109R,36hrnop1,0.5025320031957848
+38,"/Imaging/two_cell_asymmetry/movies/nop1/220414_nwg376_36hrnop1_tom4,15,60/00",nwg376,GCN4,36hrnop1,0.5830269834721612
+39,"/Imaging/two_cell_asymmetry/movies/nop1/220414_nwg376_36hrnop1_tom4,15,60/01",nwg376,GCN4,36hrnop1,0.5620285147829809
+40,"/Imaging/two_cell_asymmetry/movies/nop1/220421_lp637_36hrnop1_tom4,15,60/04",lp637,WT,36hrnop1,0.5795623202768765
+41,"/Imaging/two_cell_asymmetry/movies/nop1/220421_nwg192_36hrnop1_tom4,15,60/01",nwg192,R183-5A,36hrnop1,0.593696170700021
+42,"/Imaging/two_cell_asymmetry/movies/nop1/220421_nwg192_36hrnop1_tom4,15,60/04",nwg192,R183-5A,36hrnop1,0.5688155538645112
+43,"/Imaging/two_cell_asymmetry/movies/nop1/220421_nwg192_36hrnop1_tom4,15,60/06",nwg192,R183-5A,36hrnop1,0.5481305393143635
+44,"/Imaging/two_cell_asymmetry/movies/nop1/220421_nwg192_36hrnop1_tom4,15,60/08",nwg192,R183-5A,36hrnop1,0.5675736590803109
+45,"/Imaging/two_cell_asymmetry/movies/nop1/220421_nwg240_36hrnop1_tom4,15,60/00",nwg240,C56S,36hrnop1,0.5358286921542904
+46,"/Imaging/two_cell_asymmetry/movies/nop1/220421_nwg240_36hrnop1_tom4,15,60/05",nwg240,C56S,36hrnop1,0.5236854803076711
+47,"/Imaging/two_cell_asymmetry/movies/nop1/220421_nwg240_36hrnop1_tom4,15,60/07",nwg240,C56S,36hrnop1,0.5158847366430243
+48,"/Imaging/two_cell_asymmetry/movies/nop1/220421_nwg338_36hrnop1_tom4,15,60/00",nwg338,L109R,36hrnop1,0.5513123025488359
+49,"/Imaging/two_cell_asymmetry/movies/nop1/220421_nwg376_36hrnop1_tom4,15,60/03",nwg376,GCN4,36hrnop1,0.5880153330119369
+50,"/Imaging/two_cell_asymmetry/movies/nop1/220421_nwg376_36hrnop1_tom4,15,60/05",nwg376,GCN4,36hrnop1,0.6162166474951588
+51,"/Imaging/two_cell_asymmetry/movies/nop1/220421_nwg376_36hrnop1_tom4,15,60/06",nwg376,GCN4,36hrnop1,0.6022386075311447
+52,"/Imaging/two_cell_asymmetry/movies/nop1/220421_nwg398_36hrnop1_tom4,15,60/01",nwg398,"L109R, GCN4",36hrnop1,0.5392210484790165
+53,"/Imaging/two_cell_asymmetry/movies/nop1/220421_nwg398_36hrnop1_tom4,15,60/03",nwg398,"L109R, GCN4",36hrnop1,0.5382238161566566
+54,"/Imaging/two_cell_asymmetry/movies/nop1/220421_nwg398_36hrnop1_tom4,15,60/07",nwg398,"L109R, GCN4",36hrnop1,0.569831084146597
+55,"/Imaging/two_cell_asymmetry/movies/nop1/220421_nwg398_36hrnop1_tom4,15,60/08",nwg398,"L109R, GCN4",36hrnop1,0.5301465848556046
+56,"/Imaging/two_cell_asymmetry/movies/nop1/220421_nwg398_36hrnop1_tom4,15,60/09",nwg398,"L109R, GCN4",36hrnop1,0.5889592056111119
+57,"/Imaging/two_cell_asymmetry/stills/ctrl/220421_lp637_ctrl_tom4,15,60/02t",lp637,WT,ctrl,0.6137235526218915
+58,"/Imaging/two_cell_asymmetry/stills/ctrl/220421_lp637_ctrl_tom4,15,60/05t",lp637,WT,ctrl,0.5672108571961715
+59,"/Imaging/two_cell_asymmetry/stills/ctrl/220421_lp637_ctrl_tom4,15,60/06t",lp637,WT,ctrl,0.5728579287764286
+60,"/Imaging/two_cell_asymmetry/stills/ctrl/220421_lp637_ctrl_tom4,15,60/08t",lp637,WT,ctrl,0.5719751670943428
+61,"/Imaging/two_cell_asymmetry/stills/ctrl/220421_lp637_ctrl_tom4,15,60/09t",lp637,WT,ctrl,0.5831839782945923
+62,"/Imaging/two_cell_asymmetry/stills/ctrl/220421_nwg192_ctrl_tom4,15,60/02t",nwg192,R183-5A,ctrl,0.5800975753625588
+63,"/Imaging/two_cell_asymmetry/stills/ctrl/220421_nwg192_ctrl_tom4,15,60/05t",nwg192,R183-5A,ctrl,0.5813149753938207
+64,"/Imaging/two_cell_asymmetry/stills/ctrl/220421_nwg192_ctrl_tom4,15,60/07t",nwg192,R183-5A,ctrl,0.5794351436791075
+65,"/Imaging/two_cell_asymmetry/stills/ctrl/220423_nwg240_ctrl_tom4,15,60/02t",nwg240,C56S,ctrl,0.5363492305570001
+66,"/Imaging/two_cell_asymmetry/stills/ctrl/220423_nwg240_ctrl_tom4,15,60/06t",nwg240,C56S,ctrl,0.5660916395143979
+67,"/Imaging/two_cell_asymmetry/stills/ctrl/220423_nwg240_ctrl_tom4,15,60/07t",nwg240,C56S,ctrl,0.5668691204259175
+68,"/Imaging/two_cell_asymmetry/stills/ctrl/220423_nwg240_ctrl_tom4,15,60/09t",nwg240,C56S,ctrl,0.5792787656039413
+69,"/Imaging/two_cell_asymmetry/stills/ctrl/220423_nwg240_ctrl_tom4,15,60/10t",nwg240,C56S,ctrl,0.5533101284365177
+70,"/Imaging/two_cell_asymmetry/stills/ctrl/220423_nwg338_ctrl_tom4,15,60/02t",nwg338,L109R,ctrl,0.5848880550773249
+71,"/Imaging/two_cell_asymmetry/stills/ctrl/220423_nwg338_ctrl_tom4,15,60/03t",nwg338,L109R,ctrl,0.5662338818874563
+72,"/Imaging/two_cell_asymmetry/stills/ctrl/220423_nwg376_ctrl_tom4,15,60/00t",nwg376,GCN4,ctrl,0.6006338104062047
+73,"/Imaging/two_cell_asymmetry/stills/ctrl/220423_nwg376_ctrl_tom4,15,60/04t",nwg376,GCN4,ctrl,0.5699522653410936
+74,"/Imaging/two_cell_asymmetry/stills/ctrl/220423_nwg376_ctrl_tom4,15,60/05t",nwg376,GCN4,ctrl,0.5887291648003835
+75,"/Imaging/two_cell_asymmetry/stills/ctrl/220423_nwg398_ctrl_tom4,15,60/01t",nwg398,"L109R, GCN4",ctrl,0.5822570183487928
+76,"/Imaging/two_cell_asymmetry/stills/ctrl/220423_nwg398_ctrl_tom4,15,60/03t",nwg398,"L109R, GCN4",ctrl,0.5710280948608687
+77,"/Imaging/two_cell_asymmetry/stills/ctrl/220423_nwg398_ctrl_tom4,15,60/04t",nwg398,"L109R, GCN4",ctrl,0.5757816418605005
+78,"/Imaging/two_cell_asymmetry/stills/ctrl/220423_nwg398_ctrl_tom4,15,60/07t",nwg398,"L109R, GCN4",ctrl,0.5715519807189595
+79,"/Imaging/two_cell_asymmetry/stills/ctrl/220423_nwg398_ctrl_tom4,15,60/08t",nwg398,"L109R, GCN4",ctrl,0.5596643417934148
+80,"/Imaging/two_cell_asymmetry/stills/nop1/220421_lp637_36hrnop1_tom4,15,60/05t",lp637,WT,36hrnop1,0.5735847723898533
+81,"/Imaging/two_cell_asymmetry/stills/nop1/220421_lp637_36hrnop1_tom4,15,60/06t",lp637,WT,36hrnop1,0.5920632327302253
+82,"/Imaging/two_cell_asymmetry/stills/nop1/220421_nwg192_36hrnop1_tom4,15,60/00t",nwg192,R183-5A,36hrnop1,0.6010976140455176
+83,"/Imaging/two_cell_asymmetry/stills/nop1/220421_nwg192_36hrnop1_tom4,15,60/02t",nwg192,R183-5A,36hrnop1,0.5684783553101369
+84,"/Imaging/two_cell_asymmetry/stills/nop1/220421_nwg192_36hrnop1_tom4,15,60/03t",nwg192,R183-5A,36hrnop1,0.5661990816830231
+85,"/Imaging/two_cell_asymmetry/stills/nop1/220421_nwg192_36hrnop1_tom4,15,60/05t",nwg192,R183-5A,36hrnop1,0.5750403423689795
+86,"/Imaging/two_cell_asymmetry/stills/nop1/220421_nwg192_36hrnop1_tom4,15,60/07t",nwg192,R183-5A,36hrnop1,0.5782619197010681
+87,"/Imaging/two_cell_asymmetry/stills/nop1/220421_nwg192_36hrnop1_tom4,15,60/09t",nwg192,R183-5A,36hrnop1,0.5935156282596568
+88,"/Imaging/two_cell_asymmetry/stills/nop1/220421_nwg240_36hrnop1_tom4,15,60/01t",nwg240,C56S,36hrnop1,0.47869426101628776
+89,"/Imaging/two_cell_asymmetry/stills/nop1/220421_nwg240_36hrnop1_tom4,15,60/04t",nwg240,C56S,36hrnop1,0.5158748427294806
+90,"/Imaging/two_cell_asymmetry/stills/nop1/220421_nwg240_36hrnop1_tom4,15,60/06t",nwg240,C56S,36hrnop1,0.5044281085310834
+91,"/Imaging/two_cell_asymmetry/stills/nop1/220421_nwg338_36hrnop1_tom4,15,60/01t",nwg338,L109R,36hrnop1,0.509678267915331
+92,"/Imaging/two_cell_asymmetry/stills/nop1/220421_nwg338_36hrnop1_tom4,15,60/02t",nwg338,L109R,36hrnop1,0.5000139196500768
+93,"/Imaging/two_cell_asymmetry/stills/nop1/220421_nwg376_36hrnop1_tom4,15,60/00t",nwg376,GCN4,36hrnop1,0.589992532621194
+94,"/Imaging/two_cell_asymmetry/stills/nop1/220421_nwg376_36hrnop1_tom4,15,60/01t",nwg376,GCN4,36hrnop1,0.5834514144973204
+95,"/Imaging/two_cell_asymmetry/stills/nop1/220421_nwg376_36hrnop1_tom4,15,60/04t",nwg376,GCN4,36hrnop1,0.582763456199793
+96,"/Imaging/two_cell_asymmetry/stills/nop1/220421_nwg376_36hrnop1_tom4,15,60/07t",nwg376,GCN4,36hrnop1,0.6064782612259302
+97,"/Imaging/two_cell_asymmetry/stills/nop1/220421_nwg376_36hrnop1_tom4,15,60/08t",nwg376,GCN4,36hrnop1,0.6028203884539431
+98,"/Imaging/two_cell_asymmetry/stills/nop1/220421_nwg376_36hrnop1_tom4,15,60/10t",nwg376,GCN4,36hrnop1,0.5837142847872543
+99,"/Imaging/two_cell_asymmetry/stills/nop1/220421_nwg376_36hrnop1_tom4,15,60/11t",nwg376,GCN4,36hrnop1,0.6093416487804103
+100,"/Imaging/two_cell_asymmetry/stills/nop1/220421_nwg376_36hrnop1_tom4,15,60/12t",nwg376,GCN4,36hrnop1,0.5768767042384007
+101,"/Imaging/two_cell_asymmetry/stills/nop1/220421_nwg398_36hrnop1_tom4,15,60/02t",nwg398,"L109R, GCN4",36hrnop1,0.5720187819458122
+102,"/Imaging/two_cell_asymmetry/stills/nop1/220421_nwg398_36hrnop1_tom4,15,60/04t",nwg398,"L109R, GCN4",36hrnop1,0.5700024481946334
+103,"/Imaging/two_cell_asymmetry/stills/nop1/220421_nwg398_36hrnop1_tom4,15,60/05t",nwg398,"L109R, GCN4",36hrnop1,0.5471672061141406
+104,"/Imaging/two_cell_asymmetry/stills/nop1/220421_nwg398_36hrnop1_tom4,15,60/06t",nwg398,"L109R, GCN4",36hrnop1,0.5576997319730665
+105,"/Imaging/two_cell_asymmetry/stills/nop1/220421_nwg398_36hrnop1_tom4,15,60/10t",nwg398,"L109R, GCN4",36hrnop1,0.5569425372914562
+106,"/Imaging/two_cell_asymmetry/stills/nop1/220421_nwg398_36hrnop1_tom4,15,60/11t",nwg398,"L109R, GCN4",36hrnop1,0.5397098649826324
